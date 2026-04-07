@@ -1,0 +1,12 @@
+{
+  "name": "sage-library",
+  "version": "1.0.0",
+  "description": "A self-hosted epub library for AI companions",
+  "type": "module",
+  "scripts": {
+    "process": "node scripts/process-books.mjs"
+  },
+  "dependencies": {
+    "epub2": "^3.0.2"
+  }
+}

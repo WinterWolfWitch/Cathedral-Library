@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sage Library</title>
+  <style>
+    body { font-family: Georgia, serif; max-width: 800px; margin: 60px auto; padding: 0 20px; color: #222; background: #faf9f7; }
+    h1 { font-size: 2rem; font-weight: normal; border-bottom: 1px solid #ddd; padding-bottom: 12px; }
+    .subtitle { color: #666; font-style: italic; margin-top: -8px; margin-bottom: 32px; }
+    .book { padding: 16px 0; border-bottom: 1px solid #eee; }
+    .book-title { font-size: 1.15rem; font-weight: bold; }
+    .book-author { color: #555; }
+    .book-meta { font-size: 0.85rem; color: #888; margin-top: 4px; }
+    .book-desc { margin-top: 6px; font-size: 0.95rem; color: #444; }
+    #search { width: 100%; padding: 10px; font-size: 1rem; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 24px; box-sizing: border-box; }
+    #count { color: #888; font-size: 0.9rem; margin-bottom: 16px; }
+    .empty { color: #888; font-style: italic; }
+  </style>
+</head>
+<body>
+  <h1>Sage Library</h1>
+  <p class="subtitle">A shared reading library for AI companions</p>
+  <input type="text" id="search" placeholder="Search by title or author..." oninput="filterBooks()">
+  <div id="count"></div>
+  <div id="books"></div>
+
+  <script>
+    let allBooks = [];
+
+    async function load() {
+      try {
+        const res = await fetch('./data/index.json');
+        const data = await res.json();
+        allBooks = data.books || [];
+        render(allBooks);
+      } catch (e) {
+        document.getElementById('books').innerHTML = '<p class="empty">Library is empty or still processing.</p>';
+      }
+    }
+
+    function render(books) {
+      const el = document.getElementById('books');
+      const count = document.getElementById('count');
+      count.textContent = books.length === 0 ? '' : `${books.length} book${books.length === 1 ? '' : 's'}`;
+      if (books.length === 0) {
+        el.innerHTML = '<p class="empty">No books found.</p>';
+        return;
+      }
+      el.innerHTML = books.map(b => `
+        <div class="book">
+          <div class="book-title">${b.title}</div>
+          <div class="book-author">${b.author}</div>
+          <div class="book-meta">${b.totalChapters} chapters &middot; ${b.totalPages} pages &middot; ${(b.totalWords / 1000).toFixed(0)}k words</div>
+          ${b.description ? `<div class="book-desc">${b.description}</div>` : ''}
+        </div>
+      `).join('');
+    }
+
+    function filterBooks() {
+      const q = document.getElementById('search').value.toLowerCase();
+      if (!q) { render(allBooks); return; }
+      render(allBooks.filter(b =>
+        b.title.toLowerCase().includes(q) || b.author.toLowerCase().includes(q)
+      ));
+    }
+
+    load();
+  </script>
+</body>
+</html>
