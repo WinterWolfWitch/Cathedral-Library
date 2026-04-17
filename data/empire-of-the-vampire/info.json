@@ -1,0 +1,775 @@
+{
+  "id": "empire-of-the-vampire",
+  "title": "Empire of the Vampire",
+  "author": "Jay Kristoff",
+  "description": "From the Sunday Times bestselling and award-winning author of the Nevernight Chronicle, comes this masterful new series. Featuring the darkly beautiful illustrations of Bon Orthwick (@monolimeart). 'This book is bloody brilliant' — V.E Schwab, NEW YORK TIMES bestselling author of THE INVISIBLE LIFE OF ADDIE LARUE It has been twenty-seven long years since the last sunrise. For nearly three decades, vampires have waged war against humanity; building their eternal empire even as they tear down our ",
+  "filename": "Empire of the Vampire by Jay Kristoff.epub",
+  "totalWords": 244264,
+  "totalPages": 245,
+  "totalChapters": 109,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright",
+      "wordCount": 234,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Contents",
+      "wordCount": 581,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 265,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Sunset",
+      "wordCount": 3571,
+      "pageCount": 4,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter I: Of Apples and Trees",
+      "wordCount": 2552,
+      "pageCount": 3,
+      "startPage": 8
+    },
+    {
+      "index": 6,
+      "title": "Chapter II: The Beginning of the End",
+      "wordCount": 2376,
+      "pageCount": 3,
+      "startPage": 11
+    },
+    {
+      "index": 7,
+      "title": "Chapter III: The Colour of Want",
+      "wordCount": 3057,
+      "pageCount": 4,
+      "startPage": 14
+    },
+    {
+      "index": 8,
+      "title": "Chapter IV: Lamb to Slaughter",
+      "wordCount": 1711,
+      "pageCount": 2,
+      "startPage": 18
+    },
+    {
+      "index": 9,
+      "title": "Chapter V: Fire in the Night",
+      "wordCount": 3401,
+      "pageCount": 4,
+      "startPage": 20
+    },
+    {
+      "index": 10,
+      "title": "Chapter VI: A Monastery in the Sky",
+      "wordCount": 3633,
+      "pageCount": 4,
+      "startPage": 24
+    },
+    {
+      "index": 11,
+      "title": "Chapter VII: Shaped Like Heartbreak",
+      "wordCount": 2988,
+      "pageCount": 3,
+      "startPage": 28
+    },
+    {
+      "index": 12,
+      "title": "Chapter VIII: The Red Rite",
+      "wordCount": 2706,
+      "pageCount": 3,
+      "startPage": 31
+    },
+    {
+      "index": 13,
+      "title": "Chapter IX: Sweetest and Darkest",
+      "wordCount": 3310,
+      "pageCount": 4,
+      "startPage": 34
+    },
+    {
+      "index": 14,
+      "title": "Chapter X: Blood of the Frail",
+      "wordCount": 1770,
+      "pageCount": 2,
+      "startPage": 38
+    },
+    {
+      "index": 15,
+      "title": "Chapter XI: How Stories Work",
+      "wordCount": 2296,
+      "pageCount": 3,
+      "startPage": 40
+    },
+    {
+      "index": 16,
+      "title": "Chapter I: Injustice",
+      "wordCount": 1933,
+      "pageCount": 2,
+      "startPage": 43
+    },
+    {
+      "index": 17,
+      "title": "Chapter II: The Three Ways",
+      "wordCount": 1647,
+      "pageCount": 2,
+      "startPage": 45
+    },
+    {
+      "index": 18,
+      "title": "Chapter III: Small Blessings",
+      "wordCount": 846,
+      "pageCount": 1,
+      "startPage": 47
+    },
+    {
+      "index": 19,
+      "title": "Chapter IV: On the Perils of Matrimony",
+      "wordCount": 1870,
+      "pageCount": 2,
+      "startPage": 48
+    },
+    {
+      "index": 20,
+      "title": "Chapter V: Divine Providence",
+      "wordCount": 2406,
+      "pageCount": 3,
+      "startPage": 50
+    },
+    {
+      "index": 21,
+      "title": "Chapter VI: Promises, Promises",
+      "wordCount": 2369,
+      "pageCount": 3,
+      "startPage": 53
+    },
+    {
+      "index": 22,
+      "title": "Chapter VII: Stars in a Yesterday Sky",
+      "wordCount": 770,
+      "pageCount": 1,
+      "startPage": 56
+    },
+    {
+      "index": 23,
+      "title": "Chapter VIII: At the Gates",
+      "wordCount": 2096,
+      "pageCount": 3,
+      "startPage": 57
+    },
+    {
+      "index": 24,
+      "title": "Chapter IX: The Beast of Vellene",
+      "wordCount": 2500,
+      "pageCount": 3,
+      "startPage": 60
+    },
+    {
+      "index": 25,
+      "title": "Chapter X: Red Snow",
+      "wordCount": 2848,
+      "pageCount": 3,
+      "startPage": 63
+    },
+    {
+      "index": 26,
+      "title": "Chapter XI: Out of the Storm",
+      "wordCount": 2483,
+      "pageCount": 3,
+      "startPage": 66
+    },
+    {
+      "index": 27,
+      "title": "Chapter XII: Two Glasses",
+      "wordCount": 1446,
+      "pageCount": 2,
+      "startPage": 69
+    },
+    {
+      "index": 28,
+      "title": "Chapter I: Auspicious Beginnings",
+      "wordCount": 2991,
+      "pageCount": 3,
+      "startPage": 71
+    },
+    {
+      "index": 29,
+      "title": "Chapter II: The Five Laws",
+      "wordCount": 2182,
+      "pageCount": 3,
+      "startPage": 74
+    },
+    {
+      "index": 30,
+      "title": "Chapter III: Hunters and Prey",
+      "wordCount": 3310,
+      "pageCount": 4,
+      "startPage": 77
+    },
+    {
+      "index": 31,
+      "title": "Chapter IV: House of the Dead",
+      "wordCount": 3821,
+      "pageCount": 4,
+      "startPage": 81
+    },
+    {
+      "index": 32,
+      "title": "Chapter V: A Beautiful View",
+      "wordCount": 2369,
+      "pageCount": 3,
+      "startPage": 85
+    },
+    {
+      "index": 33,
+      "title": "Chapter VI: The Scarlet Foundry",
+      "wordCount": 2882,
+      "pageCount": 3,
+      "startPage": 88
+    },
+    {
+      "index": 34,
+      "title": "Chapter VII: A Library of Ghosts",
+      "wordCount": 3455,
+      "pageCount": 4,
+      "startPage": 91
+    },
+    {
+      "index": 35,
+      "title": "Chapter VIII: Dealing With the Devil",
+      "wordCount": 2395,
+      "pageCount": 3,
+      "startPage": 95
+    },
+    {
+      "index": 36,
+      "title": "Chapter IX: Blood on the Star",
+      "wordCount": 1844,
+      "pageCount": 2,
+      "startPage": 98
+    },
+    {
+      "index": 37,
+      "title": "Chapter X: An Errant Speck of Flotsam",
+      "wordCount": 3257,
+      "pageCount": 4,
+      "startPage": 100
+    },
+    {
+      "index": 38,
+      "title": "Chapter XI: Silver Heels",
+      "wordCount": 2646,
+      "pageCount": 3,
+      "startPage": 104
+    },
+    {
+      "index": 39,
+      "title": "Chapter XII: A Letter from Home",
+      "wordCount": 2786,
+      "pageCount": 3,
+      "startPage": 107
+    },
+    {
+      "index": 40,
+      "title": "Chapter XIII: Every Shade of Bloody",
+      "wordCount": 2317,
+      "pageCount": 3,
+      "startPage": 110
+    },
+    {
+      "index": 41,
+      "title": "Chapter I: Deep and Deeper",
+      "wordCount": 4084,
+      "pageCount": 5,
+      "startPage": 113
+    },
+    {
+      "index": 42,
+      "title": "Chapter II: Godthanks",
+      "wordCount": 1773,
+      "pageCount": 2,
+      "startPage": 118
+    },
+    {
+      "index": 43,
+      "title": "Chapter III: Monsters Who Wear the Skins of Men",
+      "wordCount": 1324,
+      "pageCount": 2,
+      "startPage": 120
+    },
+    {
+      "index": 44,
+      "title": "Chapter IV: One Capitaine, One Course",
+      "wordCount": 1561,
+      "pageCount": 2,
+      "startPage": 122
+    },
+    {
+      "index": 45,
+      "title": "Chapter V: A Hard Thing to Come By",
+      "wordCount": 3622,
+      "pageCount": 4,
+      "startPage": 124
+    },
+    {
+      "index": 46,
+      "title": "Chapter VI: The Plan",
+      "wordCount": 2407,
+      "pageCount": 3,
+      "startPage": 128
+    },
+    {
+      "index": 47,
+      "title": "Chapter VII: The Battle of Winfael",
+      "wordCount": 2369,
+      "pageCount": 3,
+      "startPage": 131
+    },
+    {
+      "index": 48,
+      "title": "Chapter VIII: From Holy Cup",
+      "wordCount": 1933,
+      "pageCount": 2,
+      "startPage": 134
+    },
+    {
+      "index": 49,
+      "title": "Chapter IX: Two Words",
+      "wordCount": 552,
+      "pageCount": 1,
+      "startPage": 136
+    },
+    {
+      "index": 50,
+      "title": "Chapter X: No Flower Blooms",
+      "wordCount": 3961,
+      "pageCount": 4,
+      "startPage": 137
+    },
+    {
+      "index": 51,
+      "title": "Chapter XI: A Black Crown",
+      "wordCount": 3124,
+      "pageCount": 4,
+      "startPage": 141
+    },
+    {
+      "index": 52,
+      "title": "Chapter XII: Old Monarchs, New Sovereigns",
+      "wordCount": 3341,
+      "pageCount": 4,
+      "startPage": 145
+    },
+    {
+      "index": 53,
+      "title": "Chapter XIII: Sorrow and Solace",
+      "wordCount": 1990,
+      "pageCount": 2,
+      "startPage": 149
+    },
+    {
+      "index": 54,
+      "title": "Chapter XIV: Liathe",
+      "wordCount": 4021,
+      "pageCount": 5,
+      "startPage": 151
+    },
+    {
+      "index": 55,
+      "title": "Chapter XV: A Prince of Forever",
+      "wordCount": 5288,
+      "pageCount": 6,
+      "startPage": 156
+    },
+    {
+      "index": 56,
+      "title": "Chapter XVI: The One Thing",
+      "wordCount": 974,
+      "pageCount": 1,
+      "startPage": 162
+    },
+    {
+      "index": 57,
+      "title": "Chapter XVII: Remembrance",
+      "wordCount": 1072,
+      "pageCount": 2,
+      "startPage": 163
+    },
+    {
+      "index": 58,
+      "title": "Chapter I: Truth Beyond Truth",
+      "wordCount": 2720,
+      "pageCount": 3,
+      "startPage": 165
+    },
+    {
+      "index": 59,
+      "title": "Chapter II: Unwelcome Guests",
+      "wordCount": 1829,
+      "pageCount": 2,
+      "startPage": 168
+    },
+    {
+      "index": 60,
+      "title": "Chapter III: Trouble of a Different Flavour",
+      "wordCount": 1857,
+      "pageCount": 2,
+      "startPage": 170
+    },
+    {
+      "index": 61,
+      "title": "Chapter IV: Raven Child",
+      "wordCount": 2631,
+      "pageCount": 3,
+      "startPage": 172
+    },
+    {
+      "index": 62,
+      "title": "Chapter V: The Age of the Fall",
+      "wordCount": 3522,
+      "pageCount": 4,
+      "startPage": 175
+    },
+    {
+      "index": 63,
+      "title": "Chapter VI: Where Mortal Girls Fear to Tread",
+      "wordCount": 2152,
+      "pageCount": 3,
+      "startPage": 179
+    },
+    {
+      "index": 64,
+      "title": "Chapter VII: The Faithless",
+      "wordCount": 4026,
+      "pageCount": 5,
+      "startPage": 182
+    },
+    {
+      "index": 65,
+      "title": "Chapter VIII: Lionheart",
+      "wordCount": 2072,
+      "pageCount": 3,
+      "startPage": 187
+    },
+    {
+      "index": 66,
+      "title": "Chapter IX: Dressed for War",
+      "wordCount": 4106,
+      "pageCount": 5,
+      "startPage": 190
+    },
+    {
+      "index": 67,
+      "title": "Chapter X: The Sin Shared",
+      "wordCount": 2441,
+      "pageCount": 3,
+      "startPage": 195
+    },
+    {
+      "index": 68,
+      "title": "Chapter XI: Which You Will Be",
+      "wordCount": 1972,
+      "pageCount": 2,
+      "startPage": 198
+    },
+    {
+      "index": 69,
+      "title": "Chapter XII: Now Dance With Me",
+      "wordCount": 1977,
+      "pageCount": 2,
+      "startPage": 200
+    },
+    {
+      "index": 70,
+      "title": "Chapter XIII: Blood and Fire",
+      "wordCount": 2032,
+      "pageCount": 3,
+      "startPage": 202
+    },
+    {
+      "index": 71,
+      "title": "Chapter XIV: This Moment",
+      "wordCount": 1586,
+      "pageCount": 2,
+      "startPage": 205
+    },
+    {
+      "index": 72,
+      "title": "Chapter XV: In Red",
+      "wordCount": 1748,
+      "pageCount": 2,
+      "startPage": 207
+    },
+    {
+      "index": 73,
+      "title": "Chapter XVI: Last Son",
+      "wordCount": 1965,
+      "pageCount": 2,
+      "startPage": 209
+    },
+    {
+      "index": 74,
+      "title": "Chapter XVII: Sword of the Realm",
+      "wordCount": 3001,
+      "pageCount": 4,
+      "startPage": 211
+    },
+    {
+      "index": 75,
+      "title": "Chapter XVIII: A Story You Can Live",
+      "wordCount": 1835,
+      "pageCount": 2,
+      "startPage": 215
+    },
+    {
+      "index": 76,
+      "title": "Chapter XIX: On This Fire",
+      "wordCount": 1665,
+      "pageCount": 2,
+      "startPage": 217
+    },
+    {
+      "index": 77,
+      "title": "Chapter XX: Broken Glass",
+      "wordCount": 2058,
+      "pageCount": 3,
+      "startPage": 219
+    },
+    {
+      "index": 78,
+      "title": "Chapter I: Fear No Darkness",
+      "wordCount": 3368,
+      "pageCount": 4,
+      "startPage": 222
+    },
+    {
+      "index": 79,
+      "title": "Chapter II: A Once-Green Kingdom",
+      "wordCount": 909,
+      "pageCount": 1,
+      "startPage": 226
+    },
+    {
+      "index": 80,
+      "title": "Chapter III: Blame the Blacksmith",
+      "wordCount": 2774,
+      "pageCount": 3,
+      "startPage": 227
+    },
+    {
+      "index": 81,
+      "title": "Chapter IV: The Price",
+      "wordCount": 2682,
+      "pageCount": 3,
+      "startPage": 230
+    },
+    {
+      "index": 82,
+      "title": "Chapter V: Clever as Cats",
+      "wordCount": 1569,
+      "pageCount": 2,
+      "startPage": 233
+    },
+    {
+      "index": 83,
+      "title": "Chapter VI: Church Business",
+      "wordCount": 1704,
+      "pageCount": 2,
+      "startPage": 235
+    },
+    {
+      "index": 84,
+      "title": "Chapter VII: Bleeding But Unbroken",
+      "wordCount": 1750,
+      "pageCount": 2,
+      "startPage": 237
+    },
+    {
+      "index": 85,
+      "title": "Chapter VIII: Magik",
+      "wordCount": 2913,
+      "pageCount": 3,
+      "startPage": 239
+    },
+    {
+      "index": 86,
+      "title": "Chapter IX: A Shadow Moving Slow",
+      "wordCount": 559,
+      "pageCount": 1,
+      "startPage": 242
+    },
+    {
+      "index": 87,
+      "title": "Chapter X: Dim and Dimmer Still",
+      "wordCount": 3232,
+      "pageCount": 4,
+      "startPage": 243
+    },
+    {
+      "index": 88,
+      "title": "Chapter XI: Night and Knives",
+      "wordCount": 1454,
+      "pageCount": 2,
+      "startPage": 247
+    },
+    {
+      "index": 89,
+      "title": "Chapter XII: Everything Falling Apart",
+      "wordCount": 2790,
+      "pageCount": 3,
+      "startPage": 249
+    },
+    {
+      "index": 90,
+      "title": "Chapter XIII: Forward Not Backwards",
+      "wordCount": 1730,
+      "pageCount": 2,
+      "startPage": 252
+    },
+    {
+      "index": 91,
+      "title": "Chapter XIV: Château Aveléne",
+      "wordCount": 2120,
+      "pageCount": 3,
+      "startPage": 254
+    },
+    {
+      "index": 92,
+      "title": "Chapter XV: Sunshine and Pouring Rain",
+      "wordCount": 2680,
+      "pageCount": 3,
+      "startPage": 257
+    },
+    {
+      "index": 93,
+      "title": "Chapter XVI: Lord of Carrion",
+      "wordCount": 2270,
+      "pageCount": 3,
+      "startPage": 260
+    },
+    {
+      "index": 94,
+      "title": "Chapter XVII: A Shoulder to Cry On",
+      "wordCount": 1735,
+      "pageCount": 2,
+      "startPage": 263
+    },
+    {
+      "index": 95,
+      "title": "Chapter XVIII: The Worst Day",
+      "wordCount": 3036,
+      "pageCount": 4,
+      "startPage": 265
+    },
+    {
+      "index": 96,
+      "title": "Chapter XIX: Unmade",
+      "wordCount": 461,
+      "pageCount": 1,
+      "startPage": 269
+    },
+    {
+      "index": 97,
+      "title": "Chapter XX: A Promise in the Dark",
+      "wordCount": 896,
+      "pageCount": 1,
+      "startPage": 270
+    },
+    {
+      "index": 98,
+      "title": "Chapter XXI: All and Everything",
+      "wordCount": 1699,
+      "pageCount": 2,
+      "startPage": 271
+    },
+    {
+      "index": 99,
+      "title": "Chapter XXII: The Lion Rides",
+      "wordCount": 5174,
+      "pageCount": 6,
+      "startPage": 273
+    },
+    {
+      "index": 100,
+      "title": "Chapter XXIII: Réunion de Famille",
+      "wordCount": 2554,
+      "pageCount": 3,
+      "startPage": 279
+    },
+    {
+      "index": 101,
+      "title": "Chapter XXIV: This Endless Night",
+      "wordCount": 3817,
+      "pageCount": 4,
+      "startPage": 282
+    },
+    {
+      "index": 102,
+      "title": "Chapter XXV: Gentle as Starlight",
+      "wordCount": 96,
+      "pageCount": 1,
+      "startPage": 286
+    },
+    {
+      "index": 103,
+      "title": "Chapter XXVI: Broken Vows",
+      "wordCount": 1769,
+      "pageCount": 2,
+      "startPage": 287
+    },
+    {
+      "index": 104,
+      "title": "Chapter XXVII: A Fond Farewell",
+      "wordCount": 2287,
+      "pageCount": 3,
+      "startPage": 289
+    },
+    {
+      "index": 105,
+      "title": "Chapter XXVIII: Tomorrow and Tomorrow",
+      "wordCount": 1143,
+      "pageCount": 2,
+      "startPage": 292
+    },
+    {
+      "index": 106,
+      "title": "Dawn",
+      "wordCount": 243,
+      "pageCount": 1,
+      "startPage": 294
+    },
+    {
+      "index": 107,
+      "title": "Acknowledgements",
+      "wordCount": 203,
+      "pageCount": 1,
+      "startPage": 295
+    },
+    {
+      "index": 108,
+      "title": "Also by Jay Kristoff",
+      "wordCount": 39,
+      "pageCount": 1,
+      "startPage": 296
+    },
+    {
+      "index": 109,
+      "title": "About the Publisher",
+      "wordCount": 97,
+      "pageCount": 1,
+      "startPage": 297
+    }
+  ]
+}

@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "id": "a-man-rides-through",
+      "title": "A Man Rides Through",
+      "author": "Stephen R. Donaldson",
+      "description": "",
+      "totalWords": 256324,
+      "totalPages": 257,
+      "totalChapters": 31
+    },
+    {
       "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
@@ -26,6 +35,24 @@
       "totalWords": 207126,
       "totalPages": 208,
       "totalChapters": 58
+    },
+    {
+      "id": "empire-of-the-vampire",
+      "title": "Empire of the Vampire",
+      "author": "Jay Kristoff",
+      "description": "From the Sunday Times bestselling and award-winning author of the Nevernight Chronicle, comes this masterful new series. Featuring the darkly beautiful illustrations of Bon Orthwick (@monolimeart). 'This book is bloody brilliant' — V.E Schwab, NEW YORK TIMES bestselling author of THE INVISIBLE LIFE OF ADDIE LARUE It has been twenty-seven long years since the last sunrise. For nearly three decades, vampires have waged war against humanity; building their eternal empire even as they tear down our ",
+      "totalWords": 244264,
+      "totalPages": 245,
+      "totalChapters": 109
+    },
+    {
+      "id": "the-farthest-shore",
+      "title": "The Farthest Shore",
+      "author": "Ursula K. Le Guin",
+      "description": "The National Book Award–winning third novel in the renowned Earthsea series from Ursula K. LeGuin. In this third book in the Earthsea series, darkness threatens to overtake Earthsea: The world and its wizards are losing their magic. But Ged Sparrohawk—Archmage, wizard, and dragonlord—is determined to discover the source of this devastating loss. Aided by Enlad’s young Prince Arren, Ged embarks on a treacherous journey that will test their strength and will. Because to restore magic, the two warr",
+      "totalWords": 69180,
+      "totalPages": 70,
+      "totalChapters": 19
     },
     {
       "id": "godel-escher-bach-an-eternal-golden-braid",
@@ -73,6 +100,15 @@
       "totalChapters": 35
     },
     {
+      "id": "the-other-wind",
+      "title": "The Other Wind",
+      "author": "Ursula K. Le Guin",
+      "description": "\"The magic of Earthsea is primal; the lessons of Earthsea remain as potent, as wise, and as necessary as anyone could dream.\" --Neil Gaiman, author of The Sandman The sorcerer Alder fears sleep. The dead are pulling him to them at night. Through him they may free themselves and invade Earthsea. Alder seeks advice from Ged, once Archmage. Ged tells him to go to Tenar, Tehanu, and the young king at Havnor. They are joined by amber-eyed Irian, a fierce dragon able to assume the shape of a woman. Th",
+      "totalWords": 70885,
+      "totalPages": 71,
+      "totalChapters": 8
+    },
+    {
       "id": "piranesi",
       "title": "Piranesi",
       "author": "Susanna Clarke",
@@ -89,6 +125,24 @@
       "totalWords": 149588,
       "totalPages": 150,
       "totalChapters": 30
+    },
+    {
+      "id": "tales-from-earthsea",
+      "title": "Tales From Earthsea",
+      "author": "Ursula K. Le Guin",
+      "description": "\"The magic of Earthsea is primal; the lessons of Earthsea remain as potent, as wise, and as necessary as anyone could dream.\"--Neil Gaiman, author of The Sandman The tales of this book explore and extend the world established by the Earthsea novels--yet each stands on its own. It contains the novella \"The Finder,\" and the short stories \"The Bones of the Earth,\" \"Darkrose and Diamond,\" \"On the High Marsh,\" and \"Dragonfly.\" Concluding with with an account of Earthsea's history, people, languages, ",
+      "totalWords": 105348,
+      "totalPages": 106,
+      "totalChapters": 19
+    },
+    {
+      "id": "tehanu",
+      "title": "Tehanu",
+      "author": "Ursula K. Le Guin",
+      "description": "Book Four of Ursula K. Le Guin's Earthsea Cycle Years ago, they had escaped together from the sinister Tombs of Atuan -- she, an isolated young priestess; he, a powerful wizard. Now she is a farmer's widow, having chosen for herself the simple pleasures of an ordinary life. And he is a broken old man, mourning the powers lost to him through no choice of his own. Once, when they were young, they helped each other at a time of darkness and danger and shared an adventure like no other. Now they mus",
+      "totalWords": 67905,
+      "totalPages": 68,
+      "totalChapters": 16
     },
     {
       "id": "the-alignment-problem",
@@ -163,6 +217,15 @@
       "totalChapters": 20
     },
     {
+      "id": "the-maddaddam-trilogy-oryx-and-crake-the-year-of-the-flood-maddaddam",
+      "title": "The MaddAddam Trilogy: Oryx and Crake; The Year of the Flood; MaddAddam",
+      "author": "Margaret Atwood",
+      "description": "From Booker Prize–winner and #1 national bestseller Margaret Atwood, The MaddAddam Trilogy is so utterly compelling, so prescient, so relevant, so all-too-likely-to-be-true, that readers may find their view of the world forever changed after reading it. This is Margaret Atwood at the absolute peak of her powers. With breathtaking command of her brilliantly conceived material, and with her customary sharp wit and dark humour, she projects us into an outlandish yet wholly believable realm populate",
+      "totalWords": 344526,
+      "totalPages": 345,
+      "totalChapters": 239
+    },
+    {
       "id": "the-society-of-the-spectacle",
       "title": "The Society of the Spectacle",
       "author": "Guy Debord",
@@ -199,6 +262,15 @@
       "totalChapters": 18
     },
     {
+      "id": "the-tombs-of-atuan",
+      "title": "The Tombs of Atuan",
+      "author": "Ursula K. Le Guin",
+      "description": "The Newbery Honor–winning second novel in the renowned Earthsea series from Ursula K. LeGuin. In this second novel in the Earthsea series, Tenar is chosen as high priestess to the ancient and nameless Powers of the Earth, and everything is taken from her—home, family, possessions, even her name. She is now known only as Arha, the Eaten One, and guards the shadowy, labyrinthine Tombs of Atuan. Then a wizard, Ged Sparrowhawk, comes to steal the Tombs’ greatest hidden treasure, the Ring of Erreth-A",
+      "totalWords": 49291,
+      "totalPages": 50,
+      "totalChapters": 19
+    },
+    {
       "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
       "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
       "author": "Gabrielle Zevin",
@@ -206,6 +278,15 @@
       "totalWords": 134403,
       "totalPages": 135,
       "totalChapters": 27
+    },
+    {
+      "id": "a-wizard-of-earthsea",
+      "title": "A Wizard of Earthsea",
+      "author": "Ursula K. Le Guin",
+      "description": "Originally published in 1968, Ursula K. Le Guin’s A Wizard of Earthsea marks the first of the six now beloved Earthsea titles. Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless Sparrowhawk. In his hunger for power and knowledge, he tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tumultuous tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the bala",
+      "totalWords": 70183,
+      "totalPages": 71,
+      "totalChapters": 19
     },
     {
       "id": "a-court-of-mist-and-fury",
@@ -235,5 +316,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-04-10T17:28:30.429Z"
+  "updatedAt": "2026-04-17T15:05:31.241Z"
 }

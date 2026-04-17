@@ -1,0 +1,229 @@
+{
+  "id": "a-man-rides-through",
+  "title": "A Man Rides Through",
+  "author": "Stephen R. Donaldson",
+  "description": "",
+  "filename": "A Man Rides Through by Stephen R. Donaldson.epub",
+  "totalWords": 256324,
+  "totalPages": 257,
+  "totalChapters": 31,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright",
+      "wordCount": 107,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Contents",
+      "wordCount": 141,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Twenty-Seven: The Prince’s Siege",
+      "wordCount": 6413,
+      "pageCount": 7,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Twenty-Eight: A Day of Trouble",
+      "wordCount": 9306,
+      "pageCount": 10,
+      "startPage": 10
+    },
+    {
+      "index": 5,
+      "title": "Twenty-Nine: Terisa Has Visitors",
+      "wordCount": 8146,
+      "pageCount": 9,
+      "startPage": 20
+    },
+    {
+      "index": 6,
+      "title": "Thirty: Odd Choices",
+      "wordCount": 5891,
+      "pageCount": 6,
+      "startPage": 29
+    },
+    {
+      "index": 7,
+      "title": "Thirty-One: Hop-Board",
+      "wordCount": 9321,
+      "pageCount": 10,
+      "startPage": 35
+    },
+    {
+      "index": 8,
+      "title": "Thirty-Two: The Benefit of Sons",
+      "wordCount": 14714,
+      "pageCount": 15,
+      "startPage": 45
+    },
+    {
+      "index": 9,
+      "title": "Thirty-Three: Peace in Houseldon",
+      "wordCount": 15480,
+      "pageCount": 16,
+      "startPage": 60
+    },
+    {
+      "index": 10,
+      "title": "Thirty-Four: Frustrated States",
+      "wordCount": 11689,
+      "pageCount": 12,
+      "startPage": 76
+    },
+    {
+      "index": 11,
+      "title": "Thirty-Five: An Old Ally of the King",
+      "wordCount": 7596,
+      "pageCount": 8,
+      "startPage": 88
+    },
+    {
+      "index": 12,
+      "title": "Thirty-Six: Gathering Support",
+      "wordCount": 16360,
+      "pageCount": 17,
+      "startPage": 96
+    },
+    {
+      "index": 13,
+      "title": "Thirty-Seven: Poised for Victory",
+      "wordCount": 9756,
+      "pageCount": 10,
+      "startPage": 113
+    },
+    {
+      "index": 14,
+      "title": "Thirty-Eight: Conflict at the Gates",
+      "wordCount": 10681,
+      "pageCount": 11,
+      "startPage": 123
+    },
+    {
+      "index": 15,
+      "title": "Thirty-Nine: The Final Piece of Bait",
+      "wordCount": 10674,
+      "pageCount": 11,
+      "startPage": 134
+    },
+    {
+      "index": 16,
+      "title": "Forty: The Lord of Last Resort",
+      "wordCount": 3728,
+      "pageCount": 4,
+      "startPage": 145
+    },
+    {
+      "index": 17,
+      "title": "Forty-One: The Uses of Talent",
+      "wordCount": 6844,
+      "pageCount": 7,
+      "startPage": 149
+    },
+    {
+      "index": 18,
+      "title": "Forty-Two: Unexpected Translations",
+      "wordCount": 8350,
+      "pageCount": 9,
+      "startPage": 156
+    },
+    {
+      "index": 19,
+      "title": "Forty-Three: The Only Reasonable Thing to Do",
+      "wordCount": 9166,
+      "pageCount": 10,
+      "startPage": 165
+    },
+    {
+      "index": 20,
+      "title": "Forty-Four: Men Go Forth",
+      "wordCount": 13441,
+      "pageCount": 14,
+      "startPage": 175
+    },
+    {
+      "index": 21,
+      "title": "Forty-Five: The Alend Monarch’s Gamble",
+      "wordCount": 8081,
+      "pageCount": 9,
+      "startPage": 189
+    },
+    {
+      "index": 22,
+      "title": "Forty-Six: A Place of Death",
+      "wordCount": 14132,
+      "pageCount": 15,
+      "startPage": 198
+    },
+    {
+      "index": 23,
+      "title": "Forty-Seven: On the Verge",
+      "wordCount": 7972,
+      "pageCount": 8,
+      "startPage": 213
+    },
+    {
+      "index": 24,
+      "title": "Forty-Eight: The Congery at Work",
+      "wordCount": 9202,
+      "pageCount": 10,
+      "startPage": 221
+    },
+    {
+      "index": 25,
+      "title": "Forty-Nine: The King’s Last Hopes",
+      "wordCount": 10563,
+      "pageCount": 11,
+      "startPage": 231
+    },
+    {
+      "index": 26,
+      "title": "Fifty: Careful Risks",
+      "wordCount": 9908,
+      "pageCount": 10,
+      "startPage": 242
+    },
+    {
+      "index": 27,
+      "title": "Fifty-One: The Things Men Do with Mirrors",
+      "wordCount": 12131,
+      "pageCount": 13,
+      "startPage": 252
+    },
+    {
+      "index": 28,
+      "title": "Fifty-Two: No More Fighting",
+      "wordCount": 3362,
+      "pageCount": 4,
+      "startPage": 265
+    },
+    {
+      "index": 29,
+      "title": "Epilogue: Crowning the Pieces",
+      "wordCount": 2932,
+      "pageCount": 3,
+      "startPage": 269
+    },
+    {
+      "index": 30,
+      "title": "Other Books by This Author",
+      "wordCount": 132,
+      "pageCount": 1,
+      "startPage": 272
+    },
+    {
+      "index": 31,
+      "title": "About the Author",
+      "wordCount": 105,
+      "pageCount": 1,
+      "startPage": 273
+    }
+  ]
+}
