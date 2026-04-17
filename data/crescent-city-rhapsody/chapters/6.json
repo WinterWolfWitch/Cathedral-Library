@@ -1,0 +1,6 @@
+{
+  "index": 6,
+  "title": "Chapter 6",
+  "wordCount": 166,
+  "text": "electromagnetic pulse (EMP): A broadband, high intensity, short-duration burst of electromagnetic energy. May be caused by nonnuclear means . signal: Detectable transmitted energy that can be used to carry information. telecommunication: Any transmission, emission, or reception of signs, signals, writing, images and sounds or intelligence of any nature by wire, radio, optical or other electromagnetic systems. —From Federal Standard 1037C Semiconductor devices fail when they encounter an EMP because of the local heating that occurs. When a semi-conductive device absorbs the EMP energy, it displaces the resulting heat that is produced relatively slowly when compared to the time scale of the EMP. Because the heat is not dissipated quickly, the semiconductor can quickly heat up to temperatures near the melting point of the material. Soon the device will short and fail… It should be noted that in EMP tests not all electronics and systems at risk were initially destroyed. Some items did not fail in the first test or even the second. —Adam Eisenberg, Ph.D., http://www.geocities.com/CapeCanaveral/5971/emp.html"
+}

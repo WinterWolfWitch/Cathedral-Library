@@ -1,0 +1,432 @@
+{
+  "id": "a-cavern-of-black-ice-book-1",
+  "title": "A Cavern Of Black Ice (Book 1)",
+  "author": "J.V. Jones",
+  "description": "Book 1 of the Sword Of Shadows series. Retail purchase.",
+  "filename": "J. V. Jones - [Sword of Shadows 01] - A Cavern of Black Ice (epub).epub",
+  "totalWords": 294081,
+  "totalPages": 295,
+  "totalChapters": 60,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 286,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Copyright Page",
+      "wordCount": 153,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Acknowledgements",
+      "wordCount": 54,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 1925,
+      "pageCount": 2,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "ONE - The Badlands",
+      "wordCount": 4928,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 6,
+      "title": "TWO - Days Darker Than Night",
+      "wordCount": 3880,
+      "pageCount": 4,
+      "startPage": 11
+    },
+    {
+      "index": 7,
+      "title": "THREE - A Circle of Dust",
+      "wordCount": 3102,
+      "pageCount": 4,
+      "startPage": 15
+    },
+    {
+      "index": 8,
+      "title": "FOUR - A Raven Has Come",
+      "wordCount": 7752,
+      "pageCount": 8,
+      "startPage": 19
+    },
+    {
+      "index": 9,
+      "title": "FIVE - Homecoming",
+      "wordCount": 5954,
+      "pageCount": 6,
+      "startPage": 27
+    },
+    {
+      "index": 10,
+      "title": "SIX - The Inverted Spire",
+      "wordCount": 7178,
+      "pageCount": 8,
+      "startPage": 33
+    },
+    {
+      "index": 11,
+      "title": "SEVEN - The Great Hearth",
+      "wordCount": 6501,
+      "pageCount": 7,
+      "startPage": 41
+    },
+    {
+      "index": 12,
+      "title": "EIGHT - Trapping in the Oldwood",
+      "wordCount": 5337,
+      "pageCount": 6,
+      "startPage": 48
+    },
+    {
+      "index": 13,
+      "title": "NINE - The Dhooneseat",
+      "wordCount": 3680,
+      "pageCount": 4,
+      "startPage": 54
+    },
+    {
+      "index": 14,
+      "title": "TEN - Return",
+      "wordCount": 7363,
+      "pageCount": 8,
+      "startPage": 58
+    },
+    {
+      "index": 15,
+      "title": "ELEVEN - Oaths and Dreams",
+      "wordCount": 6350,
+      "pageCount": 7,
+      "startPage": 66
+    },
+    {
+      "index": 16,
+      "title": "TWELVE - A Fistful of Ice",
+      "wordCount": 7202,
+      "pageCount": 8,
+      "startPage": 73
+    },
+    {
+      "index": 17,
+      "title": "THIRTEEN - The Bluddroad",
+      "wordCount": 9164,
+      "pageCount": 10,
+      "startPage": 81
+    },
+    {
+      "index": 18,
+      "title": "FOURTEEN - Escape",
+      "wordCount": 6920,
+      "pageCount": 7,
+      "startPage": 91
+    },
+    {
+      "index": 19,
+      "title": "FIFTEEN - Within Mask Fortress",
+      "wordCount": 3354,
+      "pageCount": 4,
+      "startPage": 98
+    },
+    {
+      "index": 20,
+      "title": "SIXTEEN - A Visitor",
+      "wordCount": 6225,
+      "pageCount": 7,
+      "startPage": 102
+    },
+    {
+      "index": 21,
+      "title": "SEVENTEEN - And Now We Must Bring Them War",
+      "wordCount": 3967,
+      "pageCount": 4,
+      "startPage": 109
+    },
+    {
+      "index": 22,
+      "title": "EIGHTEEN - Leaving Home",
+      "wordCount": 6099,
+      "pageCount": 7,
+      "startPage": 113
+    },
+    {
+      "index": 23,
+      "title": "NINETEEN - Swinging from a Gibbet",
+      "wordCount": 3061,
+      "pageCount": 4,
+      "startPage": 120
+    },
+    {
+      "index": 24,
+      "title": "TWENTY - Duff’s",
+      "wordCount": 4285,
+      "pageCount": 5,
+      "startPage": 124
+    },
+    {
+      "index": 25,
+      "title": "TWENTY-ONE - Sarga Veys",
+      "wordCount": 3308,
+      "pageCount": 4,
+      "startPage": 129
+    },
+    {
+      "index": 26,
+      "title": "TWENTY-TWO - Matters of Clan",
+      "wordCount": 2729,
+      "pageCount": 3,
+      "startPage": 133
+    },
+    {
+      "index": 27,
+      "title": "TWENTY-THREE - Vaingate",
+      "wordCount": 7458,
+      "pageCount": 8,
+      "startPage": 136
+    },
+    {
+      "index": 28,
+      "title": "TWENTY-FOUR - The Gods Lights",
+      "wordCount": 5398,
+      "pageCount": 6,
+      "startPage": 144
+    },
+    {
+      "index": 29,
+      "title": "TWENTY-FIVE - Tunnels of the Sull",
+      "wordCount": 6489,
+      "pageCount": 7,
+      "startPage": 150
+    },
+    {
+      "index": 30,
+      "title": "TWENTY-SIX - Secrets in the Kaleyard",
+      "wordCount": 5103,
+      "pageCount": 6,
+      "startPage": 157
+    },
+    {
+      "index": 31,
+      "title": "TWENTY-SEVEN - Dancing Ice",
+      "wordCount": 6968,
+      "pageCount": 7,
+      "startPage": 163
+    },
+    {
+      "index": 32,
+      "title": "TWENTY-EIGHT - Strike upon Bannen",
+      "wordCount": 5224,
+      "pageCount": 6,
+      "startPage": 170
+    },
+    {
+      "index": 33,
+      "title": "TWENTY-NINE - By the Lake",
+      "wordCount": 4867,
+      "pageCount": 5,
+      "startPage": 176
+    },
+    {
+      "index": 34,
+      "title": "THIRTY - Frostbite",
+      "wordCount": 3693,
+      "pageCount": 4,
+      "startPage": 181
+    },
+    {
+      "index": 35,
+      "title": "THIRTY-ONE - Ille Glaive",
+      "wordCount": 6139,
+      "pageCount": 7,
+      "startPage": 185
+    },
+    {
+      "index": 36,
+      "title": "THIRTY-TWO - Named Beasts",
+      "wordCount": 5723,
+      "pageCount": 6,
+      "startPage": 192
+    },
+    {
+      "index": 37,
+      "title": "THIRTY-THREE - Shankshounds",
+      "wordCount": 4661,
+      "pageCount": 5,
+      "startPage": 198
+    },
+    {
+      "index": 38,
+      "title": "THIRTY-FOUR - Men Buying Clothes for a Girl",
+      "wordCount": 5671,
+      "pageCount": 6,
+      "startPage": 203
+    },
+    {
+      "index": 39,
+      "title": "THIRTY-FIVE - Finding Lost Things",
+      "wordCount": 6374,
+      "pageCount": 7,
+      "startPage": 209
+    },
+    {
+      "index": 40,
+      "title": "THIRTY-SIX - A Moon Made of Blood",
+      "wordCount": 5271,
+      "pageCount": 6,
+      "startPage": 216
+    },
+    {
+      "index": 41,
+      "title": "THIRTY-SEVEN - In the Tower",
+      "wordCount": 3425,
+      "pageCount": 4,
+      "startPage": 222
+    },
+    {
+      "index": 42,
+      "title": "THIRTY-EIGHT - Lords and Maidens",
+      "wordCount": 7995,
+      "pageCount": 8,
+      "startPage": 226
+    },
+    {
+      "index": 43,
+      "title": "THIRTY-NINE - Watcher of the Dead",
+      "wordCount": 2948,
+      "pageCount": 3,
+      "startPage": 234
+    },
+    {
+      "index": 44,
+      "title": "FORTY - In the Crab Chief’s Chamber",
+      "wordCount": 3953,
+      "pageCount": 4,
+      "startPage": 237
+    },
+    {
+      "index": 45,
+      "title": "FORTY-ONE - An Object Returned",
+      "wordCount": 3404,
+      "pageCount": 4,
+      "startPage": 241
+    },
+    {
+      "index": 46,
+      "title": "FORTY-TWO - Ganmiddich Pass",
+      "wordCount": 3665,
+      "pageCount": 4,
+      "startPage": 245
+    },
+    {
+      "index": 47,
+      "title": "FORTY-THREE - Meetings",
+      "wordCount": 5783,
+      "pageCount": 6,
+      "startPage": 249
+    },
+    {
+      "index": 48,
+      "title": "FORTY-FOUR - Something Lost",
+      "wordCount": 3737,
+      "pageCount": 4,
+      "startPage": 255
+    },
+    {
+      "index": 49,
+      "title": "FORTY-FIVE - The Iron Chamber",
+      "wordCount": 4666,
+      "pageCount": 5,
+      "startPage": 259
+    },
+    {
+      "index": 50,
+      "title": "FORTY-SIX - A Journey Begins",
+      "wordCount": 6109,
+      "pageCount": 7,
+      "startPage": 264
+    },
+    {
+      "index": 51,
+      "title": "FORTY-SEVEN - Clothes off a Dead Man’s Back",
+      "wordCount": 5547,
+      "pageCount": 6,
+      "startPage": 271
+    },
+    {
+      "index": 52,
+      "title": "FORTY-EIGHT - A Night at Drover Jack’s",
+      "wordCount": 4322,
+      "pageCount": 5,
+      "startPage": 277
+    },
+    {
+      "index": 53,
+      "title": "FORTY-NINE - Ice Wolves",
+      "wordCount": 8364,
+      "pageCount": 9,
+      "startPage": 282
+    },
+    {
+      "index": 54,
+      "title": "FIFTY - Far Riders and Old Men",
+      "wordCount": 4435,
+      "pageCount": 5,
+      "startPage": 291
+    },
+    {
+      "index": 55,
+      "title": "FIFTY-ONE - Snow Ghosts",
+      "wordCount": 4235,
+      "pageCount": 5,
+      "startPage": 296
+    },
+    {
+      "index": 56,
+      "title": "FIFTY-TWO - The Sull",
+      "wordCount": 4510,
+      "pageCount": 5,
+      "startPage": 301
+    },
+    {
+      "index": 57,
+      "title": "FIFTY-THREE - Marafice One Eye",
+      "wordCount": 4760,
+      "pageCount": 5,
+      "startPage": 306
+    },
+    {
+      "index": 58,
+      "title": "FIFTY-FOUR - The Hollow River",
+      "wordCount": 5450,
+      "pageCount": 6,
+      "startPage": 311
+    },
+    {
+      "index": 59,
+      "title": "FIFTY-FIVE - A Cavern of Black Ice",
+      "wordCount": 5850,
+      "pageCount": 6,
+      "startPage": 317
+    },
+    {
+      "index": 60,
+      "title": "HEART OF DARKNESS",
+      "wordCount": 1127,
+      "pageCount": 2,
+      "startPage": 323
+    }
+  ]
+}

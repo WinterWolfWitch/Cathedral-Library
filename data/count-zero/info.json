@@ -1,0 +1,278 @@
+{
+  "id": "count-zero",
+  "title": "Count Zero",
+  "author": "William Gibson",
+  "description": "",
+  "filename": "William Gibson - [Sprawl 02] - Count Zero (v5.0).epub",
+  "totalWords": 84679,
+  "totalPages": 85,
+  "totalChapters": 38,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 182,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 37,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 3011,
+      "pageCount": 4,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 2365,
+      "pageCount": 3,
+      "startPage": 7
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 621,
+      "pageCount": 1,
+      "startPage": 10
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 2134,
+      "pageCount": 3,
+      "startPage": 11
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 895,
+      "pageCount": 1,
+      "startPage": 14
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 4708,
+      "pageCount": 5,
+      "startPage": 15
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 2527,
+      "pageCount": 3,
+      "startPage": 20
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 960,
+      "pageCount": 1,
+      "startPage": 23
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 3076,
+      "pageCount": 4,
+      "startPage": 24
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 1415,
+      "pageCount": 2,
+      "startPage": 28
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 3571,
+      "pageCount": 4,
+      "startPage": 30
+    },
+    {
+      "index": 14,
+      "title": "Chapter 14",
+      "wordCount": 1057,
+      "pageCount": 2,
+      "startPage": 34
+    },
+    {
+      "index": 15,
+      "title": "Chapter 15",
+      "wordCount": 4181,
+      "pageCount": 5,
+      "startPage": 36
+    },
+    {
+      "index": 16,
+      "title": "Chapter 16",
+      "wordCount": 4410,
+      "pageCount": 5,
+      "startPage": 41
+    },
+    {
+      "index": 17,
+      "title": "Chapter 17",
+      "wordCount": 3257,
+      "pageCount": 4,
+      "startPage": 46
+    },
+    {
+      "index": 18,
+      "title": "Chapter 18",
+      "wordCount": 6583,
+      "pageCount": 7,
+      "startPage": 50
+    },
+    {
+      "index": 19,
+      "title": "Chapter 19",
+      "wordCount": 4392,
+      "pageCount": 5,
+      "startPage": 57
+    },
+    {
+      "index": 20,
+      "title": "Chapter 20",
+      "wordCount": 2649,
+      "pageCount": 3,
+      "startPage": 62
+    },
+    {
+      "index": 21,
+      "title": "Chapter 21",
+      "wordCount": 1509,
+      "pageCount": 2,
+      "startPage": 65
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 705,
+      "pageCount": 1,
+      "startPage": 67
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 3195,
+      "pageCount": 4,
+      "startPage": 68
+    },
+    {
+      "index": 24,
+      "title": "Chapter 24",
+      "wordCount": 3144,
+      "pageCount": 4,
+      "startPage": 72
+    },
+    {
+      "index": 25,
+      "title": "Chapter 25",
+      "wordCount": 2641,
+      "pageCount": 3,
+      "startPage": 76
+    },
+    {
+      "index": 26,
+      "title": "Chapter 26",
+      "wordCount": 1771,
+      "pageCount": 2,
+      "startPage": 79
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 2600,
+      "pageCount": 3,
+      "startPage": 81
+    },
+    {
+      "index": 28,
+      "title": "Chapter 28",
+      "wordCount": 2511,
+      "pageCount": 3,
+      "startPage": 84
+    },
+    {
+      "index": 29,
+      "title": "Chapter 29",
+      "wordCount": 2933,
+      "pageCount": 3,
+      "startPage": 87
+    },
+    {
+      "index": 30,
+      "title": "Chapter 30",
+      "wordCount": 2198,
+      "pageCount": 3,
+      "startPage": 90
+    },
+    {
+      "index": 31,
+      "title": "Chapter 31",
+      "wordCount": 1715,
+      "pageCount": 2,
+      "startPage": 93
+    },
+    {
+      "index": 32,
+      "title": "Chapter 32",
+      "wordCount": 1428,
+      "pageCount": 2,
+      "startPage": 95
+    },
+    {
+      "index": 33,
+      "title": "Chapter 33",
+      "wordCount": 1030,
+      "pageCount": 2,
+      "startPage": 97
+    },
+    {
+      "index": 34,
+      "title": "Chapter 34",
+      "wordCount": 2174,
+      "pageCount": 3,
+      "startPage": 99
+    },
+    {
+      "index": 35,
+      "title": "Chapter 35",
+      "wordCount": 741,
+      "pageCount": 1,
+      "startPage": 102
+    },
+    {
+      "index": 36,
+      "title": "Chapter 36",
+      "wordCount": 1456,
+      "pageCount": 2,
+      "startPage": 103
+    },
+    {
+      "index": 37,
+      "title": "Chapter 37",
+      "wordCount": 537,
+      "pageCount": 1,
+      "startPage": 105
+    },
+    {
+      "index": 38,
+      "title": "Chapter 38",
+      "wordCount": 360,
+      "pageCount": 1,
+      "startPage": 106
+    }
+  ]
+}

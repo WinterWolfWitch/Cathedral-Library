@@ -1,0 +1,208 @@
+{
+  "id": "neuromancer",
+  "title": "Neuromancer",
+  "author": "William Gibson",
+  "description": "",
+  "filename": "William Gibson - [Sprawl 01] - Neuromancer (v5.0).epub",
+  "totalWords": 84649,
+  "totalPages": 85,
+  "totalChapters": 28,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 180,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 89,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 59,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 8201,
+      "pageCount": 9,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 4343,
+      "pageCount": 5,
+      "startPage": 13
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 3693,
+      "pageCount": 4,
+      "startPage": 18
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 5056,
+      "pageCount": 6,
+      "startPage": 22
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 2819,
+      "pageCount": 3,
+      "startPage": 28
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 1461,
+      "pageCount": 2,
+      "startPage": 31
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 4154,
+      "pageCount": 5,
+      "startPage": 33
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 3126,
+      "pageCount": 4,
+      "startPage": 38
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 2764,
+      "pageCount": 3,
+      "startPage": 42
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 4249,
+      "pageCount": 5,
+      "startPage": 45
+    },
+    {
+      "index": 14,
+      "title": "Chapter 14",
+      "wordCount": 4350,
+      "pageCount": 5,
+      "startPage": 50
+    },
+    {
+      "index": 15,
+      "title": "Chapter 15",
+      "wordCount": 1862,
+      "pageCount": 2,
+      "startPage": 55
+    },
+    {
+      "index": 16,
+      "title": "Chapter 16",
+      "wordCount": 2017,
+      "pageCount": 3,
+      "startPage": 57
+    },
+    {
+      "index": 17,
+      "title": "Chapter 17",
+      "wordCount": 3065,
+      "pageCount": 4,
+      "startPage": 60
+    },
+    {
+      "index": 18,
+      "title": "Chapter 18",
+      "wordCount": 4226,
+      "pageCount": 5,
+      "startPage": 64
+    },
+    {
+      "index": 19,
+      "title": "Chapter 19",
+      "wordCount": 4063,
+      "pageCount": 5,
+      "startPage": 69
+    },
+    {
+      "index": 20,
+      "title": "Chapter 20",
+      "wordCount": 3673,
+      "pageCount": 4,
+      "startPage": 74
+    },
+    {
+      "index": 21,
+      "title": "Chapter 21",
+      "wordCount": 3701,
+      "pageCount": 4,
+      "startPage": 78
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 1984,
+      "pageCount": 2,
+      "startPage": 82
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 3478,
+      "pageCount": 4,
+      "startPage": 84
+    },
+    {
+      "index": 24,
+      "title": "Chapter 24",
+      "wordCount": 1415,
+      "pageCount": 2,
+      "startPage": 88
+    },
+    {
+      "index": 25,
+      "title": "Chapter 25",
+      "wordCount": 2251,
+      "pageCount": 3,
+      "startPage": 90
+    },
+    {
+      "index": 26,
+      "title": "Chapter 26",
+      "wordCount": 2566,
+      "pageCount": 3,
+      "startPage": 93
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 1199,
+      "pageCount": 2,
+      "startPage": 96
+    },
+    {
+      "index": 28,
+      "title": "Chapter 28",
+      "wordCount": 4605,
+      "pageCount": 5,
+      "startPage": 98
+    }
+  ]
+}
