@@ -1,0 +1,607 @@
+{
+  "id": "the-will-of-the-many-hierarchy",
+  "title": "The Will of the Many (Hierarchy)",
+  "author": "James Islington",
+  "description": "",
+  "filename": "Will of the Many (Hierarchy), The - James Islington.epub",
+  "totalWords": 240245,
+  "totalPages": 241,
+  "totalChapters": 85,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 82,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Catenan Rankings",
+      "wordCount": 38,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter I",
+      "wordCount": 6000,
+      "pageCount": 6,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Chapter II",
+      "wordCount": 4532,
+      "pageCount": 5,
+      "startPage": 9
+    },
+    {
+      "index": 5,
+      "title": "Chapter III",
+      "wordCount": 1964,
+      "pageCount": 2,
+      "startPage": 14
+    },
+    {
+      "index": 6,
+      "title": "Chapter IV",
+      "wordCount": 2284,
+      "pageCount": 3,
+      "startPage": 16
+    },
+    {
+      "index": 7,
+      "title": "Chapter V",
+      "wordCount": 5149,
+      "pageCount": 6,
+      "startPage": 19
+    },
+    {
+      "index": 8,
+      "title": "Chapter VI",
+      "wordCount": 7321,
+      "pageCount": 8,
+      "startPage": 25
+    },
+    {
+      "index": 9,
+      "title": "Chapter VII",
+      "wordCount": 2629,
+      "pageCount": 3,
+      "startPage": 33
+    },
+    {
+      "index": 10,
+      "title": "Chapter VIII",
+      "wordCount": 2978,
+      "pageCount": 3,
+      "startPage": 36
+    },
+    {
+      "index": 11,
+      "title": "Chapter IX",
+      "wordCount": 1973,
+      "pageCount": 2,
+      "startPage": 39
+    },
+    {
+      "index": 12,
+      "title": "Chapter X",
+      "wordCount": 4292,
+      "pageCount": 5,
+      "startPage": 41
+    },
+    {
+      "index": 13,
+      "title": "Chapter XI",
+      "wordCount": 2679,
+      "pageCount": 3,
+      "startPage": 46
+    },
+    {
+      "index": 14,
+      "title": "Chapter XII",
+      "wordCount": 3489,
+      "pageCount": 4,
+      "startPage": 49
+    },
+    {
+      "index": 15,
+      "title": "Chapter XIII",
+      "wordCount": 2571,
+      "pageCount": 3,
+      "startPage": 53
+    },
+    {
+      "index": 16,
+      "title": "Chapter XIV",
+      "wordCount": 2167,
+      "pageCount": 3,
+      "startPage": 56
+    },
+    {
+      "index": 17,
+      "title": "Chapter XV",
+      "wordCount": 3466,
+      "pageCount": 4,
+      "startPage": 59
+    },
+    {
+      "index": 18,
+      "title": "Chapter XVI",
+      "wordCount": 5374,
+      "pageCount": 6,
+      "startPage": 63
+    },
+    {
+      "index": 19,
+      "title": "Chapter XVII",
+      "wordCount": 1399,
+      "pageCount": 2,
+      "startPage": 69
+    },
+    {
+      "index": 20,
+      "title": "Chapter XVIII",
+      "wordCount": 3248,
+      "pageCount": 4,
+      "startPage": 71
+    },
+    {
+      "index": 21,
+      "title": "Chapter XIX",
+      "wordCount": 4467,
+      "pageCount": 5,
+      "startPage": 75
+    },
+    {
+      "index": 22,
+      "title": "Chapter XX",
+      "wordCount": 4173,
+      "pageCount": 5,
+      "startPage": 80
+    },
+    {
+      "index": 23,
+      "title": "Chapter XXI",
+      "wordCount": 1326,
+      "pageCount": 2,
+      "startPage": 85
+    },
+    {
+      "index": 24,
+      "title": "Chapter XXII",
+      "wordCount": 4774,
+      "pageCount": 5,
+      "startPage": 87
+    },
+    {
+      "index": 25,
+      "title": "Chapter XXIII",
+      "wordCount": 2597,
+      "pageCount": 3,
+      "startPage": 92
+    },
+    {
+      "index": 26,
+      "title": "Chapter XXIV",
+      "wordCount": 2297,
+      "pageCount": 3,
+      "startPage": 95
+    },
+    {
+      "index": 27,
+      "title": "Chapter XXV",
+      "wordCount": 5327,
+      "pageCount": 6,
+      "startPage": 98
+    },
+    {
+      "index": 28,
+      "title": "Chapter XXVI",
+      "wordCount": 3291,
+      "pageCount": 4,
+      "startPage": 104
+    },
+    {
+      "index": 29,
+      "title": "Chapter XXVII",
+      "wordCount": 4550,
+      "pageCount": 5,
+      "startPage": 108
+    },
+    {
+      "index": 30,
+      "title": "Chapter XXVIII",
+      "wordCount": 2044,
+      "pageCount": 3,
+      "startPage": 113
+    },
+    {
+      "index": 31,
+      "title": "Chapter XXIX",
+      "wordCount": 1468,
+      "pageCount": 2,
+      "startPage": 116
+    },
+    {
+      "index": 32,
+      "title": "Chapter XXX",
+      "wordCount": 3819,
+      "pageCount": 4,
+      "startPage": 118
+    },
+    {
+      "index": 33,
+      "title": "Chapter XXXI",
+      "wordCount": 2415,
+      "pageCount": 3,
+      "startPage": 122
+    },
+    {
+      "index": 34,
+      "title": "Chapter XXXII",
+      "wordCount": 2479,
+      "pageCount": 3,
+      "startPage": 125
+    },
+    {
+      "index": 35,
+      "title": "Chapter XXXIII",
+      "wordCount": 6053,
+      "pageCount": 7,
+      "startPage": 128
+    },
+    {
+      "index": 36,
+      "title": "Chapter XXXIV",
+      "wordCount": 2984,
+      "pageCount": 3,
+      "startPage": 135
+    },
+    {
+      "index": 37,
+      "title": "Chapter XXXV",
+      "wordCount": 1912,
+      "pageCount": 2,
+      "startPage": 138
+    },
+    {
+      "index": 38,
+      "title": "Chapter XXXVI",
+      "wordCount": 3262,
+      "pageCount": 4,
+      "startPage": 140
+    },
+    {
+      "index": 39,
+      "title": "Chapter XXXVII",
+      "wordCount": 3728,
+      "pageCount": 4,
+      "startPage": 144
+    },
+    {
+      "index": 40,
+      "title": "Chapter XXXVIII",
+      "wordCount": 4189,
+      "pageCount": 5,
+      "startPage": 148
+    },
+    {
+      "index": 41,
+      "title": "Chapter XXXIX",
+      "wordCount": 2087,
+      "pageCount": 3,
+      "startPage": 153
+    },
+    {
+      "index": 42,
+      "title": "Chapter XL",
+      "wordCount": 2910,
+      "pageCount": 3,
+      "startPage": 156
+    },
+    {
+      "index": 43,
+      "title": "Chapter XLI",
+      "wordCount": 2418,
+      "pageCount": 3,
+      "startPage": 159
+    },
+    {
+      "index": 44,
+      "title": "Chapter XLII",
+      "wordCount": 3551,
+      "pageCount": 4,
+      "startPage": 162
+    },
+    {
+      "index": 45,
+      "title": "Chapter XLIII",
+      "wordCount": 3128,
+      "pageCount": 4,
+      "startPage": 166
+    },
+    {
+      "index": 46,
+      "title": "Chapter XLIV",
+      "wordCount": 3676,
+      "pageCount": 4,
+      "startPage": 170
+    },
+    {
+      "index": 47,
+      "title": "Chapter XLV",
+      "wordCount": 3393,
+      "pageCount": 4,
+      "startPage": 174
+    },
+    {
+      "index": 48,
+      "title": "Chapter XLVI",
+      "wordCount": 2552,
+      "pageCount": 3,
+      "startPage": 178
+    },
+    {
+      "index": 49,
+      "title": "Chapter XLVII",
+      "wordCount": 3267,
+      "pageCount": 4,
+      "startPage": 181
+    },
+    {
+      "index": 50,
+      "title": "Chapter XLVIII",
+      "wordCount": 2385,
+      "pageCount": 3,
+      "startPage": 185
+    },
+    {
+      "index": 51,
+      "title": "Chapter XLIX",
+      "wordCount": 1544,
+      "pageCount": 2,
+      "startPage": 188
+    },
+    {
+      "index": 52,
+      "title": "Chapter L",
+      "wordCount": 3076,
+      "pageCount": 4,
+      "startPage": 190
+    },
+    {
+      "index": 53,
+      "title": "Chapter LI",
+      "wordCount": 3847,
+      "pageCount": 4,
+      "startPage": 194
+    },
+    {
+      "index": 54,
+      "title": "Chapter LII",
+      "wordCount": 3442,
+      "pageCount": 4,
+      "startPage": 198
+    },
+    {
+      "index": 55,
+      "title": "Chapter LIII",
+      "wordCount": 2890,
+      "pageCount": 3,
+      "startPage": 202
+    },
+    {
+      "index": 56,
+      "title": "Chapter LIV",
+      "wordCount": 2171,
+      "pageCount": 3,
+      "startPage": 205
+    },
+    {
+      "index": 57,
+      "title": "Chapter LV",
+      "wordCount": 4414,
+      "pageCount": 5,
+      "startPage": 208
+    },
+    {
+      "index": 58,
+      "title": "Chapter LVI",
+      "wordCount": 2196,
+      "pageCount": 3,
+      "startPage": 213
+    },
+    {
+      "index": 59,
+      "title": "Chapter LVII",
+      "wordCount": 3486,
+      "pageCount": 4,
+      "startPage": 216
+    },
+    {
+      "index": 60,
+      "title": "Chapter LVIII",
+      "wordCount": 2760,
+      "pageCount": 3,
+      "startPage": 220
+    },
+    {
+      "index": 61,
+      "title": "Chapter LIX",
+      "wordCount": 2869,
+      "pageCount": 3,
+      "startPage": 223
+    },
+    {
+      "index": 62,
+      "title": "Chapter LX",
+      "wordCount": 4051,
+      "pageCount": 5,
+      "startPage": 226
+    },
+    {
+      "index": 63,
+      "title": "Chapter LXI",
+      "wordCount": 3259,
+      "pageCount": 4,
+      "startPage": 231
+    },
+    {
+      "index": 64,
+      "title": "Chapter LXII",
+      "wordCount": 2254,
+      "pageCount": 3,
+      "startPage": 235
+    },
+    {
+      "index": 65,
+      "title": "Chapter LXIII",
+      "wordCount": 3851,
+      "pageCount": 4,
+      "startPage": 238
+    },
+    {
+      "index": 66,
+      "title": "Chapter LXIV",
+      "wordCount": 2979,
+      "pageCount": 3,
+      "startPage": 242
+    },
+    {
+      "index": 67,
+      "title": "Chapter LXV",
+      "wordCount": 3294,
+      "pageCount": 4,
+      "startPage": 245
+    },
+    {
+      "index": 68,
+      "title": "Chapter LXVI",
+      "wordCount": 2353,
+      "pageCount": 3,
+      "startPage": 249
+    },
+    {
+      "index": 69,
+      "title": "Chapter LXVII",
+      "wordCount": 2536,
+      "pageCount": 3,
+      "startPage": 252
+    },
+    {
+      "index": 70,
+      "title": "Chapter LXVIII",
+      "wordCount": 3452,
+      "pageCount": 4,
+      "startPage": 255
+    },
+    {
+      "index": 71,
+      "title": "Chapter LXIX",
+      "wordCount": 2985,
+      "pageCount": 3,
+      "startPage": 259
+    },
+    {
+      "index": 72,
+      "title": "Chapter LXX",
+      "wordCount": 3041,
+      "pageCount": 4,
+      "startPage": 262
+    },
+    {
+      "index": 73,
+      "title": "Chapter LXXI",
+      "wordCount": 2821,
+      "pageCount": 3,
+      "startPage": 266
+    },
+    {
+      "index": 74,
+      "title": "Chapter LXXII",
+      "wordCount": 1503,
+      "pageCount": 2,
+      "startPage": 269
+    },
+    {
+      "index": 75,
+      "title": "Chapter LXXIII",
+      "wordCount": 2321,
+      "pageCount": 3,
+      "startPage": 271
+    },
+    {
+      "index": 76,
+      "title": "Chapter LXXIV",
+      "wordCount": 2745,
+      "pageCount": 3,
+      "startPage": 274
+    },
+    {
+      "index": 77,
+      "title": "Chapter 77",
+      "wordCount": 839,
+      "pageCount": 1,
+      "startPage": 277
+    },
+    {
+      "index": 78,
+      "title": "Chapter 78",
+      "wordCount": 593,
+      "pageCount": 1,
+      "startPage": 278
+    },
+    {
+      "index": 79,
+      "title": "Major Characters",
+      "wordCount": 894,
+      "pageCount": 1,
+      "startPage": 279
+    },
+    {
+      "index": 80,
+      "title": "Glossary",
+      "wordCount": 389,
+      "pageCount": 1,
+      "startPage": 280
+    },
+    {
+      "index": 81,
+      "title": "Locations",
+      "wordCount": 479,
+      "pageCount": 1,
+      "startPage": 281
+    },
+    {
+      "index": 82,
+      "title": "Acknowledgments",
+      "wordCount": 365,
+      "pageCount": 1,
+      "startPage": 282
+    },
+    {
+      "index": 83,
+      "title": "About the Author",
+      "wordCount": 118,
+      "pageCount": 1,
+      "startPage": 283
+    },
+    {
+      "index": 84,
+      "title": "Chapter 84",
+      "wordCount": 83,
+      "pageCount": 1,
+      "startPage": 284
+    },
+    {
+      "index": 85,
+      "title": "Copyright",
+      "wordCount": 188,
+      "pageCount": 1,
+      "startPage": 285
+    }
+  ]
+}

@@ -433,6 +433,15 @@
       "totalChapters": 27
     },
     {
+      "id": "the-will-of-the-many-hierarchy",
+      "title": "The Will of the Many (Hierarchy)",
+      "author": "James Islington",
+      "description": "",
+      "totalWords": 240245,
+      "totalPages": 241,
+      "totalChapters": 85
+    },
+    {
       "id": "neuromancer",
       "title": "Neuromancer",
       "author": "William Gibson",
@@ -487,5 +496,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-04-17T15:27:37.489Z"
+  "updatedAt": "2026-04-30T10:57:08.816Z"
 }
