@@ -1,0 +1,82 @@
+{
+  "id": "blindsight",
+  "title": "Blindsight",
+  "author": "Peter Watts",
+  "description": "",
+  "filename": "Blindsight -- Peter Watts -- 2006.epub",
+  "totalWords": 104683,
+  "totalPages": 105,
+  "totalChapters": 10,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 34,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Prologue",
+      "wordCount": 1621,
+      "pageCount": 2,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Theseus",
+      "wordCount": 32702,
+      "pageCount": 33,
+      "startPage": 4
+    },
+    {
+      "index": 4,
+      "title": "Rorschach",
+      "wordCount": 18844,
+      "pageCount": 19,
+      "startPage": 37
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 41128,
+      "pageCount": 42,
+      "startPage": 56
+    },
+    {
+      "index": 6,
+      "title": "Charybdis",
+      "wordCount": 1880,
+      "pageCount": 2,
+      "startPage": 98
+    },
+    {
+      "index": 7,
+      "title": "Acknowledgments",
+      "wordCount": 605,
+      "pageCount": 1,
+      "startPage": 100
+    },
+    {
+      "index": 8,
+      "title": "Notes and references",
+      "wordCount": 7762,
+      "pageCount": 8,
+      "startPage": 101
+    },
+    {
+      "index": 9,
+      "title": "Creative Commons Licensing Information",
+      "wordCount": 52,
+      "pageCount": 1,
+      "startPage": 109
+    },
+    {
+      "index": 10,
+      "title": "Colophon",
+      "wordCount": 55,
+      "pageCount": 1,
+      "startPage": 110
+    }
+  ]
+}
