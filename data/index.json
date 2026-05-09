@@ -298,6 +298,15 @@
       "totalChapters": 0
     },
     {
+      "id": "solaris",
+      "title": "Solaris",
+      "author": "Stanislaw Lem",
+      "description": "",
+      "totalWords": 66425,
+      "totalPages": 67,
+      "totalChapters": 7
+    },
+    {
       "id": "tales-from-earthsea",
       "title": "Tales From Earthsea",
       "author": "Ursula K. Le Guin",
@@ -523,5 +532,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-08T22:13:01.080Z"
+  "updatedAt": "2026-05-09T10:16:45.678Z"
 }

@@ -1,0 +1,61 @@
+{
+  "id": "solaris",
+  "title": "Solaris",
+  "author": "Stanislaw Lem",
+  "description": "",
+  "filename": "Solaris -- Lem, Stanislaw -- 2010.epub",
+  "totalWords": 66425,
+  "totalPages": 67,
+  "totalChapters": 7,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Solaris",
+      "wordCount": 11695,
+      "pageCount": 12,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "SARTORIUS",
+      "wordCount": 4904,
+      "pageCount": 5,
+      "startPage": 13
+    },
+    {
+      "index": 3,
+      "title": "HAREY",
+      "wordCount": 4772,
+      "pageCount": 5,
+      "startPage": 18
+    },
+    {
+      "index": 4,
+      "title": "\"MICUL APOCRIF\"",
+      "wordCount": 7613,
+      "pageCount": 8,
+      "startPage": 23
+    },
+    {
+      "index": 5,
+      "title": "CONSFĂTUIREA",
+      "wordCount": 4900,
+      "pageCount": 5,
+      "startPage": 31
+    },
+    {
+      "index": 6,
+      "title": "PLĂSMUIRILE",
+      "wordCount": 24980,
+      "pageCount": 25,
+      "startPage": 36
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 7561,
+      "pageCount": 8,
+      "startPage": 61
+    }
+  ]
+}
