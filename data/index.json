@@ -424,6 +424,15 @@
       "totalChapters": 12
     },
     {
+      "id": "the-story-of-your-life",
+      "title": "The Story Of Your Life",
+      "author": "Ted Chiang",
+      "description": "",
+      "totalWords": 17631,
+      "totalPages": 18,
+      "totalChapters": 1
+    },
+    {
       "id": "the-three-body-problem",
       "title": "The Three-Body Problem",
       "author": "Cixin Liu",
@@ -532,5 +541,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-09T10:16:45.678Z"
+  "updatedAt": "2026-05-10T12:10:55.188Z"
 }
