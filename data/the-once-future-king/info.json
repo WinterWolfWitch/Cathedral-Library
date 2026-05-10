@@ -1,0 +1,733 @@
+{
+  "id": "the-once-future-king",
+  "title": "The Once & Future King",
+  "author": "T. H. White",
+  "description": "",
+  "filename": "The Once and Future King Omnibus -- White, T H -- Once and Future King.epub",
+  "totalWords": 282677,
+  "totalPages": 283,
+  "totalChapters": 103,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "The Once and Future King",
+      "wordCount": 34,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "The Sword In The Stone",
+      "wordCount": 30,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 3272,
+      "pageCount": 4,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "2",
+      "wordCount": 3988,
+      "pageCount": 4,
+      "startPage": 7
+    },
+    {
+      "index": 5,
+      "title": "3",
+      "wordCount": 4161,
+      "pageCount": 5,
+      "startPage": 11
+    },
+    {
+      "index": 6,
+      "title": "4",
+      "wordCount": 1203,
+      "pageCount": 2,
+      "startPage": 16
+    },
+    {
+      "index": 7,
+      "title": "5",
+      "wordCount": 5141,
+      "pageCount": 6,
+      "startPage": 18
+    },
+    {
+      "index": 8,
+      "title": "6",
+      "wordCount": 1054,
+      "pageCount": 2,
+      "startPage": 24
+    },
+    {
+      "index": 9,
+      "title": "7",
+      "wordCount": 6193,
+      "pageCount": 7,
+      "startPage": 26
+    },
+    {
+      "index": 10,
+      "title": "8",
+      "wordCount": 4618,
+      "pageCount": 5,
+      "startPage": 33
+    },
+    {
+      "index": 11,
+      "title": "9",
+      "wordCount": 2755,
+      "pageCount": 3,
+      "startPage": 38
+    },
+    {
+      "index": 12,
+      "title": "10",
+      "wordCount": 4010,
+      "pageCount": 5,
+      "startPage": 41
+    },
+    {
+      "index": 13,
+      "title": "11",
+      "wordCount": 3607,
+      "pageCount": 4,
+      "startPage": 46
+    },
+    {
+      "index": 14,
+      "title": "12",
+      "wordCount": 3255,
+      "pageCount": 4,
+      "startPage": 50
+    },
+    {
+      "index": 15,
+      "title": "13",
+      "wordCount": 3566,
+      "pageCount": 4,
+      "startPage": 54
+    },
+    {
+      "index": 16,
+      "title": "14",
+      "wordCount": 2554,
+      "pageCount": 3,
+      "startPage": 58
+    },
+    {
+      "index": 17,
+      "title": "15",
+      "wordCount": 1852,
+      "pageCount": 2,
+      "startPage": 61
+    },
+    {
+      "index": 18,
+      "title": "16",
+      "wordCount": 5116,
+      "pageCount": 6,
+      "startPage": 63
+    },
+    {
+      "index": 19,
+      "title": "17",
+      "wordCount": 2392,
+      "pageCount": 3,
+      "startPage": 69
+    },
+    {
+      "index": 20,
+      "title": "18",
+      "wordCount": 4083,
+      "pageCount": 5,
+      "startPage": 72
+    },
+    {
+      "index": 21,
+      "title": "19",
+      "wordCount": 2331,
+      "pageCount": 3,
+      "startPage": 77
+    },
+    {
+      "index": 22,
+      "title": "20",
+      "wordCount": 1887,
+      "pageCount": 2,
+      "startPage": 80
+    },
+    {
+      "index": 23,
+      "title": "21",
+      "wordCount": 5062,
+      "pageCount": 6,
+      "startPage": 82
+    },
+    {
+      "index": 24,
+      "title": "22",
+      "wordCount": 2026,
+      "pageCount": 3,
+      "startPage": 88
+    },
+    {
+      "index": 25,
+      "title": "23",
+      "wordCount": 2704,
+      "pageCount": 3,
+      "startPage": 91
+    },
+    {
+      "index": 26,
+      "title": "24",
+      "wordCount": 876,
+      "pageCount": 1,
+      "startPage": 94
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 36,
+      "pageCount": 1,
+      "startPage": 95
+    },
+    {
+      "index": 28,
+      "title": "1",
+      "wordCount": 2577,
+      "pageCount": 3,
+      "startPage": 96
+    },
+    {
+      "index": 29,
+      "title": "2",
+      "wordCount": 2599,
+      "pageCount": 3,
+      "startPage": 99
+    },
+    {
+      "index": 30,
+      "title": "3",
+      "wordCount": 2006,
+      "pageCount": 3,
+      "startPage": 102
+    },
+    {
+      "index": 31,
+      "title": "4",
+      "wordCount": 1631,
+      "pageCount": 2,
+      "startPage": 105
+    },
+    {
+      "index": 32,
+      "title": "5",
+      "wordCount": 3338,
+      "pageCount": 4,
+      "startPage": 107
+    },
+    {
+      "index": 33,
+      "title": "6",
+      "wordCount": 1683,
+      "pageCount": 2,
+      "startPage": 111
+    },
+    {
+      "index": 34,
+      "title": "7",
+      "wordCount": 5577,
+      "pageCount": 6,
+      "startPage": 113
+    },
+    {
+      "index": 35,
+      "title": "8",
+      "wordCount": 1425,
+      "pageCount": 2,
+      "startPage": 119
+    },
+    {
+      "index": 36,
+      "title": "9",
+      "wordCount": 5667,
+      "pageCount": 6,
+      "startPage": 121
+    },
+    {
+      "index": 37,
+      "title": "10",
+      "wordCount": 1186,
+      "pageCount": 2,
+      "startPage": 127
+    },
+    {
+      "index": 38,
+      "title": "11",
+      "wordCount": 3011,
+      "pageCount": 4,
+      "startPage": 129
+    },
+    {
+      "index": 39,
+      "title": "12",
+      "wordCount": 2896,
+      "pageCount": 3,
+      "startPage": 133
+    },
+    {
+      "index": 40,
+      "title": "13",
+      "wordCount": 1441,
+      "pageCount": 2,
+      "startPage": 136
+    },
+    {
+      "index": 41,
+      "title": "14",
+      "wordCount": 2195,
+      "pageCount": 3,
+      "startPage": 138
+    },
+    {
+      "index": 42,
+      "title": "1",
+      "wordCount": 1178,
+      "pageCount": 2,
+      "startPage": 141
+    },
+    {
+      "index": 43,
+      "title": "2",
+      "wordCount": 2153,
+      "pageCount": 3,
+      "startPage": 143
+    },
+    {
+      "index": 44,
+      "title": "3",
+      "wordCount": 1843,
+      "pageCount": 2,
+      "startPage": 146
+    },
+    {
+      "index": 45,
+      "title": "4",
+      "wordCount": 2855,
+      "pageCount": 3,
+      "startPage": 148
+    },
+    {
+      "index": 46,
+      "title": "5",
+      "wordCount": 1398,
+      "pageCount": 2,
+      "startPage": 151
+    },
+    {
+      "index": 47,
+      "title": "6",
+      "wordCount": 633,
+      "pageCount": 1,
+      "startPage": 153
+    },
+    {
+      "index": 48,
+      "title": "7",
+      "wordCount": 5926,
+      "pageCount": 6,
+      "startPage": 154
+    },
+    {
+      "index": 49,
+      "title": "8",
+      "wordCount": 2956,
+      "pageCount": 3,
+      "startPage": 160
+    },
+    {
+      "index": 50,
+      "title": "9",
+      "wordCount": 1546,
+      "pageCount": 2,
+      "startPage": 163
+    },
+    {
+      "index": 51,
+      "title": "10",
+      "wordCount": 769,
+      "pageCount": 1,
+      "startPage": 165
+    },
+    {
+      "index": 52,
+      "title": "11",
+      "wordCount": 1671,
+      "pageCount": 2,
+      "startPage": 166
+    },
+    {
+      "index": 53,
+      "title": "12",
+      "wordCount": 1666,
+      "pageCount": 2,
+      "startPage": 168
+    },
+    {
+      "index": 54,
+      "title": "13",
+      "wordCount": 1202,
+      "pageCount": 2,
+      "startPage": 170
+    },
+    {
+      "index": 55,
+      "title": "14",
+      "wordCount": 1434,
+      "pageCount": 2,
+      "startPage": 172
+    },
+    {
+      "index": 56,
+      "title": "15",
+      "wordCount": 779,
+      "pageCount": 1,
+      "startPage": 174
+    },
+    {
+      "index": 57,
+      "title": "16",
+      "wordCount": 2139,
+      "pageCount": 3,
+      "startPage": 175
+    },
+    {
+      "index": 58,
+      "title": "17",
+      "wordCount": 861,
+      "pageCount": 1,
+      "startPage": 178
+    },
+    {
+      "index": 59,
+      "title": "18",
+      "wordCount": 1031,
+      "pageCount": 2,
+      "startPage": 179
+    },
+    {
+      "index": 60,
+      "title": "19",
+      "wordCount": 1995,
+      "pageCount": 2,
+      "startPage": 181
+    },
+    {
+      "index": 61,
+      "title": "20",
+      "wordCount": 1196,
+      "pageCount": 2,
+      "startPage": 183
+    },
+    {
+      "index": 62,
+      "title": "21",
+      "wordCount": 1191,
+      "pageCount": 2,
+      "startPage": 185
+    },
+    {
+      "index": 63,
+      "title": "22",
+      "wordCount": 1338,
+      "pageCount": 2,
+      "startPage": 187
+    },
+    {
+      "index": 64,
+      "title": "23",
+      "wordCount": 1263,
+      "pageCount": 2,
+      "startPage": 189
+    },
+    {
+      "index": 65,
+      "title": "24",
+      "wordCount": 1521,
+      "pageCount": 2,
+      "startPage": 191
+    },
+    {
+      "index": 66,
+      "title": "25",
+      "wordCount": 2179,
+      "pageCount": 3,
+      "startPage": 193
+    },
+    {
+      "index": 67,
+      "title": "26",
+      "wordCount": 1389,
+      "pageCount": 2,
+      "startPage": 196
+    },
+    {
+      "index": 68,
+      "title": "27",
+      "wordCount": 2261,
+      "pageCount": 3,
+      "startPage": 198
+    },
+    {
+      "index": 69,
+      "title": "28",
+      "wordCount": 2480,
+      "pageCount": 3,
+      "startPage": 201
+    },
+    {
+      "index": 70,
+      "title": "29",
+      "wordCount": 2790,
+      "pageCount": 3,
+      "startPage": 204
+    },
+    {
+      "index": 71,
+      "title": "30",
+      "wordCount": 2617,
+      "pageCount": 3,
+      "startPage": 207
+    },
+    {
+      "index": 72,
+      "title": "31",
+      "wordCount": 1096,
+      "pageCount": 2,
+      "startPage": 210
+    },
+    {
+      "index": 73,
+      "title": "32",
+      "wordCount": 3348,
+      "pageCount": 4,
+      "startPage": 212
+    },
+    {
+      "index": 74,
+      "title": "33",
+      "wordCount": 3291,
+      "pageCount": 4,
+      "startPage": 216
+    },
+    {
+      "index": 75,
+      "title": "35",
+      "wordCount": 922,
+      "pageCount": 1,
+      "startPage": 220
+    },
+    {
+      "index": 76,
+      "title": "36",
+      "wordCount": 1639,
+      "pageCount": 2,
+      "startPage": 221
+    },
+    {
+      "index": 77,
+      "title": "37",
+      "wordCount": 1864,
+      "pageCount": 2,
+      "startPage": 223
+    },
+    {
+      "index": 78,
+      "title": "38",
+      "wordCount": 1383,
+      "pageCount": 2,
+      "startPage": 225
+    },
+    {
+      "index": 79,
+      "title": "39",
+      "wordCount": 1466,
+      "pageCount": 2,
+      "startPage": 227
+    },
+    {
+      "index": 80,
+      "title": "40",
+      "wordCount": 640,
+      "pageCount": 1,
+      "startPage": 229
+    },
+    {
+      "index": 81,
+      "title": "41",
+      "wordCount": 1596,
+      "pageCount": 2,
+      "startPage": 230
+    },
+    {
+      "index": 82,
+      "title": "42",
+      "wordCount": 1648,
+      "pageCount": 2,
+      "startPage": 232
+    },
+    {
+      "index": 83,
+      "title": "43",
+      "wordCount": 1223,
+      "pageCount": 2,
+      "startPage": 234
+    },
+    {
+      "index": 84,
+      "title": "44",
+      "wordCount": 739,
+      "pageCount": 1,
+      "startPage": 236
+    },
+    {
+      "index": 85,
+      "title": "45",
+      "wordCount": 2377,
+      "pageCount": 3,
+      "startPage": 237
+    },
+    {
+      "index": 86,
+      "title": "The Candle In The Wind",
+      "wordCount": 47,
+      "pageCount": 1,
+      "startPage": 240
+    },
+    {
+      "index": 87,
+      "title": "1",
+      "wordCount": 2678,
+      "pageCount": 3,
+      "startPage": 241
+    },
+    {
+      "index": 88,
+      "title": "2",
+      "wordCount": 1722,
+      "pageCount": 2,
+      "startPage": 244
+    },
+    {
+      "index": 89,
+      "title": "3",
+      "wordCount": 4496,
+      "pageCount": 5,
+      "startPage": 246
+    },
+    {
+      "index": 90,
+      "title": "4",
+      "wordCount": 7696,
+      "pageCount": 8,
+      "startPage": 251
+    },
+    {
+      "index": 91,
+      "title": "6",
+      "wordCount": 1280,
+      "pageCount": 2,
+      "startPage": 259
+    },
+    {
+      "index": 92,
+      "title": "7",
+      "wordCount": 3490,
+      "pageCount": 4,
+      "startPage": 261
+    },
+    {
+      "index": 93,
+      "title": "8",
+      "wordCount": 4646,
+      "pageCount": 5,
+      "startPage": 265
+    },
+    {
+      "index": 94,
+      "title": "9",
+      "wordCount": 2247,
+      "pageCount": 3,
+      "startPage": 270
+    },
+    {
+      "index": 95,
+      "title": "10",
+      "wordCount": 3958,
+      "pageCount": 4,
+      "startPage": 273
+    },
+    {
+      "index": 96,
+      "title": "11",
+      "wordCount": 4439,
+      "pageCount": 5,
+      "startPage": 277
+    },
+    {
+      "index": 97,
+      "title": "12",
+      "wordCount": 1915,
+      "pageCount": 2,
+      "startPage": 282
+    },
+    {
+      "index": 98,
+      "title": "13",
+      "wordCount": 1853,
+      "pageCount": 2,
+      "startPage": 284
+    },
+    {
+      "index": 99,
+      "title": "14",
+      "wordCount": 4938,
+      "pageCount": 5,
+      "startPage": 286
+    },
+    {
+      "index": 100,
+      "title": "The Book of Merlyn",
+      "wordCount": 39207,
+      "pageCount": 40,
+      "startPage": 291
+    },
+    {
+      "index": 101,
+      "title": "Introduction from Book of Merlyn",
+      "wordCount": 4698,
+      "pageCount": 5,
+      "startPage": 331
+    },
+    {
+      "index": 102,
+      "title": "Printing Info - Once & Future King",
+      "wordCount": 352,
+      "pageCount": 1,
+      "startPage": 336
+    },
+    {
+      "index": 103,
+      "title": "Printing Info - Book of Merlyn",
+      "wordCount": 485,
+      "pageCount": 1,
+      "startPage": 337
+    }
+  ]
+}

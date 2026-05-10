@@ -406,6 +406,15 @@
       "totalChapters": 239
     },
     {
+      "id": "the-once-future-king",
+      "title": "The Once & Future King",
+      "author": "T. H. White",
+      "description": "",
+      "totalWords": 282677,
+      "totalPages": 283,
+      "totalChapters": 103
+    },
+    {
       "id": "the-road",
       "title": "The Road",
       "author": "Cormac McCarthy",
@@ -541,5 +550,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-10T12:10:55.188Z"
+  "updatedAt": "2026-05-10T14:49:11.762Z"
 }
