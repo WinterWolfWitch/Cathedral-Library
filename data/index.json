@@ -406,6 +406,15 @@
       "totalChapters": 37
     },
     {
+      "id": "the-deepwater-bride-other-stories",
+      "title": "The Deepwater Bride & Other Stories",
+      "author": "Tamsyn Muir",
+      "description": "Tamsyn Muir is a horror, fantasy and sci-fi author whose works have appeared in Nightmare Magazine , F&SF , Fantasy Magazine , Weird Tales , and Clarkesworld . Her fiction has received nominations for the Nebula Award, the Shirley Jackson Award, the World Fantasy Award and the Eugie Foster Memorial Award. She has spent the majority of her life in Howick, New Zealand, with time spent living in Waiuku and central Wellington. She currently lives and teaches in Oxford, in the United Kingdom. Tamsyn ",
+      "totalWords": 40428,
+      "totalPages": 41,
+      "totalChapters": 8
+    },
+    {
       "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
       "title": "The Essence of Chaos (The Jessie and John Danz Lecture",
       "author": "Edward N. Lorenz",
@@ -458,6 +467,15 @@
       "totalWords": 344526,
       "totalPages": 345,
       "totalChapters": 239
+    },
+    {
+      "id": "the-mysterious-study-of-doctor-sex",
+      "title": "The Mysterious Study of Doctor Sex",
+      "author": "Tamsyn Muir",
+      "description": "",
+      "totalWords": 8587,
+      "totalPages": 9,
+      "totalChapters": 2
     },
     {
       "id": "the-once-future-king",
@@ -604,5 +622,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-11T16:56:30.614Z"
+  "updatedAt": "2026-05-11T17:09:38.259Z"
 }
