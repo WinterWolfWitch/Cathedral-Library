@@ -451,6 +451,15 @@
       "totalChapters": 6
     },
     {
+      "id": "the-house-in-the-cerulean-sea",
+      "title": "The House in the Cerulean Sea",
+      "author": "TJ Klune",
+      "description": "A NEW YORK TIMES, USA TODAY, and WASHINGTON POST BESTSELLER! A 2021 Alex Award winner! The 2021 RUSA Reading List: Fantasy Winner! An Indie Next Pick! One of Publishers Weekly 's \"Most Anticipated Books of Spring 2020\" One of Book Riot 's \"20 Must-Read Feel-Good Fantasies\" Lambda Literary Award-winning author TJ Klune's bestselling, breakout contemporary fantasy that's \" 1984 meets The Umbrella Academy with a pinch of Douglas Adams thrown in.\" (Gail Carriger) Linus Baker is a by-the-book case wo",
+      "totalWords": 116132,
+      "totalPages": 117,
+      "totalChapters": 27
+    },
+    {
       "id": "the-left-hand-of-darkness",
       "title": "The Left Hand Of Darkness",
       "author": "Ursula K. Le Guin",
@@ -622,5 +631,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-11T17:09:38.259Z"
+  "updatedAt": "2026-05-11T17:18:30.685Z"
 }
