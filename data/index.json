@@ -127,6 +127,15 @@
       "totalChapters": 43
     },
     {
+      "id": "fiction-complete",
+      "title": "Fiction Complete",
+      "author": "Ted Chiang",
+      "description": "Scanned, converted, re-formatted, proofed, custom title page, custom book cover and eBook creation by Jerry",
+      "totalWords": 188611,
+      "totalPages": 189,
+      "totalChapters": 43
+    },
+    {
       "id": "godel-escher-bach-an-eternal-golden-braid",
       "title": "Godel, Escher, Bach-An Eternal Golden Braid",
       "author": "Douglas R. Hofstadter",
@@ -406,6 +415,15 @@
       "totalChapters": 37
     },
     {
+      "id": "the-broken-kingdoms-the-inheritance-trilogy-book-2",
+      "title": "The Broken Kingdoms (The Inheritance Trilogy Book 2)",
+      "author": "N. K. Jemisin, Manuel Mata",
+      "description": "",
+      "totalWords": 108749,
+      "totalPages": 109,
+      "totalChapters": 22
+    },
+    {
       "id": "the-deepwater-bride-other-stories",
       "title": "The Deepwater Bride & Other Stories",
       "author": "Tamsyn Muir",
@@ -460,6 +478,15 @@
       "totalChapters": 27
     },
     {
+      "id": "the-hundred-thousand-kingdoms-inheritance-trilogy-book-1",
+      "title": "The Hundred Thousand Kingdoms (Inheritance Trilogy Book 1)",
+      "author": "Jemisin, N.K.",
+      "description": "",
+      "totalWords": 116156,
+      "totalPages": 117,
+      "totalChapters": 24
+    },
+    {
       "id": "the-left-hand-of-darkness",
       "title": "The Left Hand Of Darkness",
       "author": "Ursula K. Le Guin",
@@ -476,6 +503,15 @@
       "totalWords": 344526,
       "totalPages": 345,
       "totalChapters": 239
+    },
+    {
+      "id": "the-mountain-in-the-sea",
+      "title": "The Mountain in the Sea",
+      "author": "Ray Nayler",
+      "description": "Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future. Rumors begin to spread of a species of hyperintelligent, dangerous octopus that may have developed its own language and culture. Marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. The transnational tech corporation DIANIMA has sealed the remote Con",
+      "totalWords": 97083,
+      "totalPages": 98,
+      "totalChapters": 56
     },
     {
       "id": "the-mysterious-study-of-doctor-sex",
@@ -548,6 +584,15 @@
       "totalWords": 89366,
       "totalPages": 90,
       "totalChapters": 18
+    },
+    {
+      "id": "this-is-how-you-lose-the-time-war",
+      "title": "This Is How You Lose the Time War",
+      "author": "Amal El-Mohtar",
+      "description": "HUGO AWARD WINNER: BEST NOVELLA NEBULA AND LOCUS AWARDS WINNER: BEST NOVELLA \"[An] exquisitely crafted tale...Part epistolary romance, part mind-blowing science fiction adventure, this dazzling story unfolds bit by bit, revealing layers of meaning as it plays with cause and effect, wildly imaginative technologies, and increasingly intricate wordplay...This short novel warrants multiple readings to fully unlock its complexities.\" &#8212; Publishers Weekly (starred review). From award-winning auth",
+      "totalWords": 38002,
+      "totalPages": 39,
+      "totalChapters": 57
     },
     {
       "id": "the-tombs-of-atuan",
@@ -631,5 +676,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-11T17:18:30.685Z"
+  "updatedAt": "2026-05-11T17:44:29.254Z"
 }
