@@ -1,0 +1,313 @@
+{
+  "id": "fiction-complete",
+  "title": "Fiction Complete",
+  "author": "Ted Chiang",
+  "description": "Scanned, converted, re-formatted, proofed, custom title page, custom book cover and eBook creation by Jerry",
+  "filename": "Fiction Complete -- Ted Chiang -- 2024 -- Jerry eBooks -- 80cafe942d27b9b64ce69ca0bf2440a0 -- Anna’s Archive.epub",
+  "totalWords": 188611,
+  "totalPages": 189,
+  "totalChapters": 43,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Jerry eBooks",
+      "wordCount": 36,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 94,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "About Ted Chiang",
+      "wordCount": 247,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Bibliography",
+      "wordCount": 44,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Short Fiction Bibliography",
+      "wordCount": 197,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Tower of Babylon",
+      "wordCount": 9615,
+      "pageCount": 10,
+      "startPage": 6
+    },
+    {
+      "index": 7,
+      "title": "Division Zero",
+      "wordCount": 5597,
+      "pageCount": 6,
+      "startPage": 16
+    },
+    {
+      "index": 8,
+      "title": "Understand",
+      "wordCount": 13399,
+      "pageCount": 14,
+      "startPage": 22
+    },
+    {
+      "index": 9,
+      "title": "Story of Your Life",
+      "wordCount": 17527,
+      "pageCount": 18,
+      "startPage": 36
+    },
+    {
+      "index": 10,
+      "title": "Catching Crumbs from the Table",
+      "wordCount": 815,
+      "pageCount": 1,
+      "startPage": 54
+    },
+    {
+      "index": 11,
+      "title": "Seventy-two Letters",
+      "wordCount": 17746,
+      "pageCount": 18,
+      "startPage": 55
+    },
+    {
+      "index": 12,
+      "title": "Hell is the Absence of God",
+      "wordCount": 10948,
+      "pageCount": 11,
+      "startPage": 73
+    },
+    {
+      "index": 13,
+      "title": "Liking What You See: A Documentary",
+      "wordCount": 13008,
+      "pageCount": 14,
+      "startPage": 84
+    },
+    {
+      "index": 14,
+      "title": "What’s Expected of Us",
+      "wordCount": 911,
+      "pageCount": 1,
+      "startPage": 98
+    },
+    {
+      "index": 15,
+      "title": "The Merchant and the Alchemist’s Gate",
+      "wordCount": 10886,
+      "pageCount": 11,
+      "startPage": 99
+    },
+    {
+      "index": 16,
+      "title": "Exhalation",
+      "wordCount": 6507,
+      "pageCount": 7,
+      "startPage": 110
+    },
+    {
+      "index": 17,
+      "title": "The Lifecycle of Software Objects",
+      "wordCount": 215,
+      "pageCount": 1,
+      "startPage": 117
+    },
+    {
+      "index": 18,
+      "title": "Chapter 18",
+      "wordCount": 2095,
+      "pageCount": 3,
+      "startPage": 118
+    },
+    {
+      "index": 19,
+      "title": "Chapter 19",
+      "wordCount": 1476,
+      "pageCount": 2,
+      "startPage": 121
+    },
+    {
+      "index": 20,
+      "title": "Chapter 20",
+      "wordCount": 1885,
+      "pageCount": 2,
+      "startPage": 123
+    },
+    {
+      "index": 21,
+      "title": "Chapter 21",
+      "wordCount": 1739,
+      "pageCount": 2,
+      "startPage": 125
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 971,
+      "pageCount": 1,
+      "startPage": 127
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 839,
+      "pageCount": 1,
+      "startPage": 128
+    },
+    {
+      "index": 24,
+      "title": "Chapter 24",
+      "wordCount": 1932,
+      "pageCount": 2,
+      "startPage": 129
+    },
+    {
+      "index": 25,
+      "title": "Chapter 25",
+      "wordCount": 2133,
+      "pageCount": 3,
+      "startPage": 131
+    },
+    {
+      "index": 26,
+      "title": "Chapter 26",
+      "wordCount": 2254,
+      "pageCount": 3,
+      "startPage": 134
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 1700,
+      "pageCount": 2,
+      "startPage": 137
+    },
+    {
+      "index": 28,
+      "title": "Chapter 28",
+      "wordCount": 1394,
+      "pageCount": 2,
+      "startPage": 139
+    },
+    {
+      "index": 29,
+      "title": "Chapter 29",
+      "wordCount": 1470,
+      "pageCount": 2,
+      "startPage": 141
+    },
+    {
+      "index": 30,
+      "title": "Chapter 30",
+      "wordCount": 1370,
+      "pageCount": 2,
+      "startPage": 143
+    },
+    {
+      "index": 31,
+      "title": "Chapter 31",
+      "wordCount": 980,
+      "pageCount": 1,
+      "startPage": 145
+    },
+    {
+      "index": 32,
+      "title": "Chapter 32",
+      "wordCount": 2581,
+      "pageCount": 3,
+      "startPage": 146
+    },
+    {
+      "index": 33,
+      "title": "Chapter 33",
+      "wordCount": 1735,
+      "pageCount": 2,
+      "startPage": 149
+    },
+    {
+      "index": 34,
+      "title": "Chapter 34",
+      "wordCount": 1455,
+      "pageCount": 2,
+      "startPage": 151
+    },
+    {
+      "index": 35,
+      "title": "Chapter 35",
+      "wordCount": 1003,
+      "pageCount": 2,
+      "startPage": 153
+    },
+    {
+      "index": 36,
+      "title": "Chapter 36",
+      "wordCount": 1928,
+      "pageCount": 2,
+      "startPage": 155
+    },
+    {
+      "index": 37,
+      "title": "Chapter 37",
+      "wordCount": 45,
+      "pageCount": 1,
+      "startPage": 157
+    },
+    {
+      "index": 38,
+      "title": "Dacey’s Patent Automatic Nanny",
+      "wordCount": 2887,
+      "pageCount": 3,
+      "startPage": 158
+    },
+    {
+      "index": 39,
+      "title": "The Truth of Fact, the Truth of Feeling",
+      "wordCount": 13755,
+      "pageCount": 14,
+      "startPage": 161
+    },
+    {
+      "index": 40,
+      "title": "The Great Silence",
+      "wordCount": 1227,
+      "pageCount": 2,
+      "startPage": 175
+    },
+    {
+      "index": 41,
+      "title": "Omphalos",
+      "wordCount": 10397,
+      "pageCount": 11,
+      "startPage": 177
+    },
+    {
+      "index": 42,
+      "title": "Anxiety is the Dizziness of Freedom",
+      "wordCount": 20382,
+      "pageCount": 21,
+      "startPage": 188
+    },
+    {
+      "index": 43,
+      "title": "It’s 2059, and the Rich Kids Are Still Winning",
+      "wordCount": 1186,
+      "pageCount": 2,
+      "startPage": 209
+    }
+  ]
+}

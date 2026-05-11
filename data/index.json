@@ -10,6 +10,15 @@
       "totalChapters": 31
     },
     {
+      "id": "abendau-s-legacy-the-inheritance-trilogy-book-3",
+      "title": "Abendau's Legacy (The Inheritance Trilogy Book 3)",
+      "author": "Jo Zebedee",
+      "description": "",
+      "totalWords": 89539,
+      "totalPages": 90,
+      "totalChapters": 18
+    },
+    {
       "id": "written-in-red-a-novel-of-the-others",
       "title": "Written In Red: A Novel of the Others",
       "author": "Anne Bishop",
@@ -109,6 +118,15 @@
       "totalChapters": 19
     },
     {
+      "id": "fiction-complete",
+      "title": "Fiction Complete",
+      "author": "Ted Chiang",
+      "description": "Scanned, converted, re-formatted, proofed, custom title page, custom book cover and eBook creation by Jerry",
+      "totalWords": 188611,
+      "totalPages": 189,
+      "totalChapters": 43
+    },
+    {
       "id": "godel-escher-bach-an-eternal-golden-braid",
       "title": "Godel, Escher, Bach-An Eternal Golden Braid",
       "author": "Douglas R. Hofstadter",
@@ -116,6 +134,15 @@
       "totalWords": 324196,
       "totalPages": 325,
       "totalChapters": 65
+    },
+    {
+      "id": "harrow-the-ninth",
+      "title": "Harrow the Ninth",
+      "author": "Tamsyn Muir",
+      "description": "",
+      "totalWords": 164251,
+      "totalPages": 165,
+      "totalChapters": 66
     },
     {
       "id": "house-of-leaves",
@@ -181,6 +208,15 @@
       "totalChapters": 82
     },
     {
+      "id": "jemisin-n-k-inheritance-02-the-broken-kingdoms",
+      "title": "Jemisin, N.K - Inheritance 02 - The Broken Kingdoms",
+      "author": "Jemisin, N.K.",
+      "description": "",
+      "totalWords": 111352,
+      "totalPages": 112,
+      "totalChapters": 23
+    },
+    {
       "id": "queen-city-jazz",
       "title": "Queen City Jazz",
       "author": "Kathleen Ann Goonan",
@@ -215,6 +251,15 @@
       "totalWords": 132852,
       "totalPages": 133,
       "totalChapters": 11
+    },
+    {
+      "id": "klara-and-the-sun",
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "description": "Klara and the Sun is a magnificent new novel from the Nobel laureate Kazuo Ishiguro&#8212;author of Never Let Me Go and the Booker Prize-winning The Remains of the Day. Klara and the Sun, the first novel by Kazuo Ishiguro since he was awarded the Nobel Prize in Literature, tells the story of Klara, an Artificial Friend with outstanding observational qualities, who, from her place in the store, watches carefully the behavior of those who come in to browse, and of those who pass on the street outs",
+      "totalWords": 90141,
+      "totalPages": 91,
+      "totalChapters": 9
     },
     {
       "id": "letters-to-a-young-poet",
@@ -278,6 +323,15 @@
       "totalWords": 66613,
       "totalPages": 67,
       "totalChapters": 14
+    },
+    {
+      "id": "princess-floralinda-and-the-forty-flight-tower",
+      "title": "Princess Floralinda and the Forty-Flight Tower",
+      "author": "Tamsyn Muir",
+      "description": "",
+      "totalWords": 39844,
+      "totalPages": 40,
+      "totalChapters": 31
     },
     {
       "id": "project-hail-mary",
@@ -550,5 +604,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-10T14:49:11.762Z"
+  "updatedAt": "2026-05-11T16:56:30.614Z"
 }
