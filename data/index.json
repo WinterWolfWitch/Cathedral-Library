@@ -118,6 +118,15 @@
       "totalChapters": 19
     },
     {
+      "id": "ficciones",
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "description": "",
+      "totalWords": 48118,
+      "totalPages": 49,
+      "totalChapters": 10
+    },
+    {
       "id": "fiction-complete",
       "title": "Fiction Complete",
       "author": "Ted Chiang",
@@ -676,5 +685,5 @@
       "totalChapters": 13
     }
   ],
-  "updatedAt": "2026-05-11T17:44:29.254Z"
+  "updatedAt": "2026-05-15T20:07:22.268Z"
 }
