@@ -23,15 +23,18 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install calibre (for mobi/azw3)
+      # calibre handles mobi/azw3 natively AND is the fallback for any epub
+      # whose table of contents defeats the native parser, so install it
+      # whenever there are books of any kind to process.
+      - name: Install calibre
         run: |
           shopt -s nullglob
-          mobi_files=(books/*.mobi books/*.azw3)
-          if [ ${#mobi_files[@]} -gt 0 ]; then
-            echo "mobi/azw3 files found, installing calibre..."
+          book_files=(books/*.mobi books/*.azw3 books/*.epub)
+          if [ ${#book_files[@]} -gt 0 ]; then
+            echo "Books found, installing calibre..."
             sudo apt-get update && sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --fix-missing calibre
           else
-            echo "No mobi/azw3 files — skipping calibre install"
+            echo "No mobi/azw3/epub files — skipping calibre install"
           fi
 
       - name: Install dependencies
@@ -50,4 +53,4 @@ jobs:
           git push
 
       - name: Purge jsDelivr cache
-        run: curl -sf "https://purge.jsdelivr.net/gh/sinxisterrr/Sage-Library@main/data/index.json" || true
+        run: curl -sf "https://purge.jsdelivr.net/gh/WinterWolfWitch/Cathedral-Library@main/data/index.json" || true
