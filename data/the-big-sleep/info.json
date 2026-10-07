@@ -1,0 +1,271 @@
+{
+  "id": "the-big-sleep",
+  "title": "The Big Sleep",
+  "author": "Raymond Chandler",
+  "description": "",
+  "filename": "The Big Sleep -- Raymond Chandler -- New York, New York State, 2002.epub",
+  "totalWords": 66788,
+  "totalPages": 67,
+  "totalChapters": 37,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Contents",
+      "wordCount": 47,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 1137,
+      "pageCount": 2,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 2770,
+      "pageCount": 3,
+      "startPage": 4
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 1559,
+      "pageCount": 2,
+      "startPage": 7
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 1531,
+      "pageCount": 2,
+      "startPage": 9
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 851,
+      "pageCount": 1,
+      "startPage": 11
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 1376,
+      "pageCount": 2,
+      "startPage": 12
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 1472,
+      "pageCount": 2,
+      "startPage": 14
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 1081,
+      "pageCount": 2,
+      "startPage": 16
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 2343,
+      "pageCount": 3,
+      "startPage": 18
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 1306,
+      "pageCount": 2,
+      "startPage": 21
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 1920,
+      "pageCount": 2,
+      "startPage": 23
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 1606,
+      "pageCount": 2,
+      "startPage": 25
+    },
+    {
+      "index": 14,
+      "title": "Chapter 14",
+      "wordCount": 2353,
+      "pageCount": 3,
+      "startPage": 27
+    },
+    {
+      "index": 15,
+      "title": "Chapter 15",
+      "wordCount": 2433,
+      "pageCount": 3,
+      "startPage": 30
+    },
+    {
+      "index": 16,
+      "title": "Chapter 16",
+      "wordCount": 1260,
+      "pageCount": 2,
+      "startPage": 33
+    },
+    {
+      "index": 17,
+      "title": "Chapter 17",
+      "wordCount": 2879,
+      "pageCount": 3,
+      "startPage": 35
+    },
+    {
+      "index": 18,
+      "title": "Chapter 18",
+      "wordCount": 1394,
+      "pageCount": 2,
+      "startPage": 38
+    },
+    {
+      "index": 19,
+      "title": "Chapter 19",
+      "wordCount": 3530,
+      "pageCount": 4,
+      "startPage": 40
+    },
+    {
+      "index": 20,
+      "title": "Chapter 20",
+      "wordCount": 1028,
+      "pageCount": 2,
+      "startPage": 44
+    },
+    {
+      "index": 21,
+      "title": "Chapter 21",
+      "wordCount": 2155,
+      "pageCount": 3,
+      "startPage": 46
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 2428,
+      "pageCount": 3,
+      "startPage": 49
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 1862,
+      "pageCount": 2,
+      "startPage": 52
+    },
+    {
+      "index": 24,
+      "title": "Chapter 24",
+      "wordCount": 3256,
+      "pageCount": 4,
+      "startPage": 54
+    },
+    {
+      "index": 25,
+      "title": "Chapter 25",
+      "wordCount": 1786,
+      "pageCount": 2,
+      "startPage": 58
+    },
+    {
+      "index": 26,
+      "title": "Chapter 26",
+      "wordCount": 3127,
+      "pageCount": 4,
+      "startPage": 60
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 2826,
+      "pageCount": 3,
+      "startPage": 64
+    },
+    {
+      "index": 28,
+      "title": "Chapter 28",
+      "wordCount": 3028,
+      "pageCount": 4,
+      "startPage": 67
+    },
+    {
+      "index": 29,
+      "title": "Chapter 29",
+      "wordCount": 2235,
+      "pageCount": 3,
+      "startPage": 71
+    },
+    {
+      "index": 30,
+      "title": "Chapter 30",
+      "wordCount": 1514,
+      "pageCount": 2,
+      "startPage": 74
+    },
+    {
+      "index": 31,
+      "title": "Chapter 31",
+      "wordCount": 3710,
+      "pageCount": 4,
+      "startPage": 76
+    },
+    {
+      "index": 32,
+      "title": "Chapter 32",
+      "wordCount": 1642,
+      "pageCount": 2,
+      "startPage": 80
+    },
+    {
+      "index": 33,
+      "title": "Chapter 33",
+      "wordCount": 3077,
+      "pageCount": 4,
+      "startPage": 82
+    },
+    {
+      "index": 34,
+      "title": "Chapter 34",
+      "wordCount": 87,
+      "pageCount": 1,
+      "startPage": 86
+    },
+    {
+      "index": 35,
+      "title": "Chapter 35",
+      "wordCount": 36,
+      "pageCount": 1,
+      "startPage": 87
+    },
+    {
+      "index": 36,
+      "title": "Chapter 36",
+      "wordCount": 47,
+      "pageCount": 1,
+      "startPage": 88
+    },
+    {
+      "index": 37,
+      "title": "Copyright",
+      "wordCount": 96,
+      "pageCount": 1,
+      "startPage": 89
+    }
+  ]
+}

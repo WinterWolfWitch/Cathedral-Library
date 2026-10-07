@@ -1,0 +1,68 @@
+{
+  "id": "the-human-brain",
+  "title": "The Human Brain",
+  "author": "Asimov, Isaac",
+  "description": "",
+  "filename": "The Human Brain -- Asimov, Isaac [Asimov, Isaac].epub",
+  "totalWords": 120665,
+  "totalPages": 121,
+  "totalChapters": 8,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 13664,
+      "pageCount": 14,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 29530,
+      "pageCount": 30,
+      "startPage": 15
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 17492,
+      "pageCount": 18,
+      "startPage": 45
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 4764,
+      "pageCount": 5,
+      "startPage": 63
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 4420,
+      "pageCount": 5,
+      "startPage": 68
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 1443,
+      "pageCount": 2,
+      "startPage": 73
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 21947,
+      "pageCount": 22,
+      "startPage": 75
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 27405,
+      "pageCount": 28,
+      "startPage": 97
+    }
+  ]
+}

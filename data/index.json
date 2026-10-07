@@ -1,689 +1,962 @@
 {
   "books": [
     {
-      "id": "a-man-rides-through",
-      "title": "A Man Rides Through",
-      "author": "Stephen R. Donaldson",
-      "description": "",
-      "totalWords": 256324,
-      "totalPages": 257,
-      "totalChapters": 31
-    },
-    {
-      "id": "abendau-s-legacy-the-inheritance-trilogy-book-3",
-      "title": "Abendau's Legacy (The Inheritance Trilogy Book 3)",
-      "author": "Jo Zebedee",
-      "description": "",
-      "totalWords": 89539,
-      "totalPages": 90,
-      "totalChapters": 18
-    },
-    {
-      "id": "written-in-red-a-novel-of-the-others",
-      "title": "Written In Red: A Novel of the Others",
-      "author": "Anne Bishop",
-      "description": "",
-      "totalWords": 164010,
-      "totalPages": 165,
-      "totalChapters": 38
-    },
-    {
-      "id": "anne-bishop-the-others-02-murder-of-crows-epub",
-      "title": "Anne Bishop - [The Others 02] - Murder of Crows (epub)",
-      "author": "Unknown",
-      "description": "",
-      "totalWords": 122871,
-      "totalPages": 123,
-      "totalChapters": 25
-    },
-    {
-      "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
-      "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
-      "author": "Levine, Amir",
-      "description": "",
-      "totalWords": 67370,
-      "totalPages": 68,
-      "totalChapters": 24
-    },
-    {
-      "id": "blindsight",
-      "title": "Blindsight",
-      "author": "Peter Watts",
-      "description": "",
-      "totalWords": 104683,
-      "totalPages": 105,
-      "totalChapters": 10
-    },
-    {
-      "id": "oxford-time-travel-01-fire-watch",
-      "title": "Oxford Time Travel 01 - Fire Watch",
-      "author": "Connie Willis",
-      "description": "Winner of six Nebula and five Hugo awards, Connie Willis is one of the most acclaimed and imaginative authors of our time. Her startling and powerful works have redefined the boundaries of contemporary science fiction. Here in one volume are twelve of her greatest stories, including double award-winner \"Fire Watch,\" set in the universe of Doomsday Book and To Say Nothing of the Dog, in which a time-traveling student learns one of history's hardest lessons. In \"A Letter from the Clearys,\" a routi",
-      "totalWords": 93887,
-      "totalPages": 94,
-      "totalChapters": 30
-    },
-    {
-      "id": "oxford-time-travel-02-the-doomsday-book",
-      "title": "Oxford Time Travel 02 - The Doomsday Book",
-      "author": "Connie Willis",
-      "description": "",
-      "totalWords": 206580,
-      "totalPages": 207,
-      "totalChapters": 44
-    },
-    {
-      "id": "oxford-time-travel-03-to-say-nothing-of-the-dog",
-      "title": "Oxford Time Travel 03 - To Say Nothing of the Dog",
-      "author": "Connie Willis",
-      "description": "From Connie Willis, winner of multiple Hugo and Nebula Awards, comes a comedic romp through an unpredictable world of mystery, love, and time travel... Ned Henry is badly in need of a rest. He's been shuttling between the 21st century and the 1940s searching for a Victorian atrocity called the bishop's bird stump. It's part of a project to restore the famed Coventry Cathedral, destroyed in a Nazi air raid over a hundred years earlier. But then Verity Kindle, a fellow time traveler, inadvertently",
-      "totalWords": 179090,
-      "totalPages": 180,
-      "totalChapters": 30
-    },
-    {
-      "id": "does-god-play-dice-the-new-mathematics-of-chaos",
-      "title": "Does God Play Dice?: The New Mathematics of Chaos",
-      "author": "Ian Stewart",
-      "description": "Since the dramatic discovery of the mathematical concept of chaos in 1989, the controversy of its contents has settled down. This revised edition of Does God Play Dice? takes a fresh look at its achievements and potential. With a new preface and three completely new chapters, it includes the latest practical applications of chaos theory, such as developing intelligent heart pacemakers. All this provides a fascinating new answer to Einstien's question which provided the title of this book.",
-      "totalWords": 140963,
-      "totalPages": 141,
-      "totalChapters": 198
-    },
-    {
-      "id": "dune",
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "description": "Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, “Dune” tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the universe. The story explores the complex and multi-",
-      "totalWords": 207126,
-      "totalPages": 208,
-      "totalChapters": 58
-    },
-    {
-      "id": "empire-of-the-vampire",
-      "title": "Empire of the Vampire",
-      "author": "Jay Kristoff",
-      "description": "From the Sunday Times bestselling and award-winning author of the Nevernight Chronicle, comes this masterful new series. Featuring the darkly beautiful illustrations of Bon Orthwick (@monolimeart). 'This book is bloody brilliant' — V.E Schwab, NEW YORK TIMES bestselling author of THE INVISIBLE LIFE OF ADDIE LARUE It has been twenty-seven long years since the last sunrise. For nearly three decades, vampires have waged war against humanity; building their eternal empire even as they tear down our ",
-      "totalWords": 244264,
-      "totalPages": 245,
-      "totalChapters": 109
-    },
-    {
-      "id": "the-farthest-shore",
-      "title": "The Farthest Shore",
-      "author": "Ursula K. Le Guin",
-      "description": "The National Book Award–winning third novel in the renowned Earthsea series from Ursula K. LeGuin. In this third book in the Earthsea series, darkness threatens to overtake Earthsea: The world and its wizards are losing their magic. But Ged Sparrohawk—Archmage, wizard, and dragonlord—is determined to discover the source of this devastating loss. Aided by Enlad’s young Prince Arren, Ged embarks on a treacherous journey that will test their strength and will. Because to restore magic, the two warr",
-      "totalWords": 69180,
-      "totalPages": 70,
-      "totalChapters": 19
-    },
-    {
-      "id": "ficciones",
-      "title": "Ficciones",
-      "author": "Jorge Luis Borges",
-      "description": "",
-      "totalWords": 48118,
-      "totalPages": 49,
-      "totalChapters": 10
-    },
-    {
-      "id": "fiction-complete",
-      "title": "Fiction Complete",
-      "author": "Ted Chiang",
-      "description": "Scanned, converted, re-formatted, proofed, custom title page, custom book cover and eBook creation by Jerry",
-      "totalWords": 188611,
-      "totalPages": 189,
-      "totalChapters": 43
-    },
-    {
-      "id": "fiction-complete",
-      "title": "Fiction Complete",
-      "author": "Ted Chiang",
-      "description": "Scanned, converted, re-formatted, proofed, custom title page, custom book cover and eBook creation by Jerry",
-      "totalWords": 188611,
-      "totalPages": 189,
-      "totalChapters": 43
-    },
-    {
-      "id": "godel-escher-bach-an-eternal-golden-braid",
-      "title": "Godel, Escher, Bach-An Eternal Golden Braid",
-      "author": "Douglas R. Hofstadter",
-      "description": "",
-      "totalWords": 324196,
-      "totalPages": 325,
-      "totalChapters": 65
-    },
-    {
-      "id": "harrow-the-ninth",
-      "title": "Harrow the Ninth",
-      "author": "Tamsyn Muir",
-      "description": "",
-      "totalWords": 164251,
-      "totalPages": 165,
-      "totalChapters": 66
-    },
-    {
-      "id": "house-of-leaves",
-      "title": "House of Leaves",
-      "author": "Mark Z. Danielewski",
-      "description": "",
-      "totalWords": 195141,
-      "totalPages": 196,
-      "totalChapters": 40
-    },
-    {
       "id": "a-cavern-of-black-ice-book-1",
       "title": "A Cavern Of Black Ice (Book 1)",
       "author": "J.V. Jones",
       "description": "Book 1 of the Sword Of Shadows series. Retail purchase.",
+      "filename": "J. V. Jones - [Sword of Shadows 01] - A Cavern of Black Ice (epub).epub",
       "totalWords": 294081,
       "totalPages": 295,
-      "totalChapters": 60
-    },
-    {
-      "id": "a-fortress-of-grey-ice-book-2",
-      "title": "A Fortress of Grey Ice (Book 2)",
-      "author": "J.V. Jones",
-      "description": "Book II of the Sword Of Shadows series. Retail purchase.",
-      "totalWords": 236006,
-      "totalPages": 237,
-      "totalChapters": 55
-    },
-    {
-      "id": "a-sword-from-red-ice-book-3",
-      "title": "A Sword from Red Ice (Book 3)",
-      "author": "J.V. Jones",
-      "description": "Book III of the Sword Of Shadows series. Retail purchase.",
-      "totalWords": 259418,
-      "totalPages": 260,
-      "totalChapters": 55
-    },
-    {
-      "id": "watcher-of-the-dead-book-4",
-      "title": "Watcher Of The Dead (Book 4)",
-      "author": "J.V. Jones",
-      "description": "Book IV of the Sword Of Shadows series. Retail purchase.",
-      "totalWords": 157297,
-      "totalPages": 158,
-      "totalChapters": 45
-    },
-    {
-      "id": "fireblood",
-      "title": "Fireblood",
-      "author": "Jeff Wheeler",
-      "description": "Tyrus of Kenatos has made it his life’s work to banish the plagues that ravage the kingdoms. He believes the answer to ending the devastation lies in the Scourgelands. Yet, Tyrus’s first expedition into the cursed woods failed after being defeated by mysterious minions who stalked and killed most of his band. Now a prisoner in his own tower, Tyrus has summoned his nephew Annon—a Druidecht possessing innate magic called the fireblood—on the guise of finding a hidden treasure with which to purchas",
-      "totalWords": 114466,
-      "totalPages": 115,
-      "totalChapters": 90
-    },
-    {
-      "id": "dryad-born-whispers-from-mirrowen",
-      "title": "Dryad-Born (Whispers From Mirrowen)",
-      "author": "Jeff Wheeler",
-      "description": "The struggle to save the plague-ridden kingdoms continues in this captivating second novel in the Whispers from Mirrowen series. The orphan Phae has kept her innate ability secret since she was young. Not only does she possess the dangerous fireblood, but she can also steal the memories of anyone who looks into her eyes. Phae has no idea that her combination of powers is extraordinary. She is the unwitting key to discovering the secret origin of the plagues…and she is also now a target. The ruth",
-      "totalWords": 126403,
-      "totalPages": 127,
-      "totalChapters": 82
-    },
-    {
-      "id": "jemisin-n-k-inheritance-02-the-broken-kingdoms",
-      "title": "Jemisin, N.K - Inheritance 02 - The Broken Kingdoms",
-      "author": "Jemisin, N.K.",
-      "description": "",
-      "totalWords": 111352,
-      "totalPages": 112,
-      "totalChapters": 23
-    },
-    {
-      "id": "queen-city-jazz",
-      "title": "Queen City Jazz",
-      "author": "Kathleen Ann Goonan",
-      "description": "From Publishers Weekly This impressive first novel by an experienced story writer combines hallucinogenic visions, historical personae and an original futuristic dystopia. Young Verity has been raised by a reconstructionist Shaker group that bases its religion on the American cult that banned sex and believed in \"simple\" virtues. The adolescent has strange powers and mysterious compulsions that cause her to seek out and learn things from technologies that her adoptive community has forsaken. Aft",
-      "totalWords": 146867,
-      "totalPages": 147,
-      "totalChapters": 49
-    },
-    {
-      "id": "mississippi-blues",
-      "title": "Mississippi Blues",
-      "author": "Kathleen Ann Goonan",
-      "description": "Amazon.com Review Mississippi Blues is a uniquely twisted vision of a postapocalyptic future in which nanotechnology is just the most recent rung humanity has climbed in its techno-evolution. Goonan's story features a wild ride down the Mississippi to \"Norleans,\" propelled by a nanoplague that may or may not be humanity's saving grace. Our heroine Verity rescues a motley group from metapheromonal slavery in Cincinnati, and they set off on boats and rafts to an uncertain utopia at the end of the ",
-      "totalWords": 204305,
-      "totalPages": 205,
-      "totalChapters": 53
-    },
-    {
-      "id": "crescent-city-rhapsody",
-      "title": "Crescent City Rhapsody",
-      "author": "Kathleen Ann Goonan",
-      "description": "Amazon.com Review What would it feel like to live through a biological revolution? Many science fiction writers chronicling a vast technological shift lose sight of the people who would have to deal with it. Not so Kathleen Ann Goonan, whose Crescent City Rhapsody is the third of her Nanotech Cycle novels. Each of her characters is profoundly real, and the things that happen to them are as confusing, awe-inspiring, and terrifying as you might expect. Goonan's story begins with the assassination ",
-      "totalWords": 172319,
-      "totalPages": 173,
-      "totalChapters": 40
-    },
-    {
-      "id": "light-music",
-      "title": "Light Music",
-      "author": "Kathleen Ann Goonan",
-      "description": "From Publishers Weekly In this exuberant if jumbled concluding volume of Goonan's Nanontech Quartet (Queen City Jazz, etc.), the microscopic machines of the 22nd century have gone beyond creating sentient cities and controlling all communications on Earth they are themselves evolving. When mysterious lights point to an alien presence and disappearing people arouse stark fear, three human survivors, including Argentine refugee Angelina, set out to solve the mystery and measure the threat to human",
-      "totalWords": 132852,
-      "totalPages": 133,
-      "totalChapters": 11
-    },
-    {
-      "id": "klara-and-the-sun",
-      "title": "Klara and the Sun",
-      "author": "Kazuo Ishiguro",
-      "description": "Klara and the Sun is a magnificent new novel from the Nobel laureate Kazuo Ishiguro&#8212;author of Never Let Me Go and the Booker Prize-winning The Remains of the Day. Klara and the Sun, the first novel by Kazuo Ishiguro since he was awarded the Nobel Prize in Literature, tells the story of Klara, an Artificial Friend with outstanding observational qualities, who, from her place in the store, watches carefully the behavior of those who come in to browse, and of those who pass on the street outs",
-      "totalWords": 90141,
-      "totalPages": 91,
-      "totalChapters": 9
-    },
-    {
-      "id": "letters-to-a-young-poet",
-      "title": "Letters to a Young Poet",
-      "author": "Rainer Maria Rilke",
-      "description": "",
-      "totalWords": 22764,
-      "totalPages": 23,
-      "totalChapters": 5
-    },
-    {
-      "id": "life-3-0-being-human-in-the-age-of-artificial-intelligence",
-      "title": "Life 3_0_ Being Human in the Age of Artificial Intelligence",
-      "author": "Tegmark, Max  & chenjin5.com",
-      "description": "",
-      "totalWords": 119986,
-      "totalPages": 120,
-      "totalChapters": 24
-    },
-    {
-      "id": "nonlinear-dynamics-and-chaos",
-      "title": "NONLINEAR DYNAMICS AND CHAOS",
-      "author": "Steven H. Strogatz",
-      "description": "",
-      "totalWords": 282397,
-      "totalPages": 283,
-      "totalChapters": 35
-    },
-    {
-      "id": "the-other-wind",
-      "title": "The Other Wind",
-      "author": "Ursula K. Le Guin",
-      "description": "\"The magic of Earthsea is primal; the lessons of Earthsea remain as potent, as wise, and as necessary as anyone could dream.\" --Neil Gaiman, author of The Sandman The sorcerer Alder fears sleep. The dead are pulling him to them at night. Through him they may free themselves and invade Earthsea. Alder seeks advice from Ged, once Archmage. Ged tells him to go to Tenar, Tehanu, and the young king at Havnor. They are joined by amber-eyed Irian, a fierce dragon able to assume the shape of a woman. Th",
-      "totalWords": 70885,
-      "totalPages": 71,
-      "totalChapters": 8
-    },
-    {
-      "id": "moon-called",
-      "title": "Moon Called",
-      "author": "Patricia Briggs",
-      "description": "Mercy Thompson's life is not exactly normal. Her next-door neighbor is a werewolf. Her former boss is a gremlin. And she's fixing a VW bus for a vampire. But then, Mercy isn't exactly normal herself.",
-      "totalWords": 96206,
-      "totalPages": 97,
-      "totalChapters": 21
-    },
-    {
-      "id": "blood-bound",
-      "title": "Blood Bound",
-      "author": "Patricia Briggs",
-      "description": "Mechanic Mercy Thompson has friends in low places-and in dark ones. And now she owes one of them a favor. Since she can shapeshift at will, she agrees to act as some extra muscle when her vampire friend Stefan goes to deliver a message to another of his kind. But this new vampire is hardly ordinary-and neither is the demon inside of him.",
-      "totalWords": 102352,
-      "totalPages": 103,
-      "totalChapters": 19
-    },
-    {
-      "id": "piranesi",
-      "title": "Piranesi",
-      "author": "Susanna Clarke",
-      "description": "",
-      "totalWords": 66613,
-      "totalPages": 67,
-      "totalChapters": 14
-    },
-    {
-      "id": "princess-floralinda-and-the-forty-flight-tower",
-      "title": "Princess Floralinda and the Forty-Flight Tower",
-      "author": "Tamsyn Muir",
-      "description": "",
-      "totalWords": 39844,
-      "totalPages": 40,
-      "totalChapters": 31
-    },
-    {
-      "id": "project-hail-mary",
-      "title": "Project Hail Mary",
-      "author": "Andy Weir",
-      "description": "",
-      "totalWords": 149588,
-      "totalPages": 150,
-      "totalChapters": 30
-    },
-    {
-      "id": "roadside-picnic",
-      "title": "Roadside Picnic",
-      "author": "Arkady Strugatsky",
-      "description": "Red Schuhart is a stalker, one of those young rebels who are compelled, in spite of extreme danger, to venture illegally into the Zone to collect the mysterious artifacts that the alien visitors left scattered around. His life is dominated by the place and the thriving black market in the alien products. But when he and his friend Kirill go into the Zone together to pick up a “full empty,” something goes wrong. And the news he gets from his girlfriend upon his return makes it inevitable that he’",
-      "totalWords": 0,
-      "totalPages": 0,
-      "totalChapters": 0
-    },
-    {
-      "id": "solaris",
-      "title": "Solaris",
-      "author": "Stanislaw Lem",
-      "description": "",
-      "totalWords": 66425,
-      "totalPages": 67,
-      "totalChapters": 7
-    },
-    {
-      "id": "tales-from-earthsea",
-      "title": "Tales From Earthsea",
-      "author": "Ursula K. Le Guin",
-      "description": "\"The magic of Earthsea is primal; the lessons of Earthsea remain as potent, as wise, and as necessary as anyone could dream.\"--Neil Gaiman, author of The Sandman The tales of this book explore and extend the world established by the Earthsea novels--yet each stands on its own. It contains the novella \"The Finder,\" and the short stories \"The Bones of the Earth,\" \"Darkrose and Diamond,\" \"On the High Marsh,\" and \"Dragonfly.\" Concluding with with an account of Earthsea's history, people, languages, ",
-      "totalWords": 105348,
-      "totalPages": 106,
-      "totalChapters": 19
-    },
-    {
-      "id": "tehanu",
-      "title": "Tehanu",
-      "author": "Ursula K. Le Guin",
-      "description": "Book Four of Ursula K. Le Guin's Earthsea Cycle Years ago, they had escaped together from the sinister Tombs of Atuan -- she, an isolated young priestess; he, a powerful wizard. Now she is a farmer's widow, having chosen for herself the simple pleasures of an ordinary life. And he is a broken old man, mourning the powers lost to him through no choice of his own. Once, when they were young, they helped each other at a time of darkness and danger and shared an adventure like no other. Now they mus",
-      "totalWords": 67905,
-      "totalPages": 68,
-      "totalChapters": 16
-    },
-    {
-      "id": "the-alignment-problem",
-      "title": "The Alignment Problem",
-      "author": "Brian Christian",
-      "description": "A jaw-dropping exploration of everything that goes wrong when we build AI systems&#8212;and the movement to fix them. Today's \"machine-learning\" systems, trained by data, are so effective that we've invited them to see and hear for us&#8212;and to make decisions on our behalf. But alarm bells are ringing. Systems cull r&#233;sum&#233;s until, years later, we discover that they have inherent gender biases. Algorithms decide bail and parole&#8212;and appear to assess black and white defendants dif",
-      "totalWords": 167064,
-      "totalPages": 168,
-      "totalChapters": 21
-    },
-    {
-      "id": "the-body-keeps-the-score",
-      "title": "The Body Keeps the Score",
-      "author": "Bessel van der Kolk MD",
-      "description": "A pioneering researcher and one of the world's foremost experts on traumatic stress offers a bold new paradigm for healing Trauma is a fact of life. One in five Americans has been molested; one in four grew up with alcoholics; one in three couples have engaged in physical violence; veterans and their families deal with the painful aftermath of combat. Such experiences inevitably leave traces on minds, emotions, and even on biology. Sadly, trauma sufferers frequently pass on their stress to their",
-      "totalWords": 174722,
-      "totalPages": 175,
-      "totalChapters": 31
-    },
-    {
-      "id": "the-book-of-disquiet-penguin-classics",
-      "title": "The Book of Disquiet (Penguin Classics)",
-      "author": "Pessoa, Fernando",
-      "description": "",
-      "totalWords": 183212,
-      "totalPages": 184,
-      "totalChapters": 37
-    },
-    {
-      "id": "the-broken-kingdoms-the-inheritance-trilogy-book-2",
-      "title": "The Broken Kingdoms (The Inheritance Trilogy Book 2)",
-      "author": "N. K. Jemisin, Manuel Mata",
-      "description": "",
-      "totalWords": 108749,
-      "totalPages": 109,
-      "totalChapters": 22
-    },
-    {
-      "id": "the-deepwater-bride-other-stories",
-      "title": "The Deepwater Bride & Other Stories",
-      "author": "Tamsyn Muir",
-      "description": "Tamsyn Muir is a horror, fantasy and sci-fi author whose works have appeared in Nightmare Magazine , F&SF , Fantasy Magazine , Weird Tales , and Clarkesworld . Her fiction has received nominations for the Nebula Award, the Shirley Jackson Award, the World Fantasy Award and the Eugie Foster Memorial Award. She has spent the majority of her life in Howick, New Zealand, with time spent living in Waiuku and central Wellington. She currently lives and teaches in Oxford, in the United Kingdom. Tamsyn ",
-      "totalWords": 40428,
-      "totalPages": 41,
-      "totalChapters": 8
-    },
-    {
-      "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
-      "title": "The Essence of Chaos (The Jessie and John Danz Lecture",
-      "author": "Edward N. Lorenz",
-      "description": "",
-      "totalWords": 69901,
-      "totalPages": 70,
-      "totalChapters": 14
-    },
-    {
-      "id": "the-hidden-life-of-trees",
-      "title": "The Hidden Life of Trees",
-      "author": "Peter Wohlleben",
-      "description": "",
-      "totalWords": 72059,
-      "totalPages": 73,
-      "totalChapters": 46
-    },
-    {
-      "id": "the-hidden-life-of-trees-1-mysteries-of-nature",
-      "title": "The Hidden Life of Trees_ 1 (Mysteries of Nature)",
-      "author": "Peter Wohlleben",
-      "description": "",
-      "totalWords": 72116,
-      "totalPages": 73,
-      "totalChapters": 15
-    },
-    {
-      "id": "the-hour-of-the-star",
-      "title": "The Hour of the Star",
-      "author": "Clarice Lispector",
-      "description": "",
-      "totalWords": 28856,
-      "totalPages": 29,
-      "totalChapters": 6
-    },
-    {
-      "id": "the-house-in-the-cerulean-sea",
-      "title": "The House in the Cerulean Sea",
-      "author": "TJ Klune",
-      "description": "A NEW YORK TIMES, USA TODAY, and WASHINGTON POST BESTSELLER! A 2021 Alex Award winner! The 2021 RUSA Reading List: Fantasy Winner! An Indie Next Pick! One of Publishers Weekly 's \"Most Anticipated Books of Spring 2020\" One of Book Riot 's \"20 Must-Read Feel-Good Fantasies\" Lambda Literary Award-winning author TJ Klune's bestselling, breakout contemporary fantasy that's \" 1984 meets The Umbrella Academy with a pinch of Douglas Adams thrown in.\" (Gail Carriger) Linus Baker is a by-the-book case wo",
-      "totalWords": 116132,
-      "totalPages": 117,
-      "totalChapters": 27
-    },
-    {
-      "id": "the-hundred-thousand-kingdoms-inheritance-trilogy-book-1",
-      "title": "The Hundred Thousand Kingdoms (Inheritance Trilogy Book 1)",
-      "author": "Jemisin, N.K.",
-      "description": "",
-      "totalWords": 116156,
-      "totalPages": 117,
-      "totalChapters": 24
-    },
-    {
-      "id": "the-left-hand-of-darkness",
-      "title": "The Left Hand Of Darkness",
-      "author": "Ursula K. Le Guin",
-      "description": "",
-      "totalWords": 97005,
-      "totalPages": 98,
-      "totalChapters": 20
-    },
-    {
-      "id": "the-maddaddam-trilogy-oryx-and-crake-the-year-of-the-flood-maddaddam",
-      "title": "The MaddAddam Trilogy: Oryx and Crake; The Year of the Flood; MaddAddam",
-      "author": "Margaret Atwood",
-      "description": "From Booker Prize–winner and #1 national bestseller Margaret Atwood, The MaddAddam Trilogy is so utterly compelling, so prescient, so relevant, so all-too-likely-to-be-true, that readers may find their view of the world forever changed after reading it. This is Margaret Atwood at the absolute peak of her powers. With breathtaking command of her brilliantly conceived material, and with her customary sharp wit and dark humour, she projects us into an outlandish yet wholly believable realm populate",
-      "totalWords": 344526,
-      "totalPages": 345,
-      "totalChapters": 239
-    },
-    {
-      "id": "the-mountain-in-the-sea",
-      "title": "The Mountain in the Sea",
-      "author": "Ray Nayler",
-      "description": "Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future. Rumors begin to spread of a species of hyperintelligent, dangerous octopus that may have developed its own language and culture. Marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. The transnational tech corporation DIANIMA has sealed the remote Con",
-      "totalWords": 97083,
-      "totalPages": 98,
-      "totalChapters": 56
-    },
-    {
-      "id": "the-mysterious-study-of-doctor-sex",
-      "title": "The Mysterious Study of Doctor Sex",
-      "author": "Tamsyn Muir",
-      "description": "",
-      "totalWords": 8587,
-      "totalPages": 9,
-      "totalChapters": 2
-    },
-    {
-      "id": "the-once-future-king",
-      "title": "The Once & Future King",
-      "author": "T. H. White",
-      "description": "",
-      "totalWords": 282677,
-      "totalPages": 283,
-      "totalChapters": 103
-    },
-    {
-      "id": "the-road",
-      "title": "The Road",
-      "author": "Cormac McCarthy",
-      "description": "",
-      "totalWords": 62733,
-      "totalPages": 63,
-      "totalChapters": 14
-    },
-    {
-      "id": "the-society-of-the-spectacle",
-      "title": "The Society of the Spectacle",
-      "author": "Guy Debord",
-      "description": "'One should bear in mind when reading this book that it was written with the deliberate intention of doing harm to spectacular society' --Guy Debord. Originally published in France in 1968 The Society of the Spectacle is a brilliantly lucid analysis of the forms of social control and domination under modern capitalism. Since its publication it has had an enormous underground influence both on active revolutionaries and on radical cultural and political theory. Prescient in its condemnation of th",
-      "totalWords": 31105,
-      "totalPages": 32,
-      "totalChapters": 12
-    },
-    {
-      "id": "the-story-of-your-life",
-      "title": "The Story Of Your Life",
-      "author": "Ted Chiang",
-      "description": "",
-      "totalWords": 17631,
-      "totalPages": 18,
-      "totalChapters": 1
-    },
-    {
-      "id": "the-three-body-problem",
-      "title": "The Three-Body Problem",
-      "author": "Cixin Liu",
-      "description": "",
-      "totalWords": 118853,
-      "totalPages": 119,
-      "totalChapters": 64
-    },
-    {
-      "id": "the-unbearable-lightness-of-being",
-      "title": "The Unbearable Lightness of Being",
-      "author": "MILAN KUNDERA",
-      "description": "",
-      "totalWords": 85272,
-      "totalPages": 86,
-      "totalChapters": 18
-    },
-    {
-      "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
-      "title": "The Art of Gathering: How We Meet and Why It Matters",
-      "author": "Priya Parker",
-      "description": "",
-      "totalWords": 89366,
-      "totalPages": 90,
-      "totalChapters": 18
-    },
-    {
-      "id": "this-is-how-you-lose-the-time-war",
-      "title": "This Is How You Lose the Time War",
-      "author": "Amal El-Mohtar",
-      "description": "HUGO AWARD WINNER: BEST NOVELLA NEBULA AND LOCUS AWARDS WINNER: BEST NOVELLA \"[An] exquisitely crafted tale...Part epistolary romance, part mind-blowing science fiction adventure, this dazzling story unfolds bit by bit, revealing layers of meaning as it plays with cause and effect, wildly imaginative technologies, and increasingly intricate wordplay...This short novel warrants multiple readings to fully unlock its complexities.\" &#8212; Publishers Weekly (starred review). From award-winning auth",
-      "totalWords": 38002,
-      "totalPages": 39,
-      "totalChapters": 57
-    },
-    {
-      "id": "the-tombs-of-atuan",
-      "title": "The Tombs of Atuan",
-      "author": "Ursula K. Le Guin",
-      "description": "The Newbery Honor–winning second novel in the renowned Earthsea series from Ursula K. LeGuin. In this second novel in the Earthsea series, Tenar is chosen as high priestess to the ancient and nameless Powers of the Earth, and everything is taken from her—home, family, possessions, even her name. She is now known only as Arha, the Eaten One, and guards the shadowy, labyrinthine Tombs of Atuan. Then a wizard, Ged Sparrowhawk, comes to steal the Tombs’ greatest hidden treasure, the Ring of Erreth-A",
-      "totalWords": 49291,
-      "totalPages": 50,
-      "totalChapters": 19
-    },
-    {
-      "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
-      "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
-      "author": "Gabrielle Zevin",
-      "description": "",
-      "totalWords": 134403,
-      "totalPages": 135,
-      "totalChapters": 27
-    },
-    {
-      "id": "the-will-of-the-many-hierarchy",
-      "title": "The Will of the Many (Hierarchy)",
-      "author": "James Islington",
-      "description": "",
-      "totalWords": 240245,
-      "totalPages": 241,
-      "totalChapters": 85
-    },
-    {
-      "id": "neuromancer",
-      "title": "Neuromancer",
-      "author": "William Gibson",
-      "description": "",
-      "totalWords": 84649,
-      "totalPages": 85,
-      "totalChapters": 28
-    },
-    {
-      "id": "count-zero",
-      "title": "Count Zero",
-      "author": "William Gibson",
-      "description": "",
-      "totalWords": 84679,
-      "totalPages": 85,
-      "totalChapters": 38
-    },
-    {
-      "id": "a-wizard-of-earthsea",
-      "title": "A Wizard of Earthsea",
-      "author": "Ursula K. Le Guin",
-      "description": "Originally published in 1968, Ursula K. Le Guin’s A Wizard of Earthsea marks the first of the six now beloved Earthsea titles. Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless Sparrowhawk. In his hunger for power and knowledge, he tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tumultuous tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the bala",
-      "totalWords": 70183,
-      "totalPages": 71,
-      "totalChapters": 19
-    },
-    {
-      "id": "a-court-of-mist-and-fury",
-      "title": "A Court of Mist and Fury",
-      "author": "Sarah J. Maas",
-      "description": "The stunning sequel to Sarah J. Maas' New York Times bestselling A Court of Thorns and Roses . Feyre survived Amarantha's clutches to return to the Spring Court – but at a steep cost. Though she now has the powers of the High Fae, her heart remains human, and it can't forget the terrible deeds she performed to save Tamlin's people. Nor has Feyre forgotten her bargain with Rhysand, High Lord of the feared Night Court. As Feyre navigates its dark web of politics, passion, and dazzling power, a gre",
-      "totalWords": 186134,
-      "totalPages": 187,
-      "totalChapters": 75
-    },
-    {
-      "id": "a-court-of-wings-and-ruin",
-      "title": "A Court of Wings and Ruin",
-      "author": "Sarah J. Maas",
-      "description": "THE THIRD BOOK IN THE #1 BESTSELLING SERIES 'With bits of Buffy, Game Of Thrones and Outlander, this is a glorious series of total joy' STYLIST ____ __ Feyre has returned to the Spring Court, determined to gather information on Tamlin's manoeuvrings and the invading king threatening to bring her land to its knees. But to do so she must play a deadly game of deceit - and one slip may spell doom not only for Feyre, but for her world as well. As war bears down upon them all, Feyre must decide who t",
-      "totalWords": 200004,
-      "totalPages": 201,
-      "totalChapters": 89
+      "totalChapters": 60,
+      "sha": "fac0f95e552811f7"
     },
     {
       "id": "a-court-of-frost-and-starlight-a-court-of-thorns-and-roses",
       "title": "A Court of Frost and Starlight (A Court of Thorns and Roses)",
       "author": "Sarah J. Maas",
       "description": "",
+      "filename": "[4] A Court of Frost and Starlight (A Court of Thorns and Roses) -- Sarah J_ Maas -- 2018 -- Bloomsbury Publishing -- 9a7fd093cf2530f11f48e048a1f2d46d -- Anna’s Archive.azw3",
       "totalWords": 64260,
       "totalPages": 65,
-      "totalChapters": 13
+      "totalChapters": 13,
+      "sha": "a2ba651d540958df"
+    },
+    {
+      "id": "a-court-of-mist-and-fury",
+      "title": "A Court of Mist and Fury",
+      "author": "Sarah J. Maas",
+      "description": "The stunning sequel to Sarah J. Maas' New York Times bestselling A Court of Thorns and Roses . Feyre survived Amarantha's clutches to return to the Spring Court – but at a steep cost. Though she now has the powers of the High Fae, her heart remains human, and it can't forget the terrible deeds she performed to save Tamlin's people. Nor has Feyre forgotten her bargain with Rhysand, High Lord of the feared Night Court. As Feyre navigates its dark web of politics, passion, and dazzling power, a gre",
+      "filename": "[2] A Court of Mist and Fury -- Sarah J_ Maas -- Court of Thorns and Roses 2, 2016 -- Bloomsbury -- 3fe2674958a94aae3a7670808558df58 -- Anna’s Archive.epub",
+      "totalWords": 186134,
+      "totalPages": 187,
+      "totalChapters": 75,
+      "sha": "5812ea27e3a94d7c"
+    },
+    {
+      "id": "a-court-of-wings-and-ruin",
+      "title": "A Court of Wings and Ruin",
+      "author": "Sarah J. Maas",
+      "description": "THE THIRD BOOK IN THE #1 BESTSELLING SERIES 'With bits of Buffy, Game Of Thrones and Outlander, this is a glorious series of total joy' STYLIST ____ __ Feyre has returned to the Spring Court, determined to gather information on Tamlin's manoeuvrings and the invading king threatening to bring her land to its knees. But to do so she must play a deadly game of deceit - and one slip may spell doom not only for Feyre, but for her world as well. As war bears down upon them all, Feyre must decide who t",
+      "filename": "[3] A Court of Wings and Ruin (Original Cover) -- Sarah J_ Maas -- 2017 -- Bloomsbury Publishing -- de6a45da4681fcb5f82cdbf2befb37cd -- Anna’s Archive.epub",
+      "totalWords": 200004,
+      "totalPages": 201,
+      "totalChapters": 89,
+      "sha": "35a109d5da455981"
+    },
+    {
+      "id": "a-fortress-of-grey-ice-book-2",
+      "title": "A Fortress of Grey Ice (Book 2)",
+      "author": "J.V. Jones",
+      "description": "Book II of the Sword Of Shadows series. Retail purchase.",
+      "filename": "J. V. Jones - [Sword of Shadows 02] - A Fortress of Gray Ice (epub).epub",
+      "totalWords": 236006,
+      "totalPages": 237,
+      "totalChapters": 55,
+      "sha": "295628e44c3d67ff"
+    },
+    {
+      "id": "a-parade-of-horribles-dungeon-crawler-carl-8",
+      "title": "A Parade of Horribles (Dungeon Crawler Carl 8)",
+      "author": "Matt Dinniman",
+      "description": "It's off to the races in the explosive eighth book in the Dungeon Crawler Carl series. As chaos and mass panic spread outside the dungeon in the wake of Faction Wars, Carl and Donut find themselves on the tenth floor, where they're forced to compete in a surprisingly normal set of tasks. Well, normal for the dungeon. Races. Get from point A to point B, and don't come in last. After each race, they pick an upgrade for their vehicle and the track gets more challenging. It all seems a little too no",
+      "filename": "Dungeon Crawler Carl Book 8 - A Parade of Horribles.epub",
+      "totalWords": 197372,
+      "totalPages": 198,
+      "totalChapters": 113,
+      "sha": "2bcd260a852f5ade"
+    },
+    {
+      "id": "a-sword-from-red-ice-book-3",
+      "title": "A Sword from Red Ice (Book 3)",
+      "author": "J.V. Jones",
+      "description": "Book III of the Sword Of Shadows series. Retail purchase.",
+      "filename": "J. V. Jones - [Sword of Shadows 03] - A Sword From Red Ice (epub).epub",
+      "totalWords": 259418,
+      "totalPages": 260,
+      "totalChapters": 55,
+      "sha": "3af422db75168145"
+    },
+    {
+      "id": "a-wizard-of-earthsea",
+      "title": "A Wizard of Earthsea",
+      "author": "Ursula K. Le Guin",
+      "description": "Originally published in 1968, Ursula K. Le Guin’s A Wizard of Earthsea marks the first of the six now beloved Earthsea titles. Ged was the greatest sorcerer in Earthsea, but in his youth he was the reckless Sparrowhawk. In his hunger for power and knowledge, he tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tumultuous tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the bala",
+      "filename": "Wizard of Earthsea, A - Ursula K. Le Guin.epub",
+      "totalWords": 70183,
+      "totalPages": 71,
+      "totalChapters": 19,
+      "sha": "11f5b467929e55bb"
+    },
+    {
+      "id": "abendau-s-legacy-the-inheritance-trilogy-book-3",
+      "title": "Abendau's Legacy (The Inheritance Trilogy Book 3)",
+      "author": "Jo Zebedee",
+      "description": "",
+      "filename": "Abendau's Legacy (The Inheritance Trilogy Book 3) -- Jo Zebedee -- 2016 -- Tickety Boo Press -- 716214e7bdaa1c2f2814d92164e1651c -- Anna’s Archive.azw3",
+      "totalWords": 89539,
+      "totalPages": 90,
+      "totalChapters": 18,
+      "sha": "64fe7bc7215816e3"
+    },
+    {
+      "id": "after-the-funeral",
+      "title": "After the Funeral",
+      "author": "Christie, Agatha",
+      "description": "Hercule Poirot is called on to investigate the murder of a brother and sister, in this classic Agatha Christie mystery now available in an updated edition with a foreword Sophie Hannah. “He was murdered, wasn’t he?” When Cora Lansquenet is savagely murdered, the extraordinary remark she had made the previous day at her brother Richard’s funeral suddenly takes on a chilling significance. At the reading of Richard’s will, Cora was clearly heard to say, “It’s been hushed up very nicely, hasn’t it. ",
+      "filename": "After the Funeral -- Christie, Agatha [Christie, Agatha].epub",
+      "totalWords": 72540,
+      "totalPages": 73,
+      "totalChapters": 51,
+      "sha": "9a102d2f88c5253d"
+    },
+    {
+      "id": "anne-bishop-the-others-02-murder-of-crows-epub",
+      "title": "Anne Bishop - [The Others 02] - Murder of Crows (epub)",
+      "author": "Unknown",
+      "description": "",
+      "filename": "Anne Bishop - [The Others 02] - Murder of Crows (epub).azw3",
+      "totalWords": 122871,
+      "totalPages": 123,
+      "totalChapters": 25,
+      "sha": "0020a473e7ebcf7e"
+    },
+    {
+      "id": "attached-are-you-anxious-avoidant-or-secure-how-the-science-of-adult-attachment-can-help-you-find-and-keep-love",
+      "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
+      "author": "Levine, Amir",
+      "description": "",
+      "filename": "Attached_ Are you Anxious, Avoidant or Secure_ How the -- Levine, Amir & Heller, Rachel -- 2011 -- Pan Macmillan -- 9a3e58103d7429bedd2eacb8201b8e83 -- Anna’s Archive.epub",
+      "totalWords": 67370,
+      "totalPages": 68,
+      "totalChapters": 24,
+      "sha": "2dbcd47b0bc7f06b"
+    },
+    {
+      "id": "blindsight",
+      "title": "Blindsight",
+      "author": "Peter Watts",
+      "description": "",
+      "filename": "Blindsight -- Peter Watts -- 2006.epub",
+      "totalWords": 104683,
+      "totalPages": 105,
+      "totalChapters": 10,
+      "sha": "e51d1d362d45a59e"
+    },
+    {
+      "id": "blood-bound",
+      "title": "Blood Bound",
+      "author": "Patricia Briggs",
+      "description": "Mechanic Mercy Thompson has friends in low places-and in dark ones. And now she owes one of them a favor. Since she can shapeshift at will, she agrees to act as some extra muscle when her vampire friend Stefan goes to deliver a message to another of his kind. But this new vampire is hardly ordinary-and neither is the demon inside of him.",
+      "filename": "Patricia Briggs - Mercedes Thompson 02 - Blood Bound (v5.0).epub",
+      "totalWords": 102352,
+      "totalPages": 103,
+      "totalChapters": 19,
+      "sha": "bd5f1e6406df90ea"
+    },
+    {
+      "id": "count-zero",
+      "title": "Count Zero",
+      "author": "William Gibson",
+      "description": "",
+      "filename": "William Gibson - [Sprawl 02] - Count Zero (v5.0).epub",
+      "totalWords": 84679,
+      "totalPages": 85,
+      "totalChapters": 38,
+      "sha": "c1c42075d2ecaf6d"
+    },
+    {
+      "id": "crescent-city-rhapsody",
+      "title": "Crescent City Rhapsody",
+      "author": "Kathleen Ann Goonan",
+      "description": "Amazon.com Review What would it feel like to live through a biological revolution? Many science fiction writers chronicling a vast technological shift lose sight of the people who would have to deal with it. Not so Kathleen Ann Goonan, whose Crescent City Rhapsody is the third of her Nanotech Cycle novels. Each of her characters is profoundly real, and the things that happen to them are as confusing, awe-inspiring, and terrifying as you might expect. Goonan's story begins with the assassination ",
+      "filename": "Kathleen Ann Goonan - Nanotech 03 - Crescent City Rhapsody.epub",
+      "totalWords": 172319,
+      "totalPages": 173,
+      "totalChapters": 40,
+      "sha": "b32666e1fb7c7949"
+    },
+    {
+      "id": "does-god-play-dice-the-new-mathematics-of-chaos",
+      "title": "Does God Play Dice?: The New Mathematics of Chaos",
+      "author": "Ian Stewart",
+      "description": "Since the dramatic discovery of the mathematical concept of chaos in 1989, the controversy of its contents has settled down. This revised edition of Does God Play Dice? takes a fresh look at its achievements and potential. With a new preface and three completely new chapters, it includes the latest practical applications of chaos theory, such as developing intelligent heart pacemakers. All this provides a fascinating new answer to Einstien's question which provided the title of this book.",
+      "filename": "Does God play dice_ _ the new mathematics of chaos -- Stewart, Ian -- Penguin mathematics, 2nd ed, London, England ; New York, -- Penguin UK; Penguin -- isbn13 9780141928074 -- da7f93960fad3369c904b963a2cb331d -- Anna’s Archive.epub",
+      "totalWords": 140963,
+      "totalPages": 141,
+      "totalChapters": 198,
+      "sha": "80987ca5cd27c26d"
+    },
+    {
+      "id": "dryad-born-whispers-from-mirrowen",
+      "title": "Dryad-Born (Whispers From Mirrowen)",
+      "author": "Jeff Wheeler",
+      "description": "The struggle to save the plague-ridden kingdoms continues in this captivating second novel in the Whispers from Mirrowen series. The orphan Phae has kept her innate ability secret since she was young. Not only does she possess the dangerous fireblood, but she can also steal the memories of anyone who looks into her eyes. Phae has no idea that her combination of powers is extraordinary. She is the unwitting key to discovering the secret origin of the plagues…and she is also now a target. The ruth",
+      "filename": "Jeff Wheeler - Whispers from Mirrowen 02 - Dryad-Born.epub",
+      "totalWords": 126403,
+      "totalPages": 127,
+      "totalChapters": 82,
+      "sha": "b26faf9e7e9fa758"
+    },
+    {
+      "id": "dune",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "description": "Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, “Dune” tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the universe. The story explores the complex and multi-",
+      "filename": "Dune -- Herbert, Frank -- Dune 1, 1964 -- ePubLibre -- ee8ccf0bb6437e6bf9a11ce820b20b60 -- Anna’s Archive.epub",
+      "totalWords": 207126,
+      "totalPages": 208,
+      "totalChapters": 58,
+      "sha": "b33ca040968a0c87"
+    },
+    {
+      "id": "dungeon-crawler-carl-01-anthology-anthology",
+      "title": "Dungeon Crawler Carl - 01 Anthology Anthology",
+      "author": "Matt Dinniman",
+      "description": "Anthology containing: Dungeon Crawler Carl - 01 Anthology by Matt Dinniman The Butcher's Masquerade: Dungeon Crawler Carl Book 5 Anthology by Matt Dinniman",
+      "filename": "Dungeon Crawler Carl Complete Series 1-7.epub",
+      "totalWords": 1345063,
+      "totalPages": 1346,
+      "totalChapters": 452,
+      "sha": "4b1252467b569a59"
+    },
+    {
+      "id": "empire-of-the-vampire",
+      "title": "Empire of the Vampire",
+      "author": "Jay Kristoff",
+      "description": "From the Sunday Times bestselling and award-winning author of the Nevernight Chronicle, comes this masterful new series. Featuring the darkly beautiful illustrations of Bon Orthwick (@monolimeart). 'This book is bloody brilliant' — V.E Schwab, NEW YORK TIMES bestselling author of THE INVISIBLE LIFE OF ADDIE LARUE It has been twenty-seven long years since the last sunrise. For nearly three decades, vampires have waged war against humanity; building their eternal empire even as they tear down our ",
+      "filename": "Empire of the Vampire by Jay Kristoff.epub",
+      "totalWords": 244264,
+      "totalPages": 245,
+      "totalChapters": 109,
+      "sha": "b8ffd119ba649e82"
+    },
+    {
+      "id": "ficciones",
+      "title": "Ficciones",
+      "author": "Jorge Luis Borges",
+      "description": "",
+      "filename": "Ficciones -- Jorge Luis Borges -- Seventy-fifth anniversary edition, 2015.mobi",
+      "totalWords": 48118,
+      "totalPages": 49,
+      "totalChapters": 10,
+      "sha": "91dcbd1a1baa9502"
+    },
+    {
+      "id": "fiction-complete",
+      "title": "Fiction Complete",
+      "author": "Ted Chiang",
+      "description": "Scanned, converted, re-formatted, proofed, custom title page, custom book cover and eBook creation by Jerry",
+      "filename": "Fiction Complete -- Ted Chiang -- 2024 -- Jerry eBooks.epub",
+      "totalWords": 188611,
+      "totalPages": 189,
+      "totalChapters": 43,
+      "sha": "410cf21bac09d0eb"
+    },
+    {
+      "id": "fireblood",
+      "title": "Fireblood",
+      "author": "Jeff Wheeler",
+      "description": "Tyrus of Kenatos has made it his life’s work to banish the plagues that ravage the kingdoms. He believes the answer to ending the devastation lies in the Scourgelands. Yet, Tyrus’s first expedition into the cursed woods failed after being defeated by mysterious minions who stalked and killed most of his band. Now a prisoner in his own tower, Tyrus has summoned his nephew Annon—a Druidecht possessing innate magic called the fireblood—on the guise of finding a hidden treasure with which to purchas",
+      "filename": "Jeff Wheeler - Whispers from Mirrowen 01 - Fireblood.epub",
+      "totalWords": 114466,
+      "totalPages": 115,
+      "totalChapters": 90,
+      "sha": "aa818119c317ebbe"
+    },
+    {
+      "id": "forward-the-foundation",
+      "title": "Forward the Foundation",
+      "author": "Asimov, Isaac",
+      "description": "",
+      "filename": "Forward the Foundation -- Asimov, Isaac -- Foundation 7, 2009.epub",
+      "totalWords": 182900,
+      "totalPages": 183,
+      "totalChapters": 37,
+      "sha": "f40a4241eafcb2f7"
+    },
+    {
+      "id": "foundation-and-earth",
+      "title": "Foundation and Earth",
+      "author": "Asimov, Isaac",
+      "description": "",
+      "filename": "Foundation and Earth -- Asimov, Isaac -- Foundation 5, 2009.mobi",
+      "totalWords": 148277,
+      "totalPages": 149,
+      "totalChapters": 30,
+      "sha": "697d4997b0f31bc2"
+    },
+    {
+      "id": "godel-escher-bach-an-eternal-golden-braid",
+      "title": "Godel, Escher, Bach-An Eternal Golden Braid",
+      "author": "Douglas R. Hofstadter",
+      "description": "",
+      "filename": "Godel, Escher, Bach-An Eternal Golden Braid -- Douglas R_ Hofstadter -- 2011 -- 0ccb4878ca2a6adfc5c9fb4b0b3d06e0 -- Anna’s Archive.mobi",
+      "totalWords": 324196,
+      "totalPages": 325,
+      "totalChapters": 65,
+      "sha": "9592068ef28a6614"
+    },
+    {
+      "id": "harrow-the-ninth",
+      "title": "Harrow the Ninth",
+      "author": "Tamsyn Muir",
+      "description": "",
+      "filename": "Harrow the Ninth -- Tamsyn Muir -- Tom Doherty Associates -- 0dfb6e265c8c4a260fdc8ab87f22a32f -- Anna’s Archive.epub",
+      "totalWords": 164251,
+      "totalPages": 165,
+      "totalChapters": 66,
+      "sha": "a8680fb16c60aaf5"
+    },
+    {
+      "id": "house-of-leaves",
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "description": "",
+      "filename": "House of Leaves -- Mark Z_ Danielewski -- 2012 -- ec233298cde7fed87e63b9a090d6ae69 -- Anna’s Archive.mobi",
+      "totalWords": 195141,
+      "totalPages": 196,
+      "totalChapters": 40,
+      "sha": "a3363e0b2d0b069b"
+    },
+    {
+      "id": "jemisin-n-k-inheritance-02-the-broken-kingdoms",
+      "title": "Jemisin, N.K - Inheritance 02 - The Broken Kingdoms",
+      "author": "Jemisin, N.K.",
+      "description": "",
+      "filename": "Jemisin, N_K - Inheritance 02 - The Broken Kingdoms -- Jemisin, N_ K_ -- Inheritance 02, 2011 -- Orbit -- isbn13 9780316043960 -- 691839df9cbb7dca0f3fae7d83115a71 -- Anna’s Archive.pdf",
+      "totalWords": 111352,
+      "totalPages": 112,
+      "totalChapters": 23,
+      "sha": "1da701be2437644f"
+    },
+    {
+      "id": "jonathan-strange-mr-norrell",
+      "title": "Jonathan Strange & Mr Norrell",
+      "author": "Susanna Clarke",
+      "description": "",
+      "filename": "Jonathan Strange and Mr Norrell -- Susanna Clarke, Susanna Clarke --2010.epub",
+      "totalWords": 334881,
+      "totalPages": 335,
+      "totalChapters": 75,
+      "sha": "40a4088af8095f11"
+    },
+    {
+      "id": "klara-and-the-sun",
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "description": "Klara and the Sun is a magnificent new novel from the Nobel laureate Kazuo Ishiguro&#8212;author of Never Let Me Go and the Booker Prize-winning The Remains of the Day. Klara and the Sun, the first novel by Kazuo Ishiguro since he was awarded the Nobel Prize in Literature, tells the story of Klara, an Artificial Friend with outstanding observational qualities, who, from her place in the store, watches carefully the behavior of those who come in to browse, and of those who pass on the street outs",
+      "filename": "Klara and the Sun _ A Novel -- Kazuo Ishiguro, 1954- -- Booker Prize Longlist, 2021 -- Knopf Doubleday Publishing Group -- isbn13 9780571364916 -- b616345b3e92fa96a6aa8f5a7e4ffc78 -- Anna’s Archive.epub",
+      "totalWords": 90141,
+      "totalPages": 91,
+      "totalChapters": 9,
+      "sha": "a89fb2821d14d96c"
+    },
+    {
+      "id": "letters-to-a-young-poet",
+      "title": "Letters to a Young Poet",
+      "author": "Rainer Maria Rilke",
+      "description": "",
+      "filename": "Letters to a Young Poet -- Rainer Maria Rilke -- 2016 -- 7ac56ed8638519feff4d5fa5c90e06fc -- Anna’s Archive.pdf",
+      "totalWords": 22764,
+      "totalPages": 23,
+      "totalChapters": 5,
+      "sha": "baafb6dd65ede11c"
+    },
+    {
+      "id": "life-3-0-being-human-in-the-age-of-artificial-intelligence",
+      "title": "Life 3_0_ Being Human in the Age of Artificial Intelligence",
+      "author": "Tegmark, Max  & chenjin5.com",
+      "description": "",
+      "filename": "Life 3_0_ Being Human in the Age of Artificial Intelligence -- Tegmark, Max  & chenjin5_com -- 2017 -- cj5 -- e779e477cbcd74e92372357a7543cba3 -- Anna’s Archive.mobi",
+      "totalWords": 119986,
+      "totalPages": 120,
+      "totalChapters": 24,
+      "sha": "83bfe366c8e356e8"
+    },
+    {
+      "id": "light-music",
+      "title": "Light Music",
+      "author": "Kathleen Ann Goonan",
+      "description": "From Publishers Weekly In this exuberant if jumbled concluding volume of Goonan's Nanontech Quartet (Queen City Jazz, etc.), the microscopic machines of the 22nd century have gone beyond creating sentient cities and controlling all communications on Earth they are themselves evolving. When mysterious lights point to an alien presence and disappearing people arouse stark fear, three human survivors, including Argentine refugee Angelina, set out to solve the mystery and measure the threat to human",
+      "filename": "Kathleen Ann Goonan - Nanotech 04 - Light Music.epub",
+      "totalWords": 132852,
+      "totalPages": 133,
+      "totalChapters": 11,
+      "sha": "38ab3ac0426f8bbd"
+    },
+    {
+      "id": "mississippi-blues",
+      "title": "Mississippi Blues",
+      "author": "Kathleen Ann Goonan",
+      "description": "Amazon.com Review Mississippi Blues is a uniquely twisted vision of a postapocalyptic future in which nanotechnology is just the most recent rung humanity has climbed in its techno-evolution. Goonan's story features a wild ride down the Mississippi to \"Norleans,\" propelled by a nanoplague that may or may not be humanity's saving grace. Our heroine Verity rescues a motley group from metapheromonal slavery in Cincinnati, and they set off on boats and rafts to an uncertain utopia at the end of the ",
+      "filename": "Kathleen Ann Goonan - Nanotech 02 - Mississippi Blues.epub",
+      "totalWords": 204305,
+      "totalPages": 205,
+      "totalChapters": 53,
+      "sha": "68dd40b920c7494b"
+    },
+    {
+      "id": "neuromancer",
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "description": "",
+      "filename": "William Gibson - [Sprawl 01] - Neuromancer (v5.0).epub",
+      "totalWords": 84649,
+      "totalPages": 85,
+      "totalChapters": 28,
+      "sha": "a89192fa2539bca1"
+    },
+    {
+      "id": "nonlinear-dynamics-and-chaos",
+      "title": "NONLINEAR DYNAMICS AND CHAOS",
+      "author": "Steven H. Strogatz",
+      "description": "",
+      "filename": "NONLINEAR DYNAMICS AND CHAOS -- Steven H_ Strogatz -- CRC PRESS -- f2f7b33707d3755169dd54f108fe4a2c -- Anna’s Archive.epub",
+      "totalWords": 282397,
+      "totalPages": 283,
+      "totalChapters": 35,
+      "sha": "8c10044027ebb94f"
+    },
+    {
+      "id": "oxford-time-travel-01-fire-watch",
+      "title": "Oxford Time Travel 01 - Fire Watch",
+      "author": "Connie Willis",
+      "description": "Winner of six Nebula and five Hugo awards, Connie Willis is one of the most acclaimed and imaginative authors of our time. Her startling and powerful works have redefined the boundaries of contemporary science fiction. Here in one volume are twelve of her greatest stories, including double award-winner \"Fire Watch,\" set in the universe of Doomsday Book and To Say Nothing of the Dog, in which a time-traveling student learns one of history's hardest lessons. In \"A Letter from the Clearys,\" a routi",
+      "filename": "Oxford Time Travel 01 - Fire Watch - Connie Willis.epub",
+      "totalWords": 93887,
+      "totalPages": 94,
+      "totalChapters": 30,
+      "sha": "31aeaed39ed16de6"
+    },
+    {
+      "id": "oxford-time-travel-02-the-doomsday-book",
+      "title": "Oxford Time Travel 02 - The Doomsday Book",
+      "author": "Connie Willis",
+      "description": "",
+      "filename": "Oxford Time Travel 02 - Doomsday Book - Connie Willis.epub",
+      "totalWords": 206580,
+      "totalPages": 207,
+      "totalChapters": 44,
+      "sha": "66f0203d83151d0a"
+    },
+    {
+      "id": "oxford-time-travel-03-to-say-nothing-of-the-dog",
+      "title": "Oxford Time Travel 03 - To Say Nothing of the Dog",
+      "author": "Connie Willis",
+      "description": "From Connie Willis, winner of multiple Hugo and Nebula Awards, comes a comedic romp through an unpredictable world of mystery, love, and time travel... Ned Henry is badly in need of a rest. He's been shuttling between the 21st century and the 1940s searching for a Victorian atrocity called the bishop's bird stump. It's part of a project to restore the famed Coventry Cathedral, destroyed in a Nazi air raid over a hundred years earlier. But then Verity Kindle, a fellow time traveler, inadvertently",
+      "filename": "Oxford Time Travel 03 - To Say Nothing of the Dog- Connie Willis.epub",
+      "totalWords": 179090,
+      "totalPages": 180,
+      "totalChapters": 30,
+      "sha": "b0354f712e429bda"
+    },
+    {
+      "id": "piranesi",
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "description": "",
+      "filename": "Piranesi -- Susanna Clarke; Bloomsbury Publishing -- First published in Great Britain, London ; Oxford ; New York -- Bloomsbury Publishing PLC -- 9781526622426 -- 66fe1d47e0151a81e15686763b7348aa -- Anna’s Archive.pdf",
+      "totalWords": 66613,
+      "totalPages": 67,
+      "totalChapters": 14,
+      "sha": "cdfe12320c49266d"
+    },
+    {
+      "id": "princess-floralinda-and-the-forty-flight-tower",
+      "title": "Princess Floralinda and the Forty-Flight Tower",
+      "author": "Tamsyn Muir",
+      "description": "",
+      "filename": "Princess Floralinda and the Forty-Flight Tower -- Muir, Tamsyn -- 1, 2020 -- Subterranean; Subterranean Press -- isbn13 9781596069916 -- 624dee21f19e02fa9594053e667eccf6 -- Anna’s Archive.epub",
+      "totalWords": 39844,
+      "totalPages": 40,
+      "totalChapters": 31,
+      "sha": "13f298a379dfcb91"
+    },
+    {
+      "id": "project-hail-mary",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "description": "",
+      "filename": "Project Hail Mary -- Andy Weir -- 2021 -- Penguin Random House LLC -- 06548452b8795c5f68d047a0ae5c45f5 -- Anna’s Archive.mobi",
+      "totalWords": 149588,
+      "totalPages": 150,
+      "totalChapters": 30,
+      "sha": "d5fae0fec1989cee"
+    },
+    {
+      "id": "queen-city-jazz",
+      "title": "Queen City Jazz",
+      "author": "Kathleen Ann Goonan",
+      "description": "From Publishers Weekly This impressive first novel by an experienced story writer combines hallucinogenic visions, historical personae and an original futuristic dystopia. Young Verity has been raised by a reconstructionist Shaker group that bases its religion on the American cult that banned sex and believed in \"simple\" virtues. The adolescent has strange powers and mysterious compulsions that cause her to seek out and learn things from technologies that her adoptive community has forsaken. Aft",
+      "filename": "Kathleen Ann Goonan - Nanotech 01 - Queen City Jazz.epub",
+      "totalWords": 146867,
+      "totalPages": 147,
+      "totalChapters": 49,
+      "sha": "eb8f157ed9489573"
+    },
+    {
+      "id": "roadside-picnic",
+      "title": "Roadside Picnic",
+      "author": "Arkady Strugatsky",
+      "description": "Red Schuhart is a stalker, one of those young rebels who are compelled, in spite of extreme danger, to venture illegally into the Zone to collect the mysterious artifacts that the alien visitors left scattered around. His life is dominated by the place and the thriving black market in the alien products. But when he and his friend Kirill go into the Zone together to pick up a “full empty,” something goes wrong. And the news he gets from his girlfriend upon his return makes it inevitable that he’",
+      "filename": "Roadside Picnic -- Strugatsky, Arkady & Strugatsky, Boris -- 2012.epub",
+      "totalWords": 0,
+      "totalPages": 0,
+      "totalChapters": 0,
+      "sha": "a7111be6a99c0f16"
+    },
+    {
+      "id": "solaris",
+      "title": "Solaris",
+      "author": "Stanislaw Lem",
+      "description": "",
+      "filename": "Solaris -- Lem, Stanislaw -- 2010.epub",
+      "totalWords": 66425,
+      "totalPages": 67,
+      "totalChapters": 7,
+      "sha": "cdba86d660f75791"
+    },
+    {
+      "id": "tales-from-earthsea",
+      "title": "Tales From Earthsea",
+      "author": "Ursula K. Le Guin",
+      "description": "\"The magic of Earthsea is primal; the lessons of Earthsea remain as potent, as wise, and as necessary as anyone could dream.\"--Neil Gaiman, author of The Sandman The tales of this book explore and extend the world established by the Earthsea novels--yet each stands on its own. It contains the novella \"The Finder,\" and the short stories \"The Bones of the Earth,\" \"Darkrose and Diamond,\" \"On the High Marsh,\" and \"Dragonfly.\" Concluding with with an account of Earthsea's history, people, languages, ",
+      "filename": "Tales From Earthsea - Ursula K. Le Guin.epub",
+      "totalWords": 105348,
+      "totalPages": 106,
+      "totalChapters": 19,
+      "sha": "7e0236fda21d5419"
+    },
+    {
+      "id": "tehanu",
+      "title": "Tehanu",
+      "author": "Ursula K. Le Guin",
+      "description": "Book Four of Ursula K. Le Guin's Earthsea Cycle Years ago, they had escaped together from the sinister Tombs of Atuan -- she, an isolated young priestess; he, a powerful wizard. Now she is a farmer's widow, having chosen for herself the simple pleasures of an ordinary life. And he is a broken old man, mourning the powers lost to him through no choice of his own. Once, when they were young, they helped each other at a time of darkness and danger and shared an adventure like no other. Now they mus",
+      "filename": "Tehanu - Ursula K. Le Guin.epub",
+      "totalWords": 67905,
+      "totalPages": 68,
+      "totalChapters": 16,
+      "sha": "f160b6edf2aff167"
+    },
+    {
+      "id": "the-alignment-problem",
+      "title": "The Alignment Problem",
+      "author": "Brian Christian",
+      "description": "A jaw-dropping exploration of everything that goes wrong when we build AI systems&#8212;and the movement to fix them. Today's \"machine-learning\" systems, trained by data, are so effective that we've invited them to see and hear for us&#8212;and to make decisions on our behalf. But alarm bells are ringing. Systems cull r&#233;sum&#233;s until, years later, we discover that they have inherent gender biases. Algorithms decide bail and parole&#8212;and appear to assess black and white defendants dif",
+      "filename": "The Alignment Problem -- Brian Christian -- 2020 -- W_ W_ Norton & Company -- 5abbf7c878217e4306b542afe2fc6e0c -- Anna’s Archive.epub",
+      "totalWords": 167064,
+      "totalPages": 168,
+      "totalChapters": 21,
+      "sha": "40c8761c74a28c62"
+    },
+    {
+      "id": "the-art-of-gathering-how-we-meet-and-why-it-matters",
+      "title": "The Art of Gathering: How We Meet and Why It Matters",
+      "author": "Priya Parker",
+      "description": "",
+      "filename": "The art of gathering _ how we meet and why it matters -- Priya Parker; OverDrive, Inc -- Place of publication not identified, 2018 -- Penguin -- 9780241973851 -- 7e32d4f784f1a9120c9f1328c1e9096c -- Anna’s Arc.pdf",
+      "totalWords": 89366,
+      "totalPages": 90,
+      "totalChapters": 18,
+      "sha": "d5fd2c2a0f5791fb"
+    },
+    {
+      "id": "the-big-sleep",
+      "title": "The Big Sleep",
+      "author": "Raymond Chandler",
+      "description": "",
+      "filename": "The Big Sleep -- Raymond Chandler -- New York, New York State, 2002.epub",
+      "totalWords": 66788,
+      "totalPages": 67,
+      "totalChapters": 37,
+      "sha": "39bbcbd02c4b088b"
+    },
+    {
+      "id": "the-body-keeps-the-score",
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk MD",
+      "description": "A pioneering researcher and one of the world's foremost experts on traumatic stress offers a bold new paradigm for healing Trauma is a fact of life. One in five Americans has been molested; one in four grew up with alcoholics; one in three couples have engaged in physical violence; veterans and their families deal with the painful aftermath of combat. Such experiences inevitably leave traces on minds, emotions, and even on biology. Sadly, trauma sufferers frequently pass on their stress to their",
+      "filename": "The Body Keeps the Score -- Bessel van der Kolk MD -- 2014 -- Penguin Group US -- 525682e8a3eda8af6f887105200b7490 -- Anna’s Archive.epub",
+      "totalWords": 174722,
+      "totalPages": 175,
+      "totalChapters": 31,
+      "sha": "17e8d86fe4dbde67"
+    },
+    {
+      "id": "the-book-of-disquiet-penguin-classics",
+      "title": "The Book of Disquiet (Penguin Classics)",
+      "author": "Pessoa, Fernando",
+      "description": "",
+      "filename": "The Book of Disquiet (Penguin Classics) -- Pessoa, Fernando; Zenith, Richard -- Penguin classics, London, 2002 -- Penguin Classics -- 9780141183046 -- 5ad917705561f91095252713d2ae068b -- Anna’s Archive.mobi",
+      "totalWords": 183212,
+      "totalPages": 184,
+      "totalChapters": 37,
+      "sha": "e6e5c96e12397a5b"
+    },
+    {
+      "id": "the-broken-kingdoms-the-inheritance-trilogy-book-2",
+      "title": "The Broken Kingdoms (The Inheritance Trilogy Book 2)",
+      "author": "N. K. Jemisin, Manuel Mata",
+      "description": "",
+      "filename": "The Broken Kingdoms (The Inheritance Trilogy Book 2) -- N_ K_ Jemisin, Manuel Mata -- Hachette Book Group, New York, 2010 -- Orbit -- isbn13 9780316043960 -- 58b13681edd10bcf305baac91055fa4b -- Anna’s Archive.azw3",
+      "totalWords": 108749,
+      "totalPages": 109,
+      "totalChapters": 22,
+      "sha": "3e1cffc95f208e4b"
+    },
+    {
+      "id": "the-daughter-of-time",
+      "title": "The Daughter Of Time,",
+      "author": "Josephine Tey",
+      "description": "",
+      "filename": "The Daughter Of Time, -- Josephine Tey -- 1951.mobi",
+      "totalWords": 55092,
+      "totalPages": 56,
+      "totalChapters": 12,
+      "sha": "07adc3a78e280570"
+    },
+    {
+      "id": "the-deepwater-bride-other-stories",
+      "title": "The Deepwater Bride & Other Stories",
+      "author": "Tamsyn Muir",
+      "description": "Tamsyn Muir is a horror, fantasy and sci-fi author whose works have appeared in Nightmare Magazine , F&SF , Fantasy Magazine , Weird Tales , and Clarkesworld . Her fiction has received nominations for the Nebula Award, the Shirley Jackson Award, the World Fantasy Award and the Eugie Foster Memorial Award. She has spent the majority of her life in Howick, New Zealand, with time spent living in Waiuku and central Wellington. She currently lives and teaches in Oxford, in the United Kingdom. Tamsyn ",
+      "filename": "The Deepwater Bride (Collected Short Stories) -- Muir, Tamsyn -- Books of Sand -- 1428f067df2fc00865e403b4411a7acb -- Anna’s Archive.epub",
+      "totalWords": 40428,
+      "totalPages": 41,
+      "totalChapters": 8,
+      "sha": "ffa102a2015ba934"
+    },
+    {
+      "id": "the-essence-of-chaos-the-jessie-and-john-danz-lecture",
+      "title": "The Essence of Chaos (The Jessie and John Danz Lecture",
+      "author": "Edward N. Lorenz",
+      "description": "",
+      "filename": "The Essence of Chaos (The Jessie and John Danz Lecture -- Edward N_ Lorenz -- Jessie and John Danz Lectures, 1, 1995 -- University of Washington Press -- isbn13 9780203214589 -- e9a21618c66b588e92efe2e5c22d2402 -- Anna’s Archive.pdf",
+      "totalWords": 69901,
+      "totalPages": 70,
+      "totalChapters": 14,
+      "sha": "ca66cce82344c025"
+    },
+    {
+      "id": "the-farthest-shore",
+      "title": "The Farthest Shore",
+      "author": "Ursula K. Le Guin",
+      "description": "The National Book Award–winning third novel in the renowned Earthsea series from Ursula K. LeGuin. In this third book in the Earthsea series, darkness threatens to overtake Earthsea: The world and its wizards are losing their magic. But Ged Sparrohawk—Archmage, wizard, and dragonlord—is determined to discover the source of this devastating loss. Aided by Enlad’s young Prince Arren, Ged embarks on a treacherous journey that will test their strength and will. Because to restore magic, the two warr",
+      "filename": "Farthest Shore, The - Ursula K. Le Guin.epub",
+      "totalWords": 69180,
+      "totalPages": 70,
+      "totalChapters": 19,
+      "sha": "b7223fda1261c543"
+    },
+    {
+      "id": "the-foundation-novels-4-book-set-foundation-foundation-and-empire-second-foundation-foundation-s-edge",
+      "title": "The Foundation Novels 4-Book Set: Foundation/Foundation and Empire/Second Foundation/Foundation's Edge",
+      "author": "Isaac Asimov",
+      "description": "Issac Asimov Series Foundation, Second Foundation, Foundation's Edge, Foundation and Empire **",
+      "filename": "The Foundation Novels 4-Book Set_ Foundation_Foundation and -- Isaac Asimov [Asimov, Isaac] -- 2004.epub",
+      "totalWords": 77482,
+      "totalPages": 78,
+      "totalChapters": 3,
+      "sha": "0f000edf639c342d"
+    },
+    {
+      "id": "the-hidden-life-of-trees",
+      "title": "The Hidden Life of Trees",
+      "author": "Peter Wohlleben",
+      "description": "",
+      "filename": "The Hidden Life of Trees -- Peter Wohlleben -- 2016 -- Greystone Books -- b7ece75a270ae9ef5862bfdc15f9e98b -- Anna’s Archive.epub",
+      "totalWords": 72059,
+      "totalPages": 73,
+      "totalChapters": 46,
+      "sha": "55573fc5b8546472"
+    },
+    {
+      "id": "the-hidden-life-of-trees-1-mysteries-of-nature",
+      "title": "The Hidden Life of Trees_ 1 (Mysteries of Nature)",
+      "author": "Peter Wohlleben",
+      "description": "",
+      "filename": "The Hidden Life of Trees_ 1 (Mysteries of Nature) -- Peter Wohlleben -- 2025 -- Greystone Books -- 790a4e7be4c6073c7355dce5b5b728b4 -- Anna’s Archive.azw3",
+      "totalWords": 72116,
+      "totalPages": 73,
+      "totalChapters": 15,
+      "sha": "e9934b0b0d58b82e"
+    },
+    {
+      "id": "the-hour-of-the-star",
+      "title": "The Hour of the Star",
+      "author": "Clarice Lispector",
+      "description": "",
+      "filename": "The Hour of the Star -- Clarice Lispector -- 2022 -- f87460528333555881a7e444917b305d -- Anna’s Archive.pdf",
+      "totalWords": 28856,
+      "totalPages": 29,
+      "totalChapters": 6,
+      "sha": "15d74209be5c3a9e"
+    },
+    {
+      "id": "the-house-in-the-cerulean-sea",
+      "title": "The House in the Cerulean Sea",
+      "author": "TJ Klune",
+      "description": "A NEW YORK TIMES, USA TODAY, and WASHINGTON POST BESTSELLER! A 2021 Alex Award winner! The 2021 RUSA Reading List: Fantasy Winner! An Indie Next Pick! One of Publishers Weekly 's \"Most Anticipated Books of Spring 2020\" One of Book Riot 's \"20 Must-Read Feel-Good Fantasies\" Lambda Literary Award-winning author TJ Klune's bestselling, breakout contemporary fantasy that's \" 1984 meets The Umbrella Academy with a pinch of Douglas Adams thrown in.\" (Gail Carriger) Linus Baker is a by-the-book case wo",
+      "filename": "The House in the Cerulean Sea_ Cerulean Chronicles #1 -- TJ Klune -- Cerulean Chronicles #1, 2020 -- Tor Publishing Group -- 14e731a7577c561203b03ecd888d4733 -- Anna’s Archive.epub",
+      "totalWords": 116132,
+      "totalPages": 117,
+      "totalChapters": 27,
+      "sha": "729cdf8c4d4f7123"
+    },
+    {
+      "id": "the-human-brain",
+      "title": "The Human Brain",
+      "author": "Asimov, Isaac",
+      "description": "",
+      "filename": "The Human Brain -- Asimov, Isaac [Asimov, Isaac].epub",
+      "totalWords": 120665,
+      "totalPages": 121,
+      "totalChapters": 8,
+      "sha": "c8db4efdfa8a84d5"
+    },
+    {
+      "id": "the-hundred-thousand-kingdoms-inheritance-trilogy-book-1",
+      "title": "The Hundred Thousand Kingdoms (Inheritance Trilogy Book 1)",
+      "author": "Jemisin, N.K.",
+      "description": "",
+      "filename": "The Hundred Thousand Kingdoms (Inheritance Trilogy Book 1) -- Jemisin, N_K_ -- Inheritance Trilogy 1, 2010 -- Little, Brown Book Group Limited -- isbn13 9780748115907 -- 799024ace064cb46d8c4c3a46a72310f -- Anna’s .azw3",
+      "totalWords": 116156,
+      "totalPages": 117,
+      "totalChapters": 24,
+      "sha": "79945b50c881cb1b"
+    },
+    {
+      "id": "the-left-hand-of-darkness",
+      "title": "The Left Hand Of Darkness",
+      "author": "Ursula K. Le Guin",
+      "description": "",
+      "filename": "The Left Hand Of Darkness -- Ursula K_ Le Guin -- 2012 -- Little, Brown Book Group -- 9893aae5109dd07a1bb75f2de052c9b0 -- Anna’s Archive.azw3",
+      "totalWords": 97005,
+      "totalPages": 98,
+      "totalChapters": 20,
+      "sha": "ce5a36525e6a755f"
+    },
+    {
+      "id": "the-liar-s-dictionary",
+      "title": "The Liar's Dictionary",
+      "author": "Eley Williams",
+      "description": "In the final year of the nineteenth century , Peter Winceworth has reached the letter 'S', toiling away for the much-anticipated and multi-volume Swansby's New Encyclopaedic Dictionary . Overwhelmed at his desk and increasingly uneasy that his colleagues are attempting to corral language and regiment facts, Winceworth feels compelled to assert some sense of individual purpose and exercise artistic freedom, and begins inserting unauthorised, fictitious entries into the dictionary. In the present ",
+      "filename": "The Liar's Dictionary Longlisted for The Desmond Elliott -- Eley Williams.epub",
+      "totalWords": 65407,
+      "totalPages": 66,
+      "totalChapters": 33,
+      "sha": "2ff04c6d0413c122"
+    },
+    {
+      "id": "the-maddaddam-trilogy-oryx-and-crake-the-year-of-the-flood-maddaddam",
+      "title": "The MaddAddam Trilogy: Oryx and Crake; The Year of the Flood; MaddAddam",
+      "author": "Margaret Atwood",
+      "description": "From Booker Prize–winner and #1 national bestseller Margaret Atwood, The MaddAddam Trilogy is so utterly compelling, so prescient, so relevant, so all-too-likely-to-be-true, that readers may find their view of the world forever changed after reading it. This is Margaret Atwood at the absolute peak of her powers. With breathtaking command of her brilliantly conceived material, and with her customary sharp wit and dark humour, she projects us into an outlandish yet wholly believable realm populate",
+      "filename": "The MaddAddam Trilogy_ Oryx and - Margaret Atwood.epub",
+      "totalWords": 344526,
+      "totalPages": 345,
+      "totalChapters": 239,
+      "sha": "b2d6e1b79d202116"
+    },
+    {
+      "id": "the-mirror-of-her-dreams-a-man-rides-through",
+      "title": "The Mirror of Her Dreams & A Man Rides Through",
+      "author": "Donaldson, Stephen R",
+      "description": "",
+      "filename": "The Mirror of Her Dreams & A Man Rides Through -- Donaldson, Stephen R -- Mordant's Need 1-02, 2011 -- Gollancz -- 4fb067f09e5a13fbe7b24718516d3fb3 -- Anna’s Archive.mobi",
+      "totalWords": 504016,
+      "totalPages": 505,
+      "totalChapters": 101,
+      "sha": "64e8da2f7f456b6e"
+    },
+    {
+      "id": "the-mirror-of-her-dreams-a-man-rides-through",
+      "title": "The Mirror of Her Dreams & A Man Rides Through",
+      "author": "Donaldson, Stephen R",
+      "description": "",
+      "filename": "The Mirror of Her Dreams & A Man Rides Through -- Donaldson, Stephen R -- Mordant's Need.mobi",
+      "totalWords": 504016,
+      "totalPages": 505,
+      "totalChapters": 101,
+      "sha": "64e8da2f7f456b6e"
+    },
+    {
+      "id": "the-mountain-in-the-sea",
+      "title": "The Mountain in the Sea",
+      "author": "Ray Nayler",
+      "description": "Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future. Rumors begin to spread of a species of hyperintelligent, dangerous octopus that may have developed its own language and culture. Marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. The transnational tech corporation DIANIMA has sealed the remote Con",
+      "filename": "The Mountain in the Sea _ A Novel -- Ray Nayler -- First edition, New York, 2022 -- MCD ; Farrar, Straus and Giroux -- isbn13 9780374605964 -- b4679fbc5d99c5e825a66e7c8fde3fa1 -- Anna’s Archive.epub",
+      "totalWords": 97083,
+      "totalPages": 98,
+      "totalChapters": 56,
+      "sha": "7f6d40cbde34c314"
+    },
+    {
+      "id": "the-mysterious-study-of-doctor-sex",
+      "title": "The Mysterious Study of Doctor Sex",
+      "author": "Tamsyn Muir",
+      "description": "",
+      "filename": "The Mysterious Study of Doctor Sex -- Muir, Tamsyn -- Locked Tomb 0_50 -- Tom Doherty Associates -- 988305a6448a86fdb3858dadbd512bab -- Anna’s Archive.epub",
+      "totalWords": 8587,
+      "totalPages": 9,
+      "totalChapters": 2,
+      "sha": "e12f1b0e905c6ca7"
+    },
+    {
+      "id": "the-once-future-king",
+      "title": "The Once & Future King",
+      "author": "T. H. White",
+      "description": "",
+      "filename": "The Once and Future King Omnibus -- White, T H -- Once and Future King.epub",
+      "totalWords": 282677,
+      "totalPages": 283,
+      "totalChapters": 103,
+      "sha": "e22e5cdd2eac5835"
+    },
+    {
+      "id": "the-other-wind",
+      "title": "The Other Wind",
+      "author": "Ursula K. Le Guin",
+      "description": "\"The magic of Earthsea is primal; the lessons of Earthsea remain as potent, as wise, and as necessary as anyone could dream.\" --Neil Gaiman, author of The Sandman The sorcerer Alder fears sleep. The dead are pulling him to them at night. Through him they may free themselves and invade Earthsea. Alder seeks advice from Ged, once Archmage. Ged tells him to go to Tenar, Tehanu, and the young king at Havnor. They are joined by amber-eyed Irian, a fierce dragon able to assume the shape of a woman. Th",
+      "filename": "Other Wind, The - Ursula K. Le Guin.epub",
+      "totalWords": 70885,
+      "totalPages": 71,
+      "totalChapters": 8,
+      "sha": "a014fdcaba5e769e"
+    },
+    {
+      "id": "the-road",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "description": "",
+      "filename": "The Road -- Cormac McCarthy, Tom Stechschulte -- 2022.epub",
+      "totalWords": 62733,
+      "totalPages": 63,
+      "totalChapters": 14,
+      "sha": "cd3cc1fb1bbcb119"
+    },
+    {
+      "id": "the-society-of-the-spectacle",
+      "title": "The Society of the Spectacle",
+      "author": "Guy Debord",
+      "description": "'One should bear in mind when reading this book that it was written with the deliberate intention of doing harm to spectacular society' --Guy Debord. Originally published in France in 1968 The Society of the Spectacle is a brilliantly lucid analysis of the forms of social control and domination under modern capitalism. Since its publication it has had an enormous underground influence both on active revolutionaries and on radical cultural and political theory. Prescient in its condemnation of th",
+      "filename": "The Society of the Spectacle -- Guy Debord -- 2002 -- Hobgoblin Press -- 3659e6686b3d0b4df4692405e662b223 -- Anna’s Archive.epub",
+      "totalWords": 31105,
+      "totalPages": 32,
+      "totalChapters": 12,
+      "sha": "b1afccd6f7f70f0b"
+    },
+    {
+      "id": "the-spy-who-came-in-from-the-cold",
+      "title": "The Spy Who Came in from the Cold",
+      "author": "John Le Carré",
+      "description": "Alex Leamas is tired. It's the 1960s, he's been out in the cold for years, spying in Berlin for his British masters, and has seen too many good agents murdered for their troubles. Now Control wants to bring him in at last - but only after one final assignment. He must travel deep into the heart of Communist Germany and betray his country, a job that he will do with his usual cynical professionalism. But when George Smiley tries to help a young woman Leamas has befriended, Leamas's mission may pr",
+      "filename": "The Spy Who Came in from the Cold ( George Smiley #3 ) -- Carre, John Le -- George Smiley, 3, 2011.epub",
+      "totalWords": 70444,
+      "totalPages": 71,
+      "totalChapters": 31,
+      "sha": "9e2b289a5e5167ec"
+    },
+    {
+      "id": "the-story-of-your-life",
+      "title": "The Story Of Your Life",
+      "author": "Ted Chiang",
+      "description": "",
+      "filename": "The Story Of Your Life -- Chiang, Ted -- 2010.epub",
+      "totalWords": 17631,
+      "totalPages": 18,
+      "totalChapters": 1,
+      "sha": "b6b252a159f4c3b5"
+    },
+    {
+      "id": "the-three-body-problem",
+      "title": "The Three-Body Problem",
+      "author": "Cixin Liu",
+      "description": "",
+      "filename": "The Three-Body Problem -- Liu, Cixin -- 2014 -- Tom Doherty Associates -- 3f99afa38fc1061c8ab7ec4455fb8916 -- Anna’s Archive.epub",
+      "totalWords": 118853,
+      "totalPages": 119,
+      "totalChapters": 64,
+      "sha": "443c2ef0455f5e6e"
+    },
+    {
+      "id": "the-tombs-of-atuan",
+      "title": "The Tombs of Atuan",
+      "author": "Ursula K. Le Guin",
+      "description": "The Newbery Honor–winning second novel in the renowned Earthsea series from Ursula K. LeGuin. In this second novel in the Earthsea series, Tenar is chosen as high priestess to the ancient and nameless Powers of the Earth, and everything is taken from her—home, family, possessions, even her name. She is now known only as Arha, the Eaten One, and guards the shadowy, labyrinthine Tombs of Atuan. Then a wizard, Ged Sparrowhawk, comes to steal the Tombs’ greatest hidden treasure, the Ring of Erreth-A",
+      "filename": "Tombs of Atuan, The - Ursula K. Le Guin.epub",
+      "totalWords": 49291,
+      "totalPages": 50,
+      "totalChapters": 19,
+      "sha": "93a47f78a0d039b3"
+    },
+    {
+      "id": "the-unbearable-lightness-of-being",
+      "title": "The Unbearable Lightness of Being",
+      "author": "MILAN KUNDERA",
+      "description": "",
+      "filename": "The Unbearable Lightness of Being -- MILAN KUNDERA -- 396492d607e5e4a2ab5e0f307456a314 -- Anna’s Archive.mobi",
+      "totalWords": 85272,
+      "totalPages": 86,
+      "totalChapters": 18,
+      "sha": "5f50a1112e5fa6ba"
+    },
+    {
+      "id": "the-will-of-the-many-hierarchy",
+      "title": "The Will of the Many (Hierarchy)",
+      "author": "James Islington",
+      "description": "",
+      "filename": "Will of the Many (Hierarchy), The - James Islington.epub",
+      "totalWords": 240245,
+      "totalPages": 241,
+      "totalChapters": 85,
+      "sha": "fc2d06981b5cc477"
+    },
+    {
+      "id": "this-is-how-you-lose-the-time-war",
+      "title": "This Is How You Lose the Time War",
+      "author": "Amal El-Mohtar",
+      "description": "HUGO AWARD WINNER: BEST NOVELLA NEBULA AND LOCUS AWARDS WINNER: BEST NOVELLA \"[An] exquisitely crafted tale...Part epistolary romance, part mind-blowing science fiction adventure, this dazzling story unfolds bit by bit, revealing layers of meaning as it plays with cause and effect, wildly imaginative technologies, and increasingly intricate wordplay...This short novel warrants multiple readings to fully unlock its complexities.\" &#8212; Publishers Weekly (starred review). From award-winning auth",
+      "filename": "This Is How You Lose the Time War -- Amal El-Mohtar & Max Gladstone -- 2019 -- Gallery _ Saga Press -- 4e3ce744f53f67206c75615ed7897103 -- Anna’s Archive.epub",
+      "totalWords": 38002,
+      "totalPages": 39,
+      "totalChapters": 57,
+      "sha": "74e14f3108ff049f"
+    },
+    {
+      "id": "tomorrow-and-tomorrow-and-tomorrow-a-novel",
+      "title": "Tomorrow, and Tomorrow, and Tomorrow_ A novel",
+      "author": "Gabrielle Zevin",
+      "description": "",
+      "filename": "Tomorrow, and Tomorrow, and Tomorrow_ A novel -- Gabrielle Zevin -- 2022 -- Knopf Doubleday Publishing Group -- dbe76bdcc243df10a120da52a78010f6 -- Anna’s Archive.mobi",
+      "totalWords": 134403,
+      "totalPages": 135,
+      "totalChapters": 27,
+      "sha": "4b49d193516976bf"
+    },
+    {
+      "id": "watcher-of-the-dead-book-4",
+      "title": "Watcher Of The Dead (Book 4)",
+      "author": "J.V. Jones",
+      "description": "Book IV of the Sword Of Shadows series. Retail purchase.",
+      "filename": "J. V. Jones - [Sword of Shadows 04] - Watcher of the Dead (epub).epub",
+      "totalWords": 157297,
+      "totalPages": 158,
+      "totalChapters": 45,
+      "sha": "6c6b91924ceac4bb"
+    },
+    {
+      "id": "written-in-red-a-novel-of-the-others",
+      "title": "Written In Red: A Novel of the Others",
+      "author": "Anne Bishop",
+      "description": "",
+      "filename": "Anne Bishop - [The Others 01] - Written In Red (v5.0) (epub).epub",
+      "totalWords": 164010,
+      "totalPages": 165,
+      "totalChapters": 38,
+      "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-05-15T20:07:22.268Z"
+  "updatedAt": "2026-10-07T15:54:02.997Z"
 }
