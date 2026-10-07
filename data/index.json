@@ -126,7 +126,7 @@
       "title": "Attached: Are you Anxious, Avoidant or Secure? How the science of adult attachment can help you find – and keep – love",
       "author": "Levine, Amir",
       "description": "",
-      "filename": "Attached_ Are you Anxious, Avoidant or Secure_ How the -- Levine, Amir & Heller, Rachel -- 2011 -- Pan Macmillan -- 9a3e58103d7429bedd2eacb8201b8e83 -- Anna’s Archive.epub",
+      "filename": "Attached_ Are you Anxious, Avoidant or Secure_ How the -- Levine, Amir & Heller, Rachel.epub",
       "totalWords": 67370,
       "totalPages": 68,
       "totalChapters": 24,
@@ -296,28 +296,6 @@
       "totalPages": 325,
       "totalChapters": 65,
       "sha": "9592068ef28a6614"
-    },
-    {
-      "id": "harrow-the-ninth",
-      "title": "Harrow the Ninth",
-      "author": "Tamsyn Muir",
-      "description": "",
-      "filename": "Harrow the Ninth -- Tamsyn Muir -- Tom Doherty Associates -- 0dfb6e265c8c4a260fdc8ab87f22a32f -- Anna’s Archive.epub",
-      "totalWords": 164251,
-      "totalPages": 165,
-      "totalChapters": 66,
-      "sha": "a8680fb16c60aaf5"
-    },
-    {
-      "id": "house-of-leaves",
-      "title": "House of Leaves",
-      "author": "Mark Z. Danielewski",
-      "description": "",
-      "filename": "House of Leaves -- Mark Z_ Danielewski -- 2012 -- ec233298cde7fed87e63b9a090d6ae69 -- Anna’s Archive.mobi",
-      "totalWords": 195141,
-      "totalPages": 196,
-      "totalChapters": 40,
-      "sha": "a3363e0b2d0b069b"
     },
     {
       "id": "jemisin-n-k-inheritance-02-the-broken-kingdoms",
@@ -683,17 +661,6 @@
       "sha": "e9934b0b0d58b82e"
     },
     {
-      "id": "the-hour-of-the-star",
-      "title": "The Hour of the Star",
-      "author": "Clarice Lispector",
-      "description": "",
-      "filename": "The Hour of the Star -- Clarice Lispector -- 2022 -- f87460528333555881a7e444917b305d -- Anna’s Archive.pdf",
-      "totalWords": 28856,
-      "totalPages": 29,
-      "totalChapters": 6,
-      "sha": "15d74209be5c3a9e"
-    },
-    {
       "id": "the-house-in-the-cerulean-sea",
       "title": "The House in the Cerulean Sea",
       "author": "TJ Klune",
@@ -958,5 +925,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-07T15:56:22.706Z"
+  "updatedAt": "2026-10-07T16:00:31.735Z"
 }
