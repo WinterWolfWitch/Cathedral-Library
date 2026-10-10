@@ -749,6 +749,17 @@
       "sha": "b2d6e1b79d202116"
     },
     {
+      "id": "the-midnight-library",
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "description": "",
+      "filename": "The Midnight Library -- Haig, Matt.epub",
+      "totalWords": 73803,
+      "totalPages": 74,
+      "totalChapters": 76,
+      "sha": "fe8bb91514a2ab22"
+    },
+    {
       "id": "the-mirror-of-her-dreams-a-man-rides-through",
       "title": "The Mirror of Her Dreams & A Man Rides Through",
       "author": "Donaldson, Stephen R",
@@ -969,5 +980,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-10T13:13:51.261Z"
+  "updatedAt": "2026-10-10T15:19:11.044Z"
 }
