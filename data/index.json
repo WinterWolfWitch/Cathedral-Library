@@ -111,6 +111,17 @@
       "sha": "9a102d2f88c5253d"
     },
     {
+      "id": "an-echo-of-things-to-come",
+      "title": "An Echo of Things to Come",
+      "author": "James Islington",
+      "description": "",
+      "filename": "An Echo of Things to Come_ Book Two of the Licanius trilogy -- James Islington -- The Licanius Trilogy, 2.epub",
+      "totalWords": 246296,
+      "totalPages": 247,
+      "totalChapters": 60,
+      "sha": "906efc36a54a9154"
+    },
+    {
       "id": "anne-bishop-the-others-02-murder-of-crows-epub",
       "title": "Anne Bishop - [The Others 02] - Murder of Crows (epub)",
       "author": "Unknown",
@@ -716,6 +727,17 @@
       "sha": "2ff04c6d0413c122"
     },
     {
+      "id": "the-light-of-all-that-falls",
+      "title": "The Light of All That Falls",
+      "author": "James Islington",
+      "description": "\" Love The Wheel of Time? This is about to become your new favorite series. \" - B&N SciFi & Fantasy Blog The journey that began in The Shadow of What Was Lost and continued in An Echo of Things to Come now comes to its spectacular conclusion in The Light of All That Falls , the final chapter of the Licanius Trilogy by acclaimed epic fantasy author James Islington. After a savage battle, the Boundary is whole again-but it may be too late. Banes now stalk the lands of Andarra, and the Venerate hav",
+      "filename": "The Light of All That Falls (The Licanius Trilogy Book 3) -- Islington, James -- Licanius trilogy, book 3.epub",
+      "totalWords": 278717,
+      "totalPages": 279,
+      "totalChapters": 61,
+      "sha": "04e7f00b18a9ebfb"
+    },
+    {
       "id": "the-maddaddam-trilogy-oryx-and-crake-the-year-of-the-flood-maddaddam",
       "title": "The MaddAddam Trilogy: Oryx and Crake; The Year of the Flood; MaddAddam",
       "author": "Margaret Atwood",
@@ -813,6 +835,17 @@
       "totalPages": 63,
       "totalChapters": 14,
       "sha": "cd3cc1fb1bbcb119"
+    },
+    {
+      "id": "the-shadow-of-what-was-lost-the-licanius-trilogy",
+      "title": "The Shadow of What Was Lost (The Licanius Trilogy)",
+      "author": "James Islington",
+      "description": "The first book in a stunning new fantasy trilogy by the next major force in commercial epic fantasy.",
+      "filename": "The Shadow of What Was Lost (The Licanius Trilogy) -- Islington, James.epub",
+      "totalWords": 229162,
+      "totalPages": 230,
+      "totalChapters": 62,
+      "sha": "83d29ec7d299d699"
     },
     {
       "id": "the-society-of-the-spectacle",
@@ -936,5 +969,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-07T20:01:37.141Z"
+  "updatedAt": "2026-10-10T13:13:51.261Z"
 }
