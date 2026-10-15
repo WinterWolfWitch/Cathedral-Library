@@ -166,6 +166,17 @@
       "sha": "bd5f1e6406df90ea"
     },
     {
+      "id": "children-of-time",
+      "title": "Children of Time",
+      "author": "Adrian Tchaikovsky",
+      "description": "A race for survival among the stars... Humanity's last survivors escaped earth's ruins to find a new home. But when they find it, can their desperation overcome its dangers? WHO WILL INHERIT THIS NEW EARTH? The last remnants of the human race left a dying Earth, desperate to find a new home among the stars. Following in the footsteps of their ancestors, they discover the greatest treasure of the past age - a world terraformed and prepared for human life. But all is not right in this new Eden. In",
+      "filename": "Children of Time -- Adrian Tchaikovsky -- Children of Time, 1, 2015.epub",
+      "totalWords": 156942,
+      "totalPages": 157,
+      "totalChapters": 58,
+      "sha": "46978866bafe3b05"
+    },
+    {
       "id": "count-zero",
       "title": "Count Zero",
       "author": "William Gibson",
@@ -980,5 +991,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-10T15:19:11.044Z"
+  "updatedAt": "2026-10-15T16:25:43.338Z"
 }

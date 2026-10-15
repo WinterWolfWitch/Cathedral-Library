@@ -1,0 +1,418 @@
+{
+  "id": "children-of-time",
+  "title": "Children of Time",
+  "author": "Adrian Tchaikovsky",
+  "description": "A race for survival among the stars... Humanity's last survivors escaped earth's ruins to find a new home. But when they find it, can their desperation overcome its dangers? WHO WILL INHERIT THIS NEW EARTH? The last remnants of the human race left a dying Earth, desperate to find a new home among the stars. Following in the footsteps of their ancestors, they discover the greatest treasure of the past age - a world terraformed and prepared for human life. But all is not right in this new Eden. In",
+  "filename": "Children of Time -- Adrian Tchaikovsky -- Children of Time, 1, 2015.epub",
+  "totalWords": 156942,
+  "totalPages": 157,
+  "totalChapters": 58,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 167,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "1.1 JUST A BARREL OF MONKEYS",
+      "wordCount": 4914,
+      "pageCount": 5,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "1.2 BRAVE LITTLE HUNTRESS",
+      "wordCount": 1082,
+      "pageCount": 2,
+      "startPage": 7
+    },
+    {
+      "index": 4,
+      "title": "1.3 THE LIGHTS GO OUT",
+      "wordCount": 1817,
+      "pageCount": 2,
+      "startPage": 9
+    },
+    {
+      "index": 5,
+      "title": "2.1 TWO THOUSAND YEARS FROM HOME",
+      "wordCount": 2353,
+      "pageCount": 3,
+      "startPage": 11
+    },
+    {
+      "index": 6,
+      "title": "2.2 EARTH'S OTHER CHILDREN",
+      "wordCount": 2492,
+      "pageCount": 3,
+      "startPage": 14
+    },
+    {
+      "index": 7,
+      "title": "2.3 ENIGMA VARIATIONS",
+      "wordCount": 3126,
+      "pageCount": 4,
+      "startPage": 17
+    },
+    {
+      "index": 8,
+      "title": "2.4 POOR RELATIONS",
+      "wordCount": 2940,
+      "pageCount": 3,
+      "startPage": 21
+    },
+    {
+      "index": 9,
+      "title": "2.5 ALL THESE WORLDS ARE YOURS",
+      "wordCount": 6727,
+      "pageCount": 7,
+      "startPage": 24
+    },
+    {
+      "index": 10,
+      "title": "2.6 METROPOLIS",
+      "wordCount": 3516,
+      "pageCount": 4,
+      "startPage": 31
+    },
+    {
+      "index": 11,
+      "title": "2.7 EXODUS",
+      "wordCount": 1621,
+      "pageCount": 2,
+      "startPage": 35
+    },
+    {
+      "index": 12,
+      "title": "3.1 RUDE AWAKENING",
+      "wordCount": 2585,
+      "pageCount": 3,
+      "startPage": 37
+    },
+    {
+      "index": 13,
+      "title": "3.2 FIRE AND THE SWORD",
+      "wordCount": 2935,
+      "pageCount": 3,
+      "startPage": 40
+    },
+    {
+      "index": 14,
+      "title": "3.3 ROCK AND A HARD PLACE",
+      "wordCount": 2141,
+      "pageCount": 3,
+      "startPage": 43
+    },
+    {
+      "index": 15,
+      "title": "3.4 BY THE WESTERN OCEAN",
+      "wordCount": 2644,
+      "pageCount": 3,
+      "startPage": 46
+    },
+    {
+      "index": 16,
+      "title": "3.5 BEARING A FLAMING SWORD",
+      "wordCount": 5497,
+      "pageCount": 6,
+      "startPage": 49
+    },
+    {
+      "index": 17,
+      "title": "3.6 DULCE ET DECORUM EST",
+      "wordCount": 3367,
+      "pageCount": 4,
+      "startPage": 55
+    },
+    {
+      "index": 18,
+      "title": "3.7 WAR IN HEAVEN",
+      "wordCount": 2727,
+      "pageCount": 3,
+      "startPage": 59
+    },
+    {
+      "index": 19,
+      "title": "3.8 ASYMMETRICAL WARFARE",
+      "wordCount": 3346,
+      "pageCount": 4,
+      "startPage": 62
+    },
+    {
+      "index": 20,
+      "title": "3.9 FIRST CONTACT",
+      "wordCount": 4014,
+      "pageCount": 5,
+      "startPage": 66
+    },
+    {
+      "index": 21,
+      "title": "3.10 GIANTS IN THE EARTH",
+      "wordCount": 808,
+      "pageCount": 1,
+      "startPage": 71
+    },
+    {
+      "index": 22,
+      "title": "3.11 THIS ISLAND GULAG",
+      "wordCount": 641,
+      "pageCount": 1,
+      "startPage": 72
+    },
+    {
+      "index": 23,
+      "title": "3.12 A VOICE IN THE WILDERNESS",
+      "wordCount": 1281,
+      "pageCount": 2,
+      "startPage": 73
+    },
+    {
+      "index": 24,
+      "title": "4.1 THE CAVE OF WONDERS",
+      "wordCount": 1735,
+      "pageCount": 2,
+      "startPage": 75
+    },
+    {
+      "index": 25,
+      "title": "4.2 DEATH COMES RIDING",
+      "wordCount": 1934,
+      "pageCount": 2,
+      "startPage": 77
+    },
+    {
+      "index": 26,
+      "title": "4.3 NOTES FROM A GREY PLANET",
+      "wordCount": 1824,
+      "pageCount": 2,
+      "startPage": 79
+    },
+    {
+      "index": 27,
+      "title": "4.4 ENQUIRING MINDS",
+      "wordCount": 2445,
+      "pageCount": 3,
+      "startPage": 81
+    },
+    {
+      "index": 28,
+      "title": "4.5 DREAMS OF THE ANCIENTS",
+      "wordCount": 3402,
+      "pageCount": 4,
+      "startPage": 84
+    },
+    {
+      "index": 29,
+      "title": "4.6 THE MESSENGER WITHIN",
+      "wordCount": 2530,
+      "pageCount": 3,
+      "startPage": 88
+    },
+    {
+      "index": 30,
+      "title": "4.7 NOT PRINCE HAMLET",
+      "wordCount": 2061,
+      "pageCount": 3,
+      "startPage": 91
+    },
+    {
+      "index": 31,
+      "title": "4.8 AGE OF PROGRESS",
+      "wordCount": 712,
+      "pageCount": 1,
+      "startPage": 94
+    },
+    {
+      "index": 32,
+      "title": "4.9 EX MACHINA",
+      "wordCount": 1252,
+      "pageCount": 2,
+      "startPage": 95
+    },
+    {
+      "index": 33,
+      "title": "5.1 THE PRISONER",
+      "wordCount": 3789,
+      "pageCount": 4,
+      "startPage": 97
+    },
+    {
+      "index": 34,
+      "title": "5.2 IN GOD'S COUNTRY",
+      "wordCount": 5105,
+      "pageCount": 6,
+      "startPage": 101
+    },
+    {
+      "index": 35,
+      "title": "5.3 OLD FRIENDS",
+      "wordCount": 2700,
+      "pageCount": 3,
+      "startPage": 107
+    },
+    {
+      "index": 36,
+      "title": "5.4 THE RIGHT TO LIFE",
+      "wordCount": 3724,
+      "pageCount": 4,
+      "startPage": 110
+    },
+    {
+      "index": 37,
+      "title": "5.5 THE OLDEST MAN IN THE UNIVERSE",
+      "wordCount": 2738,
+      "pageCount": 3,
+      "startPage": 114
+    },
+    {
+      "index": 38,
+      "title": "5.6 RESOURCE WAR",
+      "wordCount": 5040,
+      "pageCount": 6,
+      "startPage": 117
+    },
+    {
+      "index": 39,
+      "title": "5.7 ASCENSION",
+      "wordCount": 3187,
+      "pageCount": 4,
+      "startPage": 123
+    },
+    {
+      "index": 40,
+      "title": "5.8 CONQUERING HERO",
+      "wordCount": 3407,
+      "pageCount": 4,
+      "startPage": 127
+    },
+    {
+      "index": 41,
+      "title": "6.1 THE BALLOON GOES UP",
+      "wordCount": 2661,
+      "pageCount": 3,
+      "startPage": 131
+    },
+    {
+      "index": 42,
+      "title": "6.2 AN OLD MAN IN A HARSH SEASON",
+      "wordCount": 2490,
+      "pageCount": 3,
+      "startPage": 134
+    },
+    {
+      "index": 43,
+      "title": "6.3 COMMUNION",
+      "wordCount": 2175,
+      "pageCount": 3,
+      "startPage": 137
+    },
+    {
+      "index": 44,
+      "title": "6.4 EPIPHANY",
+      "wordCount": 1997,
+      "pageCount": 2,
+      "startPage": 140
+    },
+    {
+      "index": 45,
+      "title": "6.5 THINGS FALL APART",
+      "wordCount": 4427,
+      "pageCount": 5,
+      "startPage": 142
+    },
+    {
+      "index": 46,
+      "title": "6.6 AND TOUCHED THE FACE OF GOD",
+      "wordCount": 4482,
+      "pageCount": 5,
+      "startPage": 147
+    },
+    {
+      "index": 47,
+      "title": "7.1 WAR FOOTING",
+      "wordCount": 5240,
+      "pageCount": 6,
+      "startPage": 152
+    },
+    {
+      "index": 48,
+      "title": "7.2 WHAT ROUGH BEAST",
+      "wordCount": 1862,
+      "pageCount": 2,
+      "startPage": 158
+    },
+    {
+      "index": 49,
+      "title": "7.3 MAIDEN, MOTHER, CRONE",
+      "wordCount": 4494,
+      "pageCount": 5,
+      "startPage": 160
+    },
+    {
+      "index": 50,
+      "title": "7.4 END TIMES",
+      "wordCount": 2081,
+      "pageCount": 3,
+      "startPage": 165
+    },
+    {
+      "index": 51,
+      "title": "7.5 MANOEUVRES",
+      "wordCount": 1923,
+      "pageCount": 2,
+      "startPage": 168
+    },
+    {
+      "index": 52,
+      "title": "7.6 BREAKING THE SHELL",
+      "wordCount": 1193,
+      "pageCount": 2,
+      "startPage": 170
+    },
+    {
+      "index": 53,
+      "title": "7.7 THE WAR OUTSIDE",
+      "wordCount": 4731,
+      "pageCount": 5,
+      "startPage": 172
+    },
+    {
+      "index": 54,
+      "title": "7.8 THE WAR INSIDE",
+      "wordCount": 1568,
+      "pageCount": 2,
+      "startPage": 177
+    },
+    {
+      "index": 55,
+      "title": "7.9 LAST STAND",
+      "wordCount": 2608,
+      "pageCount": 3,
+      "startPage": 179
+    },
+    {
+      "index": 56,
+      "title": "7.10 THE QUALITY OF MERCY",
+      "wordCount": 1567,
+      "pageCount": 2,
+      "startPage": 182
+    },
+    {
+      "index": 57,
+      "title": "8.1 TO BOLDLY GO",
+      "wordCount": 968,
+      "pageCount": 1,
+      "startPage": 184
+    },
+    {
+      "index": 58,
+      "title": "Author",
+      "wordCount": 149,
+      "pageCount": 1,
+      "startPage": 185
+    }
+  ]
+}
