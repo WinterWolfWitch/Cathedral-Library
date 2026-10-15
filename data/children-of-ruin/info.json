@@ -1,0 +1,523 @@
+{
+  "id": "children-of-ruin",
+  "title": "Children of Ruin",
+  "author": "Adrian Tchaikovsky",
+  "description": "",
+  "filename": "Children of Time  2_Children of Ruin -- Tchaikovsky, Adrian 2019.epub",
+  "totalWords": 148818,
+  "totalPages": 149,
+  "totalChapters": 73,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Contents",
+      "wordCount": 124,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "ACKNOWLEDGEMENTS",
+      "wordCount": 169,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "1.",
+      "wordCount": 2393,
+      "pageCount": 3,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "2.",
+      "wordCount": 4062,
+      "pageCount": 5,
+      "startPage": 6
+    },
+    {
+      "index": 5,
+      "title": "3.",
+      "wordCount": 1750,
+      "pageCount": 2,
+      "startPage": 11
+    },
+    {
+      "index": 6,
+      "title": "4.",
+      "wordCount": 1922,
+      "pageCount": 2,
+      "startPage": 13
+    },
+    {
+      "index": 7,
+      "title": "5.",
+      "wordCount": 9301,
+      "pageCount": 10,
+      "startPage": 15
+    },
+    {
+      "index": 8,
+      "title": "6.",
+      "wordCount": 49,
+      "pageCount": 1,
+      "startPage": 25
+    },
+    {
+      "index": 9,
+      "title": "1.",
+      "wordCount": 5853,
+      "pageCount": 6,
+      "startPage": 26
+    },
+    {
+      "index": 10,
+      "title": "2.",
+      "wordCount": 3527,
+      "pageCount": 4,
+      "startPage": 32
+    },
+    {
+      "index": 11,
+      "title": "3.",
+      "wordCount": 2766,
+      "pageCount": 3,
+      "startPage": 36
+    },
+    {
+      "index": 12,
+      "title": "1.",
+      "wordCount": 2479,
+      "pageCount": 3,
+      "startPage": 39
+    },
+    {
+      "index": 13,
+      "title": "2.",
+      "wordCount": 2793,
+      "pageCount": 3,
+      "startPage": 42
+    },
+    {
+      "index": 14,
+      "title": "3.",
+      "wordCount": 1195,
+      "pageCount": 2,
+      "startPage": 45
+    },
+    {
+      "index": 15,
+      "title": "4.",
+      "wordCount": 2355,
+      "pageCount": 3,
+      "startPage": 47
+    },
+    {
+      "index": 16,
+      "title": "5.",
+      "wordCount": 112,
+      "pageCount": 1,
+      "startPage": 50
+    },
+    {
+      "index": 17,
+      "title": "6.",
+      "wordCount": 905,
+      "pageCount": 1,
+      "startPage": 51
+    },
+    {
+      "index": 18,
+      "title": "7.",
+      "wordCount": 1264,
+      "pageCount": 2,
+      "startPage": 52
+    },
+    {
+      "index": 19,
+      "title": "1.",
+      "wordCount": 3939,
+      "pageCount": 4,
+      "startPage": 54
+    },
+    {
+      "index": 20,
+      "title": "2.",
+      "wordCount": 2384,
+      "pageCount": 3,
+      "startPage": 58
+    },
+    {
+      "index": 21,
+      "title": "3.",
+      "wordCount": 2791,
+      "pageCount": 3,
+      "startPage": 61
+    },
+    {
+      "index": 22,
+      "title": "4.",
+      "wordCount": 2032,
+      "pageCount": 3,
+      "startPage": 64
+    },
+    {
+      "index": 23,
+      "title": "5.",
+      "wordCount": 1637,
+      "pageCount": 2,
+      "startPage": 67
+    },
+    {
+      "index": 24,
+      "title": "6.",
+      "wordCount": 820,
+      "pageCount": 1,
+      "startPage": 69
+    },
+    {
+      "index": 25,
+      "title": "7.",
+      "wordCount": 1533,
+      "pageCount": 2,
+      "startPage": 70
+    },
+    {
+      "index": 26,
+      "title": "1.",
+      "wordCount": 809,
+      "pageCount": 1,
+      "startPage": 72
+    },
+    {
+      "index": 27,
+      "title": "2.",
+      "wordCount": 1135,
+      "pageCount": 2,
+      "startPage": 73
+    },
+    {
+      "index": 28,
+      "title": "3.",
+      "wordCount": 386,
+      "pageCount": 1,
+      "startPage": 75
+    },
+    {
+      "index": 29,
+      "title": "4.",
+      "wordCount": 3036,
+      "pageCount": 4,
+      "startPage": 76
+    },
+    {
+      "index": 30,
+      "title": "5.",
+      "wordCount": 303,
+      "pageCount": 1,
+      "startPage": 80
+    },
+    {
+      "index": 31,
+      "title": "6.",
+      "wordCount": 1062,
+      "pageCount": 2,
+      "startPage": 81
+    },
+    {
+      "index": 32,
+      "title": "7.",
+      "wordCount": 2143,
+      "pageCount": 3,
+      "startPage": 83
+    },
+    {
+      "index": 33,
+      "title": "8.",
+      "wordCount": 2330,
+      "pageCount": 3,
+      "startPage": 86
+    },
+    {
+      "index": 34,
+      "title": "9.",
+      "wordCount": 3126,
+      "pageCount": 4,
+      "startPage": 89
+    },
+    {
+      "index": 35,
+      "title": "1.",
+      "wordCount": 2251,
+      "pageCount": 3,
+      "startPage": 93
+    },
+    {
+      "index": 36,
+      "title": "2.",
+      "wordCount": 2680,
+      "pageCount": 3,
+      "startPage": 96
+    },
+    {
+      "index": 37,
+      "title": "3.",
+      "wordCount": 2348,
+      "pageCount": 3,
+      "startPage": 99
+    },
+    {
+      "index": 38,
+      "title": "4.",
+      "wordCount": 5615,
+      "pageCount": 6,
+      "startPage": 102
+    },
+    {
+      "index": 39,
+      "title": "5.",
+      "wordCount": 2484,
+      "pageCount": 3,
+      "startPage": 108
+    },
+    {
+      "index": 40,
+      "title": "6.",
+      "wordCount": 629,
+      "pageCount": 1,
+      "startPage": 111
+    },
+    {
+      "index": 41,
+      "title": "7.",
+      "wordCount": 3371,
+      "pageCount": 4,
+      "startPage": 112
+    },
+    {
+      "index": 42,
+      "title": "8.",
+      "wordCount": 1210,
+      "pageCount": 2,
+      "startPage": 116
+    },
+    {
+      "index": 43,
+      "title": "1.",
+      "wordCount": 2272,
+      "pageCount": 3,
+      "startPage": 118
+    },
+    {
+      "index": 44,
+      "title": "2.",
+      "wordCount": 2496,
+      "pageCount": 3,
+      "startPage": 121
+    },
+    {
+      "index": 45,
+      "title": "3.",
+      "wordCount": 1799,
+      "pageCount": 2,
+      "startPage": 124
+    },
+    {
+      "index": 46,
+      "title": "4.",
+      "wordCount": 2546,
+      "pageCount": 3,
+      "startPage": 126
+    },
+    {
+      "index": 47,
+      "title": "5.",
+      "wordCount": 1370,
+      "pageCount": 2,
+      "startPage": 129
+    },
+    {
+      "index": 48,
+      "title": "6.",
+      "wordCount": 714,
+      "pageCount": 1,
+      "startPage": 131
+    },
+    {
+      "index": 49,
+      "title": "7.",
+      "wordCount": 1301,
+      "pageCount": 2,
+      "startPage": 132
+    },
+    {
+      "index": 50,
+      "title": "8.",
+      "wordCount": 2453,
+      "pageCount": 3,
+      "startPage": 134
+    },
+    {
+      "index": 51,
+      "title": "1.",
+      "wordCount": 1261,
+      "pageCount": 2,
+      "startPage": 137
+    },
+    {
+      "index": 52,
+      "title": "2.",
+      "wordCount": 2204,
+      "pageCount": 3,
+      "startPage": 139
+    },
+    {
+      "index": 53,
+      "title": "3.",
+      "wordCount": 3501,
+      "pageCount": 4,
+      "startPage": 142
+    },
+    {
+      "index": 54,
+      "title": "4.",
+      "wordCount": 1532,
+      "pageCount": 2,
+      "startPage": 146
+    },
+    {
+      "index": 55,
+      "title": "5.",
+      "wordCount": 1637,
+      "pageCount": 2,
+      "startPage": 148
+    },
+    {
+      "index": 56,
+      "title": "6.",
+      "wordCount": 1297,
+      "pageCount": 2,
+      "startPage": 150
+    },
+    {
+      "index": 57,
+      "title": "7.",
+      "wordCount": 1999,
+      "pageCount": 2,
+      "startPage": 152
+    },
+    {
+      "index": 58,
+      "title": "8.",
+      "wordCount": 2193,
+      "pageCount": 3,
+      "startPage": 154
+    },
+    {
+      "index": 59,
+      "title": "9.",
+      "wordCount": 100,
+      "pageCount": 1,
+      "startPage": 157
+    },
+    {
+      "index": 60,
+      "title": "10.",
+      "wordCount": 1766,
+      "pageCount": 2,
+      "startPage": 158
+    },
+    {
+      "index": 61,
+      "title": "11.",
+      "wordCount": 3209,
+      "pageCount": 4,
+      "startPage": 160
+    },
+    {
+      "index": 62,
+      "title": "12.",
+      "wordCount": 3382,
+      "pageCount": 4,
+      "startPage": 164
+    },
+    {
+      "index": 63,
+      "title": "13.",
+      "wordCount": 1838,
+      "pageCount": 2,
+      "startPage": 168
+    },
+    {
+      "index": 64,
+      "title": "14.",
+      "wordCount": 1274,
+      "pageCount": 2,
+      "startPage": 170
+    },
+    {
+      "index": 65,
+      "title": "15.",
+      "wordCount": 1923,
+      "pageCount": 2,
+      "startPage": 172
+    },
+    {
+      "index": 66,
+      "title": "16.",
+      "wordCount": 1175,
+      "pageCount": 2,
+      "startPage": 174
+    },
+    {
+      "index": 67,
+      "title": "17.",
+      "wordCount": 2101,
+      "pageCount": 3,
+      "startPage": 176
+    },
+    {
+      "index": 68,
+      "title": "18.",
+      "wordCount": 2818,
+      "pageCount": 3,
+      "startPage": 179
+    },
+    {
+      "index": 69,
+      "title": "19.",
+      "wordCount": 1958,
+      "pageCount": 2,
+      "startPage": 182
+    },
+    {
+      "index": 70,
+      "title": "20.",
+      "wordCount": 2045,
+      "pageCount": 3,
+      "startPage": 184
+    },
+    {
+      "index": 71,
+      "title": "EPILOGUE",
+      "wordCount": 1318,
+      "pageCount": 2,
+      "startPage": 187
+    },
+    {
+      "index": 72,
+      "title": "BY ADRIAN TCHAIKOVSKY",
+      "wordCount": 70,
+      "pageCount": 1,
+      "startPage": 189
+    },
+    {
+      "index": 73,
+      "title": "Copyright page",
+      "wordCount": 193,
+      "pageCount": 1,
+      "startPage": 190
+    }
+  ]
+}

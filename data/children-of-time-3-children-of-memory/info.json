@@ -1,0 +1,425 @@
+{
+  "id": "children-of-time-3-children-of-memory",
+  "title": "Children of Time 3: Children of Memory",
+  "author": "Adrian Tchaikovsky",
+  "description": "From the award-winning master of sci-fi Adrian Tchaikovsky, Children of Memory is the unmissable follow-up space opera to the highly acclaimed Children of Time and Children of Ruin. They dreamed of a new home. They woke to a nightmare. On Imir, Captain Holt founded a new colony on an empty world. In the process, he created hope and a new future for humanity. But, generations later, his descendants are struggling to survive. As harvests worsen and equipment fails, strangers appear in a town where",
+  "filename": "Children of Time 3_ Children of Memory -- Adrian Tchaikovsky -- 2021.epub",
+  "totalWords": 122860,
+  "totalPages": 123,
+  "totalChapters": 59,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Contents",
+      "wordCount": 175,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "ACKNOWLEDGEMENTS",
+      "wordCount": 61,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "WHAT HAS GONE BEFORE",
+      "wordCount": 659,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "DRAMATIS PERSONAE",
+      "wordCount": 153,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "1.1",
+      "wordCount": 3670,
+      "pageCount": 4,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "1.2",
+      "wordCount": 2730,
+      "pageCount": 3,
+      "startPage": 9
+    },
+    {
+      "index": 7,
+      "title": "2.1 Liff",
+      "wordCount": 7805,
+      "pageCount": 8,
+      "startPage": 12
+    },
+    {
+      "index": 8,
+      "title": "2.2 Miranda",
+      "wordCount": 3151,
+      "pageCount": 4,
+      "startPage": 20
+    },
+    {
+      "index": 9,
+      "title": "2.3 Gothi/Gethli",
+      "wordCount": 1219,
+      "pageCount": 2,
+      "startPage": 24
+    },
+    {
+      "index": 10,
+      "title": "3.1",
+      "wordCount": 1448,
+      "pageCount": 2,
+      "startPage": 26
+    },
+    {
+      "index": 11,
+      "title": "3.2",
+      "wordCount": 2574,
+      "pageCount": 3,
+      "startPage": 28
+    },
+    {
+      "index": 12,
+      "title": "3.3",
+      "wordCount": 1946,
+      "pageCount": 2,
+      "startPage": 31
+    },
+    {
+      "index": 13,
+      "title": "3.4",
+      "wordCount": 2301,
+      "pageCount": 3,
+      "startPage": 33
+    },
+    {
+      "index": 14,
+      "title": "4.1 Liff",
+      "wordCount": 4503,
+      "pageCount": 5,
+      "startPage": 36
+    },
+    {
+      "index": 15,
+      "title": "4.2 Miranda",
+      "wordCount": 3597,
+      "pageCount": 4,
+      "startPage": 41
+    },
+    {
+      "index": 16,
+      "title": "4.3 Liff",
+      "wordCount": 4110,
+      "pageCount": 5,
+      "startPage": 45
+    },
+    {
+      "index": 17,
+      "title": "4.4 Miranda",
+      "wordCount": 2251,
+      "pageCount": 3,
+      "startPage": 50
+    },
+    {
+      "index": 18,
+      "title": "4.5 Liff",
+      "wordCount": 1831,
+      "pageCount": 2,
+      "startPage": 53
+    },
+    {
+      "index": 19,
+      "title": "4.6 Gothi/Gethli",
+      "wordCount": 1065,
+      "pageCount": 2,
+      "startPage": 55
+    },
+    {
+      "index": 20,
+      "title": "5.1",
+      "wordCount": 718,
+      "pageCount": 1,
+      "startPage": 57
+    },
+    {
+      "index": 21,
+      "title": "5.2",
+      "wordCount": 5848,
+      "pageCount": 6,
+      "startPage": 58
+    },
+    {
+      "index": 22,
+      "title": "5.3",
+      "wordCount": 2142,
+      "pageCount": 3,
+      "startPage": 64
+    },
+    {
+      "index": 23,
+      "title": "6.1 Liff",
+      "wordCount": 2596,
+      "pageCount": 3,
+      "startPage": 67
+    },
+    {
+      "index": 24,
+      "title": "6.2 Miranda",
+      "wordCount": 2743,
+      "pageCount": 3,
+      "startPage": 70
+    },
+    {
+      "index": 25,
+      "title": "6.3 Liff",
+      "wordCount": 4740,
+      "pageCount": 5,
+      "startPage": 73
+    },
+    {
+      "index": 26,
+      "title": "6.4 Gothi/Gethli",
+      "wordCount": 1918,
+      "pageCount": 2,
+      "startPage": 78
+    },
+    {
+      "index": 27,
+      "title": "7.1",
+      "wordCount": 3624,
+      "pageCount": 4,
+      "startPage": 80
+    },
+    {
+      "index": 28,
+      "title": "7.2",
+      "wordCount": 2570,
+      "pageCount": 3,
+      "startPage": 84
+    },
+    {
+      "index": 29,
+      "title": "7.3",
+      "wordCount": 2573,
+      "pageCount": 3,
+      "startPage": 87
+    },
+    {
+      "index": 30,
+      "title": "8.1 Liff",
+      "wordCount": 3724,
+      "pageCount": 4,
+      "startPage": 90
+    },
+    {
+      "index": 31,
+      "title": "8.2 Miranda",
+      "wordCount": 4088,
+      "pageCount": 5,
+      "startPage": 94
+    },
+    {
+      "index": 32,
+      "title": "8.3 Liff",
+      "wordCount": 1750,
+      "pageCount": 2,
+      "startPage": 99
+    },
+    {
+      "index": 33,
+      "title": "8.4 Gothi/Gethli",
+      "wordCount": 255,
+      "pageCount": 1,
+      "startPage": 101
+    },
+    {
+      "index": 34,
+      "title": "8.5 Liff",
+      "wordCount": 1181,
+      "pageCount": 2,
+      "startPage": 102
+    },
+    {
+      "index": 35,
+      "title": "8.6 Miranda",
+      "wordCount": 519,
+      "pageCount": 1,
+      "startPage": 104
+    },
+    {
+      "index": 36,
+      "title": "8.7 Liff",
+      "wordCount": 635,
+      "pageCount": 1,
+      "startPage": 105
+    },
+    {
+      "index": 37,
+      "title": "8.8 Gothi/Gethli",
+      "wordCount": 442,
+      "pageCount": 1,
+      "startPage": 106
+    },
+    {
+      "index": 38,
+      "title": "9.1",
+      "wordCount": 3164,
+      "pageCount": 4,
+      "startPage": 107
+    },
+    {
+      "index": 39,
+      "title": "10.1 Miranda",
+      "wordCount": 1726,
+      "pageCount": 2,
+      "startPage": 111
+    },
+    {
+      "index": 40,
+      "title": "10.2 Liff",
+      "wordCount": 2686,
+      "pageCount": 3,
+      "startPage": 113
+    },
+    {
+      "index": 41,
+      "title": "10.3 Miranda",
+      "wordCount": 1188,
+      "pageCount": 2,
+      "startPage": 116
+    },
+    {
+      "index": 42,
+      "title": "10.4 Liff",
+      "wordCount": 1191,
+      "pageCount": 2,
+      "startPage": 118
+    },
+    {
+      "index": 43,
+      "title": "10.5 Gothi/Gethli/Liff",
+      "wordCount": 3458,
+      "pageCount": 4,
+      "startPage": 120
+    },
+    {
+      "index": 44,
+      "title": "10.6 Miranda",
+      "wordCount": 1411,
+      "pageCount": 2,
+      "startPage": 124
+    },
+    {
+      "index": 45,
+      "title": "10.7 Miranda",
+      "wordCount": 2227,
+      "pageCount": 3,
+      "startPage": 126
+    },
+    {
+      "index": 46,
+      "title": "11.1 Holt",
+      "wordCount": 2706,
+      "pageCount": 3,
+      "startPage": 129
+    },
+    {
+      "index": 47,
+      "title": "11.2 Liff",
+      "wordCount": 1333,
+      "pageCount": 2,
+      "startPage": 132
+    },
+    {
+      "index": 48,
+      "title": "12.1 Miranda",
+      "wordCount": 3101,
+      "pageCount": 4,
+      "startPage": 134
+    },
+    {
+      "index": 49,
+      "title": "12.2 Liff",
+      "wordCount": 207,
+      "pageCount": 1,
+      "startPage": 138
+    },
+    {
+      "index": 50,
+      "title": "12.3 Kern",
+      "wordCount": 1760,
+      "pageCount": 2,
+      "startPage": 139
+    },
+    {
+      "index": 51,
+      "title": "12.4 Miranda",
+      "wordCount": 2551,
+      "pageCount": 3,
+      "startPage": 141
+    },
+    {
+      "index": 52,
+      "title": "12.5 Liff",
+      "wordCount": 239,
+      "pageCount": 1,
+      "startPage": 144
+    },
+    {
+      "index": 53,
+      "title": "12.6 Miranda",
+      "wordCount": 3780,
+      "pageCount": 4,
+      "startPage": 145
+    },
+    {
+      "index": 54,
+      "title": "12.7 Gothi/Gethli",
+      "wordCount": 657,
+      "pageCount": 1,
+      "startPage": 149
+    },
+    {
+      "index": 55,
+      "title": "12.8 Liff",
+      "wordCount": 554,
+      "pageCount": 1,
+      "startPage": 150
+    },
+    {
+      "index": 56,
+      "title": "12.9 Miranda",
+      "wordCount": 1159,
+      "pageCount": 2,
+      "startPage": 151
+    },
+    {
+      "index": 57,
+      "title": "About the Author",
+      "wordCount": 126,
+      "pageCount": 1,
+      "startPage": 153
+    },
+    {
+      "index": 58,
+      "title": "By Adrian Tchaikovsky",
+      "wordCount": 105,
+      "pageCount": 1,
+      "startPage": 154
+    },
+    {
+      "index": 59,
+      "title": "Copyright page",
+      "wordCount": 216,
+      "pageCount": 1,
+      "startPage": 155
+    }
+  ]
+}

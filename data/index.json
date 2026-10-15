@@ -166,6 +166,17 @@
       "sha": "bd5f1e6406df90ea"
     },
     {
+      "id": "children-of-ruin",
+      "title": "Children of Ruin",
+      "author": "Adrian Tchaikovsky",
+      "description": "",
+      "filename": "Children of Time  2_Children of Ruin -- Tchaikovsky, Adrian 2019.epub",
+      "totalWords": 148818,
+      "totalPages": 149,
+      "totalChapters": 73,
+      "sha": "432c72deb482fdc5"
+    },
+    {
       "id": "children-of-time",
       "title": "Children of Time",
       "author": "Adrian Tchaikovsky",
@@ -175,6 +186,17 @@
       "totalPages": 157,
       "totalChapters": 58,
       "sha": "46978866bafe3b05"
+    },
+    {
+      "id": "children-of-time-3-children-of-memory",
+      "title": "Children of Time 3: Children of Memory",
+      "author": "Adrian Tchaikovsky",
+      "description": "From the award-winning master of sci-fi Adrian Tchaikovsky, Children of Memory is the unmissable follow-up space opera to the highly acclaimed Children of Time and Children of Ruin. They dreamed of a new home. They woke to a nightmare. On Imir, Captain Holt founded a new colony on an empty world. In the process, he created hope and a new future for humanity. But, generations later, his descendants are struggling to survive. As harvests worsen and equipment fails, strangers appear in a town where",
+      "filename": "Children of Time 3_ Children of Memory -- Adrian Tchaikovsky -- 2021.epub",
+      "totalWords": 122860,
+      "totalPages": 123,
+      "totalChapters": 59,
+      "sha": "8898a9a9111878af"
     },
     {
       "id": "count-zero",
@@ -991,5 +1013,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-15T16:25:43.338Z"
+  "updatedAt": "2026-10-15T16:36:13.142Z"
 }
