@@ -991,6 +991,17 @@
       "sha": "4b49d193516976bf"
     },
     {
+      "id": "uprooted",
+      "title": "Uprooted",
+      "author": "Naomi Novik",
+      "description": "Naomi Novik, author of the New York Times bestselling and critically acclaimed Temeraire novels, introduces a bold new world rooted in folk stories and legends, as elemental as a Grimm fairy tale. “Every so often you come upon a story that seems like a lost tale of Grimm newly come to light. Uprooted is such a novel. Its narrative spell is confidently wrought and sympathetically cast. I might even call it bewitching.”—Gregory Maguire, bestselling author of Wicked and* Egg & Spoon “Our Dragon doe",
+      "filename": "Uprooted _ A Novel -- Novik, Naomi.epub",
+      "totalWords": 156108,
+      "totalPages": 157,
+      "totalChapters": 36,
+      "sha": "b622986279921c96"
+    },
+    {
       "id": "watcher-of-the-dead-book-4",
       "title": "Watcher Of The Dead (Book 4)",
       "author": "J.V. Jones",
@@ -1013,5 +1024,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-15T16:36:13.142Z"
+  "updatedAt": "2026-10-20T08:05:23.404Z"
 }
