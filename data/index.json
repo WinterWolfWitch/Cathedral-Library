@@ -45,6 +45,17 @@
       "sha": "35a109d5da455981"
     },
     {
+      "id": "a-dowry-of-blood",
+      "title": "A Dowry of Blood",
+      "author": "S. T. Gibson",
+      "description": "",
+      "filename": "A Dowry of Blood -- S_ T_ Gibson.epub",
+      "totalWords": 58803,
+      "totalPages": 59,
+      "totalChapters": 59,
+      "sha": "41f2914aab9a7634"
+    },
+    {
       "id": "a-fortress-of-grey-ice-book-2",
       "title": "A Fortress of Grey Ice (Book 2)",
       "author": "J.V. Jones",
@@ -1024,5 +1035,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-23T08:45:25.636Z"
+  "updatedAt": "2026-10-23T09:08:31.211Z"
 }
