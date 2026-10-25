@@ -1,0 +1,264 @@
+{
+  "id": "i-am-a-strange-loop",
+  "title": "I Am a Strange Loop",
+  "author": "Douglas R. Hofstadter",
+  "description": "Douglas Hofstadter's critically acclaimed return to the themes of Gödel, Escher, Bach &#8212;an original and controversial view of the nature of consciousness and identity.",
+  "filename": "I Am a Strange Loop -- Douglas R_ Hofstadter -- 2011.epub",
+  "totalWords": 181490,
+  "totalPages": 182,
+  "totalChapters": 36,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 1435,
+      "pageCount": 2,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Praise",
+      "wordCount": 870,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 3,
+      "title": "A note from the Publisher",
+      "wordCount": 49,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 4,
+      "title": "WORDS OF THANKS",
+      "wordCount": 743,
+      "pageCount": 1,
+      "startPage": 5
+    },
+    {
+      "index": 5,
+      "title": "PREFACE",
+      "wordCount": 3818,
+      "pageCount": 4,
+      "startPage": 6
+    },
+    {
+      "index": 6,
+      "title": "PROLOGUE",
+      "wordCount": 1427,
+      "pageCount": 2,
+      "startPage": 10
+    },
+    {
+      "index": 7,
+      "title": "CHAPTER 1 - On Souls and Their Sizes",
+      "wordCount": 6553,
+      "pageCount": 7,
+      "startPage": 12
+    },
+    {
+      "index": 8,
+      "title": "CHAPTER 2 - This Teetering Bulb of Dread and Dream",
+      "wordCount": 4663,
+      "pageCount": 5,
+      "startPage": 19
+    },
+    {
+      "index": 9,
+      "title": "CHAPTER 3 - The Causal Potency of Patterns",
+      "wordCount": 6395,
+      "pageCount": 7,
+      "startPage": 24
+    },
+    {
+      "index": 10,
+      "title": "CHAPTER 4 - Loops, Goals, and Loopholes",
+      "wordCount": 5349,
+      "pageCount": 6,
+      "startPage": 31
+    },
+    {
+      "index": 11,
+      "title": "CHAPTER 5 - On Video Feedback",
+      "wordCount": 3037,
+      "pageCount": 4,
+      "startPage": 37
+    },
+    {
+      "index": 12,
+      "title": "CHAPTER 6 - Of Selves and Symbols",
+      "wordCount": 6250,
+      "pageCount": 7,
+      "startPage": 41
+    },
+    {
+      "index": 13,
+      "title": "CHAPTER 7 - The Epi Phenomenon",
+      "wordCount": 5756,
+      "pageCount": 6,
+      "startPage": 48
+    },
+    {
+      "index": 14,
+      "title": "CHAPTER 8 - Embarking on a Strange-Loop Safari",
+      "wordCount": 5174,
+      "pageCount": 6,
+      "startPage": 54
+    },
+    {
+      "index": 15,
+      "title": "CHAPTER 9 - Pattern and Provability",
+      "wordCount": 4652,
+      "pageCount": 5,
+      "startPage": 60
+    },
+    {
+      "index": 16,
+      "title": "CHAPTER 10 - Gödel’s Quintessential Strange Loop",
+      "wordCount": 8785,
+      "pageCount": 9,
+      "startPage": 65
+    },
+    {
+      "index": 17,
+      "title": "CHAPTER 11 - How Analogy Makes Meaning",
+      "wordCount": 6925,
+      "pageCount": 7,
+      "startPage": 74
+    },
+    {
+      "index": 18,
+      "title": "CHAPTER 12 - On Downward Causality",
+      "wordCount": 6242,
+      "pageCount": 7,
+      "startPage": 81
+    },
+    {
+      "index": 19,
+      "title": "CHAPTER 13 - The Elusive Apple of My “I”",
+      "wordCount": 6735,
+      "pageCount": 7,
+      "startPage": 88
+    },
+    {
+      "index": 20,
+      "title": "CHAPTER 14 - Strangeness in the “I” of the Beholder",
+      "wordCount": 6158,
+      "pageCount": 7,
+      "startPage": 95
+    },
+    {
+      "index": 21,
+      "title": "CHAPTER 15 - Entwinement",
+      "wordCount": 8570,
+      "pageCount": 9,
+      "startPage": 102
+    },
+    {
+      "index": 22,
+      "title": "CHAPTER 16 - Grappling with the Deepest Mystery",
+      "wordCount": 6325,
+      "pageCount": 7,
+      "startPage": 111
+    },
+    {
+      "index": 23,
+      "title": "CHAPTER 17 - How We Live in Each Other",
+      "wordCount": 8049,
+      "pageCount": 9,
+      "startPage": 118
+    },
+    {
+      "index": 24,
+      "title": "CHAPTER 18 - The Blurry Glow of Human Identity",
+      "wordCount": 7491,
+      "pageCount": 8,
+      "startPage": 127
+    },
+    {
+      "index": 25,
+      "title": "CHAPTER 19 - Consciousness = Thinking",
+      "wordCount": 2447,
+      "pageCount": 3,
+      "startPage": 135
+    },
+    {
+      "index": 26,
+      "title": "CHAPTER 20 - A Courteous Crossing of Words",
+      "wordCount": 8769,
+      "pageCount": 9,
+      "startPage": 138
+    },
+    {
+      "index": 27,
+      "title": "CHAPTER 21 - A Brief Brush with Cartesian Egos",
+      "wordCount": 7771,
+      "pageCount": 8,
+      "startPage": 147
+    },
+    {
+      "index": 28,
+      "title": "CHAPTER 22 - A Tango with Zombies and Dualism",
+      "wordCount": 5605,
+      "pageCount": 6,
+      "startPage": 155
+    },
+    {
+      "index": 29,
+      "title": "CHAPTER 23 - Killing a Couple of Sacred Cows",
+      "wordCount": 3740,
+      "pageCount": 4,
+      "startPage": 161
+    },
+    {
+      "index": 30,
+      "title": "CHAPTER 24 - On Magnanimity and Friendship",
+      "wordCount": 5649,
+      "pageCount": 6,
+      "startPage": 165
+    },
+    {
+      "index": 31,
+      "title": "EPILOGUE",
+      "wordCount": 2902,
+      "pageCount": 3,
+      "startPage": 171
+    },
+    {
+      "index": 32,
+      "title": "NOTES",
+      "wordCount": 7683,
+      "pageCount": 8,
+      "startPage": 174
+    },
+    {
+      "index": 33,
+      "title": "BIBLIOGRAPHY",
+      "wordCount": 2511,
+      "pageCount": 3,
+      "startPage": 182
+    },
+    {
+      "index": 34,
+      "title": "Acknowledgements",
+      "wordCount": 428,
+      "pageCount": 1,
+      "startPage": 185
+    },
+    {
+      "index": 35,
+      "title": "INDEX",
+      "wordCount": 12400,
+      "pageCount": 13,
+      "startPage": 186
+    },
+    {
+      "index": 36,
+      "title": "Copyright Page",
+      "wordCount": 134,
+      "pageCount": 1,
+      "startPage": 199
+    }
+  ]
+}

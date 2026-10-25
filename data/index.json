@@ -353,6 +353,17 @@
       "sha": "9592068ef28a6614"
     },
     {
+      "id": "i-am-a-strange-loop",
+      "title": "I Am a Strange Loop",
+      "author": "Douglas R. Hofstadter",
+      "description": "Douglas Hofstadter's critically acclaimed return to the themes of Gödel, Escher, Bach &#8212;an original and controversial view of the nature of consciousness and identity.",
+      "filename": "I Am a Strange Loop -- Douglas R_ Hofstadter -- 2011.epub",
+      "totalWords": 181490,
+      "totalPages": 182,
+      "totalChapters": 36,
+      "sha": "467265c511f5e9fc"
+    },
+    {
       "id": "jemisin-n-k-inheritance-02-the-broken-kingdoms",
       "title": "Jemisin, N.K - Inheritance 02 - The Broken Kingdoms",
       "author": "Jemisin, N.K.",
@@ -1035,5 +1046,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-23T09:08:31.211Z"
+  "updatedAt": "2026-10-25T16:08:50.734Z"
 }
