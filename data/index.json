@@ -430,6 +430,17 @@
       "sha": "38ab3ac0426f8bbd"
     },
     {
+      "id": "metamagical-themas",
+      "title": "Metamagical Themas",
+      "author": "Douglas Hofstadter",
+      "description": "",
+      "filename": "Metamagical Themas -- Douglas Hofstadter -- 2012.epub",
+      "totalWords": 353891,
+      "totalPages": 354,
+      "totalChapters": 29,
+      "sha": "3294d02750892ca4"
+    },
+    {
       "id": "mississippi-blues",
       "title": "Mississippi Blues",
       "author": "Kathleen Ann Goonan",
@@ -705,6 +716,17 @@
       "sha": "0f000edf639c342d"
     },
     {
+      "id": "the-fury-of-the-gods",
+      "title": "The Fury of the Gods",
+      "author": "John Gwynne",
+      "description": "The Fury of the Gods is the earth-shattering final book in John Gwynne's bestselling Norse-inspired epic fantasy series, packed with myth, magic and bloody vengeance. The final battle for the fate of Vigrid approaches... Varg has overcome the trials of his past and become an accepted member of the Bloodsworn, but now he and his newfound comrades face their biggest challenge yet: slaying a dragon. &#160; Elvar is struggling to consolidate her power in Snakavik, where she faces threats from withou",
+      "filename": "The Fury of the Gods -- GWYNNE, JOHN -- Bloodsworn 03, 2024.epub",
+      "totalWords": 176556,
+      "totalPages": 177,
+      "totalChapters": 104,
+      "sha": "3712145a186bd951"
+    },
+    {
       "id": "the-hidden-life-of-trees",
       "title": "The Hidden Life of Trees",
       "author": "Peter Wohlleben",
@@ -758,6 +780,17 @@
       "totalPages": 117,
       "totalChapters": 24,
       "sha": "79945b50c881cb1b"
+    },
+    {
+      "id": "the-hunger-of-the-gods",
+      "title": "The Hunger of the Gods",
+      "author": "John Gwynne",
+      "description": "The Hunger of the Gods continues John Gwynne's acclaimed Norse-inspired epic fantasy series, packed with myth, magic and bloody vengeance THE DEAD GODS ARE RISING . . .Lik-Rifa, the dragon god of legend, has been freed from her eternal prison. Now she plots a new age of blood and conquest. As Orka continues the hunt for her missing son, the Bloodsworn sweep south in a desperate race to save one of their own - and Varg takes the first steps on the path of vengeance. Elvar has sworn to fulfil her ",
+      "filename": "The Hunger of the Gods -- John Gwynne -- Bloodsworn trilogy 02.epub",
+      "totalWords": 211448,
+      "totalPages": 212,
+      "totalChapters": 89,
+      "sha": "06585a0e0491af10"
     },
     {
       "id": "the-left-hand-of-darkness",
@@ -903,6 +936,17 @@
       "sha": "cd3cc1fb1bbcb119"
     },
     {
+      "id": "the-shadow-of-the-gods",
+      "title": "The Shadow of the Gods",
+      "author": "John Gwynne",
+      "description": "\"A masterfully crafted, brutally compelling Norse-inspired epic.\" &#8212;Anthony Ryan THE GREATEST SAGAS ARE WRITTEN IN BLOOD. A century has passed since the gods fought and drove themselves to extinction. Now only their bones remain, promising great power to those brave enough to seek them out. As whispers of war echo across the land of Vigrid, fate follows in the footsteps of three warriors: a huntress on a dangerous quest, a noblewoman pursuing battle fame, and a thrall seeking vengeance amon",
+      "filename": "The Shadow of the Gods -- John Gwynne -- 2021.epub",
+      "totalWords": 169723,
+      "totalPages": 170,
+      "totalChapters": 62,
+      "sha": "ebf91188912bd4f8"
+    },
+    {
       "id": "the-shadow-of-what-was-lost-the-licanius-trilogy",
       "title": "The Shadow of What Was Lost (The Licanius Trilogy)",
       "author": "James Islington",
@@ -1013,6 +1057,17 @@
       "sha": "4b49d193516976bf"
     },
     {
+      "id": "unseen-academicals",
+      "title": "Unseen Academicals",
+      "author": "Pratchett, Terry",
+      "description": "",
+      "filename": "Unseen Academicals -- Pratchett, Terry -- Discworld 37.mobi",
+      "totalWords": 135731,
+      "totalPages": 136,
+      "totalChapters": 28,
+      "sha": "c38f9febf34d10eb"
+    },
+    {
       "id": "uprooted",
       "title": "Uprooted",
       "author": "Naomi Novik",
@@ -1046,5 +1101,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-10-25T16:08:50.734Z"
+  "updatedAt": "2026-11-07T17:09:17.248Z"
 }

@@ -1,0 +1,215 @@
+{
+  "id": "metamagical-themas",
+  "title": "Metamagical Themas",
+  "author": "Douglas Hofstadter",
+  "description": "",
+  "filename": "Metamagical Themas -- Douglas Hofstadter -- 2012.epub",
+  "totalWords": 353891,
+  "totalPages": 354,
+  "totalChapters": 29,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Chapter 1",
+      "wordCount": 662,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Chapter 2",
+      "wordCount": 1750,
+      "pageCount": 2,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Chapter 3",
+      "wordCount": 3212,
+      "pageCount": 4,
+      "startPage": 4
+    },
+    {
+      "index": 4,
+      "title": "Chapter 4",
+      "wordCount": 209,
+      "pageCount": 1,
+      "startPage": 8
+    },
+    {
+      "index": 5,
+      "title": "Chapter 5",
+      "wordCount": 8017,
+      "pageCount": 9,
+      "startPage": 9
+    },
+    {
+      "index": 6,
+      "title": "Chapter 6",
+      "wordCount": 9665,
+      "pageCount": 10,
+      "startPage": 18
+    },
+    {
+      "index": 7,
+      "title": "Chapter 7",
+      "wordCount": 9147,
+      "pageCount": 10,
+      "startPage": 28
+    },
+    {
+      "index": 8,
+      "title": "Chapter 8",
+      "wordCount": 8496,
+      "pageCount": 9,
+      "startPage": 38
+    },
+    {
+      "index": 9,
+      "title": "Chapter 9",
+      "wordCount": 261,
+      "pageCount": 1,
+      "startPage": 47
+    },
+    {
+      "index": 10,
+      "title": "Chapter 10",
+      "wordCount": 11673,
+      "pageCount": 12,
+      "startPage": 48
+    },
+    {
+      "index": 11,
+      "title": "Chapter 11",
+      "wordCount": 10379,
+      "pageCount": 11,
+      "startPage": 60
+    },
+    {
+      "index": 12,
+      "title": "Chapter 12",
+      "wordCount": 10800,
+      "pageCount": 11,
+      "startPage": 71
+    },
+    {
+      "index": 13,
+      "title": "Chapter 13",
+      "wordCount": 3920,
+      "pageCount": 4,
+      "startPage": 82
+    },
+    {
+      "index": 14,
+      "title": "Chapter 14",
+      "wordCount": 291,
+      "pageCount": 1,
+      "startPage": 86
+    },
+    {
+      "index": 15,
+      "title": "Chapter 15",
+      "wordCount": 7261,
+      "pageCount": 8,
+      "startPage": 87
+    },
+    {
+      "index": 16,
+      "title": "Chapter 16",
+      "wordCount": 7499,
+      "pageCount": 8,
+      "startPage": 95
+    },
+    {
+      "index": 17,
+      "title": "Chapter 17",
+      "wordCount": 6648,
+      "pageCount": 7,
+      "startPage": 103
+    },
+    {
+      "index": 18,
+      "title": "Chapter 18",
+      "wordCount": 11770,
+      "pageCount": 12,
+      "startPage": 110
+    },
+    {
+      "index": 19,
+      "title": "Chapter 19",
+      "wordCount": 14017,
+      "pageCount": 15,
+      "startPage": 122
+    },
+    {
+      "index": 20,
+      "title": "Chapter 20",
+      "wordCount": 251,
+      "pageCount": 1,
+      "startPage": 137
+    },
+    {
+      "index": 21,
+      "title": "Chapter 21",
+      "wordCount": 11508,
+      "pageCount": 12,
+      "startPage": 138
+    },
+    {
+      "index": 22,
+      "title": "Chapter 22",
+      "wordCount": 12890,
+      "pageCount": 13,
+      "startPage": 150
+    },
+    {
+      "index": 23,
+      "title": "Chapter 23",
+      "wordCount": 48882,
+      "pageCount": 49,
+      "startPage": 163
+    },
+    {
+      "index": 24,
+      "title": "Chapter 24",
+      "wordCount": 20063,
+      "pageCount": 21,
+      "startPage": 212
+    },
+    {
+      "index": 25,
+      "title": "Chapter 25",
+      "wordCount": 34342,
+      "pageCount": 35,
+      "startPage": 233
+    },
+    {
+      "index": 26,
+      "title": "Chapter 26",
+      "wordCount": 20452,
+      "pageCount": 21,
+      "startPage": 268
+    },
+    {
+      "index": 27,
+      "title": "Chapter 27",
+      "wordCount": 28444,
+      "pageCount": 29,
+      "startPage": 289
+    },
+    {
+      "index": 28,
+      "title": "Chapter 28",
+      "wordCount": 21647,
+      "pageCount": 22,
+      "startPage": 318
+    },
+    {
+      "index": 29,
+      "title": "Chapter 29",
+      "wordCount": 29735,
+      "pageCount": 30,
+      "startPage": 340
+    }
+  ]
+}

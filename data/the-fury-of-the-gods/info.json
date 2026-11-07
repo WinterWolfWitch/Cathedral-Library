@@ -1,0 +1,740 @@
+{
+  "id": "the-fury-of-the-gods",
+  "title": "The Fury of the Gods",
+  "author": "John Gwynne",
+  "description": "The Fury of the Gods is the earth-shattering final book in John Gwynne's bestselling Norse-inspired epic fantasy series, packed with myth, magic and bloody vengeance. The final battle for the fate of Vigrid approaches... Varg has overcome the trials of his past and become an accepted member of the Bloodsworn, but now he and his newfound comrades face their biggest challenge yet: slaying a dragon. &#160; Elvar is struggling to consolidate her power in Snakavik, where she faces threats from withou",
+  "filename": "The Fury of the Gods -- GWYNNE, JOHN -- Bloodsworn 03, 2024.epub",
+  "totalWords": 176556,
+  "totalPages": 177,
+  "totalChapters": 104,
+  "chapters": [
+    {
+      "index": 1,
+      "title": "Copyright",
+      "wordCount": 279,
+      "pageCount": 1,
+      "startPage": 1
+    },
+    {
+      "index": 2,
+      "title": "Table of Contents",
+      "wordCount": 902,
+      "pageCount": 1,
+      "startPage": 2
+    },
+    {
+      "index": 3,
+      "title": "Dedication",
+      "wordCount": 37,
+      "pageCount": 1,
+      "startPage": 3
+    },
+    {
+      "index": 4,
+      "title": "Pronunciation Guide",
+      "wordCount": 32,
+      "pageCount": 1,
+      "startPage": 4
+    },
+    {
+      "index": 5,
+      "title": "Cast of Characters",
+      "wordCount": 1760,
+      "pageCount": 2,
+      "startPage": 5
+    },
+    {
+      "index": 6,
+      "title": "Norse Titles, Terms and Items",
+      "wordCount": 321,
+      "pageCount": 1,
+      "startPage": 7
+    },
+    {
+      "index": 7,
+      "title": "What Has Gone Before",
+      "wordCount": 2215,
+      "pageCount": 3,
+      "startPage": 8
+    },
+    {
+      "index": 8,
+      "title": "Chapter One: Varg",
+      "wordCount": 2436,
+      "pageCount": 3,
+      "startPage": 11
+    },
+    {
+      "index": 9,
+      "title": "Chapter Two: Guđvarr",
+      "wordCount": 2443,
+      "pageCount": 3,
+      "startPage": 14
+    },
+    {
+      "index": 10,
+      "title": "Chapter Three: Elvar",
+      "wordCount": 2584,
+      "pageCount": 3,
+      "startPage": 17
+    },
+    {
+      "index": 11,
+      "title": "Chapter Four: Orka",
+      "wordCount": 1380,
+      "pageCount": 2,
+      "startPage": 20
+    },
+    {
+      "index": 12,
+      "title": "Chapter Five: Biórr",
+      "wordCount": 1175,
+      "pageCount": 2,
+      "startPage": 22
+    },
+    {
+      "index": 13,
+      "title": "Chapter Six: Varg",
+      "wordCount": 2916,
+      "pageCount": 3,
+      "startPage": 24
+    },
+    {
+      "index": 14,
+      "title": "Chapter Seven: Orka",
+      "wordCount": 2287,
+      "pageCount": 3,
+      "startPage": 27
+    },
+    {
+      "index": 15,
+      "title": "Chapter Eight: Guđvarr",
+      "wordCount": 2617,
+      "pageCount": 3,
+      "startPage": 30
+    },
+    {
+      "index": 16,
+      "title": "Chapter Nine: Elvar",
+      "wordCount": 3992,
+      "pageCount": 4,
+      "startPage": 33
+    },
+    {
+      "index": 17,
+      "title": "Chapter Ten: Varg",
+      "wordCount": 2558,
+      "pageCount": 3,
+      "startPage": 37
+    },
+    {
+      "index": 18,
+      "title": "Chapter Eleven: Biórr",
+      "wordCount": 2487,
+      "pageCount": 3,
+      "startPage": 40
+    },
+    {
+      "index": 19,
+      "title": "Chapter Twelve: Varg",
+      "wordCount": 1525,
+      "pageCount": 2,
+      "startPage": 43
+    },
+    {
+      "index": 20,
+      "title": "Chapter Thirteen: Orka",
+      "wordCount": 1864,
+      "pageCount": 2,
+      "startPage": 45
+    },
+    {
+      "index": 21,
+      "title": "Chapter Fourteen: Varg",
+      "wordCount": 1477,
+      "pageCount": 2,
+      "startPage": 47
+    },
+    {
+      "index": 22,
+      "title": "Chapter Fifteen: Orka",
+      "wordCount": 995,
+      "pageCount": 1,
+      "startPage": 49
+    },
+    {
+      "index": 23,
+      "title": "Chapter Sixteen: Biórr",
+      "wordCount": 1889,
+      "pageCount": 2,
+      "startPage": 50
+    },
+    {
+      "index": 24,
+      "title": "Chapter Seventeen: Orka",
+      "wordCount": 2440,
+      "pageCount": 3,
+      "startPage": 52
+    },
+    {
+      "index": 25,
+      "title": "Chapter Eighteen: Guđvarr",
+      "wordCount": 1464,
+      "pageCount": 2,
+      "startPage": 55
+    },
+    {
+      "index": 26,
+      "title": "Chapter Nineteen: Elvar",
+      "wordCount": 2239,
+      "pageCount": 3,
+      "startPage": 57
+    },
+    {
+      "index": 27,
+      "title": "Chapter Twenty: Guđvarr",
+      "wordCount": 2237,
+      "pageCount": 3,
+      "startPage": 60
+    },
+    {
+      "index": 28,
+      "title": "Chapter Twenty-One: Varg",
+      "wordCount": 1606,
+      "pageCount": 2,
+      "startPage": 63
+    },
+    {
+      "index": 29,
+      "title": "Chapter Twenty-Two: Orka",
+      "wordCount": 2581,
+      "pageCount": 3,
+      "startPage": 65
+    },
+    {
+      "index": 30,
+      "title": "Chapter Twenty-Three: Elvar",
+      "wordCount": 2616,
+      "pageCount": 3,
+      "startPage": 68
+    },
+    {
+      "index": 31,
+      "title": "Chapter Twenty-Four: Biórr",
+      "wordCount": 2065,
+      "pageCount": 3,
+      "startPage": 71
+    },
+    {
+      "index": 32,
+      "title": "Chapter Twenty-Five: Varg",
+      "wordCount": 2380,
+      "pageCount": 3,
+      "startPage": 74
+    },
+    {
+      "index": 33,
+      "title": "Chapter Twenty-Six: Orka",
+      "wordCount": 2040,
+      "pageCount": 3,
+      "startPage": 77
+    },
+    {
+      "index": 34,
+      "title": "Chapter Twenty-Seven: Varg",
+      "wordCount": 3209,
+      "pageCount": 4,
+      "startPage": 80
+    },
+    {
+      "index": 35,
+      "title": "Chapter Twenty-Eight: Orka",
+      "wordCount": 2729,
+      "pageCount": 3,
+      "startPage": 84
+    },
+    {
+      "index": 36,
+      "title": "Chapter Twenty-Nine: Varg",
+      "wordCount": 1303,
+      "pageCount": 2,
+      "startPage": 87
+    },
+    {
+      "index": 37,
+      "title": "Chapter Thirty: Orka",
+      "wordCount": 1925,
+      "pageCount": 2,
+      "startPage": 89
+    },
+    {
+      "index": 38,
+      "title": "Chapter Thirty-One: Guđvarr",
+      "wordCount": 2310,
+      "pageCount": 3,
+      "startPage": 91
+    },
+    {
+      "index": 39,
+      "title": "Chapter Thirty-Two: Orka",
+      "wordCount": 2548,
+      "pageCount": 3,
+      "startPage": 94
+    },
+    {
+      "index": 40,
+      "title": "Chapter Thirty-Three: Elvar",
+      "wordCount": 2516,
+      "pageCount": 3,
+      "startPage": 97
+    },
+    {
+      "index": 41,
+      "title": "Chapter Thirty-Four: Guđvarr",
+      "wordCount": 3010,
+      "pageCount": 4,
+      "startPage": 100
+    },
+    {
+      "index": 42,
+      "title": "Chapter Thirty-Five: Elvar",
+      "wordCount": 1692,
+      "pageCount": 2,
+      "startPage": 104
+    },
+    {
+      "index": 43,
+      "title": "Chapter Thirty-Six: Biórr",
+      "wordCount": 1757,
+      "pageCount": 2,
+      "startPage": 106
+    },
+    {
+      "index": 44,
+      "title": "Chapter Thirty-Seven: Varg",
+      "wordCount": 2221,
+      "pageCount": 3,
+      "startPage": 108
+    },
+    {
+      "index": 45,
+      "title": "Chapter Thirty-Eight: Elvar",
+      "wordCount": 2211,
+      "pageCount": 3,
+      "startPage": 111
+    },
+    {
+      "index": 46,
+      "title": "Chapter Thirty-Nine: Orka",
+      "wordCount": 1399,
+      "pageCount": 2,
+      "startPage": 114
+    },
+    {
+      "index": 47,
+      "title": "Chapter Forty: Elvar",
+      "wordCount": 2031,
+      "pageCount": 3,
+      "startPage": 116
+    },
+    {
+      "index": 48,
+      "title": "Chapter Forty-One: Biórr",
+      "wordCount": 1704,
+      "pageCount": 2,
+      "startPage": 119
+    },
+    {
+      "index": 49,
+      "title": "Chapter Forty-Two: Varg",
+      "wordCount": 2132,
+      "pageCount": 3,
+      "startPage": 121
+    },
+    {
+      "index": 50,
+      "title": "Chapter Forty-Three: Orka",
+      "wordCount": 994,
+      "pageCount": 1,
+      "startPage": 124
+    },
+    {
+      "index": 51,
+      "title": "Chapter Forty-Four: Elvar",
+      "wordCount": 2180,
+      "pageCount": 3,
+      "startPage": 125
+    },
+    {
+      "index": 52,
+      "title": "Chapter Forty-Five: Guđvarr",
+      "wordCount": 1948,
+      "pageCount": 2,
+      "startPage": 128
+    },
+    {
+      "index": 53,
+      "title": "Chapter Forty-Six: Orka",
+      "wordCount": 1669,
+      "pageCount": 2,
+      "startPage": 130
+    },
+    {
+      "index": 54,
+      "title": "Chapter Forty-Seven: Guđvarr",
+      "wordCount": 2355,
+      "pageCount": 3,
+      "startPage": 132
+    },
+    {
+      "index": 55,
+      "title": "Chapter Forty-Eight: Varg",
+      "wordCount": 1967,
+      "pageCount": 2,
+      "startPage": 135
+    },
+    {
+      "index": 56,
+      "title": "Chapter Forty-Nine: Elvar",
+      "wordCount": 1257,
+      "pageCount": 2,
+      "startPage": 137
+    },
+    {
+      "index": 57,
+      "title": "Chapter Fifty: Biórr",
+      "wordCount": 1979,
+      "pageCount": 2,
+      "startPage": 139
+    },
+    {
+      "index": 58,
+      "title": "Chapter Fifty-One: Elvar",
+      "wordCount": 2678,
+      "pageCount": 3,
+      "startPage": 141
+    },
+    {
+      "index": 59,
+      "title": "Chapter Fifty-Two: Orka",
+      "wordCount": 2689,
+      "pageCount": 3,
+      "startPage": 144
+    },
+    {
+      "index": 60,
+      "title": "Chapter Fifty-Three: Biórr",
+      "wordCount": 1521,
+      "pageCount": 2,
+      "startPage": 147
+    },
+    {
+      "index": 61,
+      "title": "Chapter Fifty-Four: Elvar",
+      "wordCount": 3023,
+      "pageCount": 4,
+      "startPage": 149
+    },
+    {
+      "index": 62,
+      "title": "Chapter Fifty-Five: Guđvarr",
+      "wordCount": 1506,
+      "pageCount": 2,
+      "startPage": 153
+    },
+    {
+      "index": 63,
+      "title": "Chapter Fifty-Six: Varg",
+      "wordCount": 2921,
+      "pageCount": 3,
+      "startPage": 155
+    },
+    {
+      "index": 64,
+      "title": "Chapter Fifty-Seven: Guđvarr",
+      "wordCount": 679,
+      "pageCount": 1,
+      "startPage": 158
+    },
+    {
+      "index": 65,
+      "title": "Chapter Fifty-Eight: Orka",
+      "wordCount": 1429,
+      "pageCount": 2,
+      "startPage": 159
+    },
+    {
+      "index": 66,
+      "title": "Chapter Fifty-Nine: Guđvarr",
+      "wordCount": 1624,
+      "pageCount": 2,
+      "startPage": 161
+    },
+    {
+      "index": 67,
+      "title": "Chapter Sixty: Elvar",
+      "wordCount": 1862,
+      "pageCount": 2,
+      "startPage": 163
+    },
+    {
+      "index": 68,
+      "title": "Chapter Sixty-One: Varg",
+      "wordCount": 1181,
+      "pageCount": 2,
+      "startPage": 165
+    },
+    {
+      "index": 69,
+      "title": "Chapter Sixty-Two: Orka",
+      "wordCount": 1570,
+      "pageCount": 2,
+      "startPage": 167
+    },
+    {
+      "index": 70,
+      "title": "Chapter Sixty-Three: Elvar",
+      "wordCount": 1314,
+      "pageCount": 2,
+      "startPage": 169
+    },
+    {
+      "index": 71,
+      "title": "Chapter Sixty-Four: Biórr",
+      "wordCount": 1499,
+      "pageCount": 2,
+      "startPage": 171
+    },
+    {
+      "index": 72,
+      "title": "Chapter Sixty-Five: Elvar",
+      "wordCount": 1376,
+      "pageCount": 2,
+      "startPage": 173
+    },
+    {
+      "index": 73,
+      "title": "Chapter Sixty-Six: Biórr",
+      "wordCount": 853,
+      "pageCount": 1,
+      "startPage": 175
+    },
+    {
+      "index": 74,
+      "title": "Chapter Sixty-Seven: Elvar",
+      "wordCount": 1354,
+      "pageCount": 2,
+      "startPage": 176
+    },
+    {
+      "index": 75,
+      "title": "Chapter Sixty-Eight: Varg",
+      "wordCount": 1253,
+      "pageCount": 2,
+      "startPage": 178
+    },
+    {
+      "index": 76,
+      "title": "Chapter Sixty-Nine: Biórr",
+      "wordCount": 1449,
+      "pageCount": 2,
+      "startPage": 180
+    },
+    {
+      "index": 77,
+      "title": "Chapter Seventy: Orka",
+      "wordCount": 1323,
+      "pageCount": 2,
+      "startPage": 182
+    },
+    {
+      "index": 78,
+      "title": "Chapter Seventy-One: Guđvarr",
+      "wordCount": 1552,
+      "pageCount": 2,
+      "startPage": 184
+    },
+    {
+      "index": 79,
+      "title": "Chapter Seventy-Two: Orka",
+      "wordCount": 1306,
+      "pageCount": 2,
+      "startPage": 186
+    },
+    {
+      "index": 80,
+      "title": "Chapter Seventy-Three: Varg",
+      "wordCount": 1794,
+      "pageCount": 2,
+      "startPage": 188
+    },
+    {
+      "index": 81,
+      "title": "Chapter Seventy-Four: Orka",
+      "wordCount": 2099,
+      "pageCount": 3,
+      "startPage": 190
+    },
+    {
+      "index": 82,
+      "title": "Chapter Seventy-Five: Varg",
+      "wordCount": 1251,
+      "pageCount": 2,
+      "startPage": 193
+    },
+    {
+      "index": 83,
+      "title": "Chapter Seventy-Six: Orka",
+      "wordCount": 792,
+      "pageCount": 1,
+      "startPage": 195
+    },
+    {
+      "index": 84,
+      "title": "Chapter Seventy-Seven: Varg",
+      "wordCount": 1573,
+      "pageCount": 2,
+      "startPage": 196
+    },
+    {
+      "index": 85,
+      "title": "Chapter Seventy-Eight: Guđvarr",
+      "wordCount": 1120,
+      "pageCount": 2,
+      "startPage": 198
+    },
+    {
+      "index": 86,
+      "title": "Chapter Seventy-Nine: Varg",
+      "wordCount": 1519,
+      "pageCount": 2,
+      "startPage": 200
+    },
+    {
+      "index": 87,
+      "title": "Chapter Eighty: Biórr",
+      "wordCount": 2456,
+      "pageCount": 3,
+      "startPage": 202
+    },
+    {
+      "index": 88,
+      "title": "Chapter Eighty-One: Varg",
+      "wordCount": 1253,
+      "pageCount": 2,
+      "startPage": 205
+    },
+    {
+      "index": 89,
+      "title": "Chapter Eighty-Two: Guđvarr",
+      "wordCount": 1201,
+      "pageCount": 2,
+      "startPage": 207
+    },
+    {
+      "index": 90,
+      "title": "Chapter Eighty-Three: Orka",
+      "wordCount": 618,
+      "pageCount": 1,
+      "startPage": 209
+    },
+    {
+      "index": 91,
+      "title": "Chapter Eighty-Four: Varg",
+      "wordCount": 1544,
+      "pageCount": 2,
+      "startPage": 210
+    },
+    {
+      "index": 92,
+      "title": "Chapter Eighty-Five: Guđvarr",
+      "wordCount": 847,
+      "pageCount": 1,
+      "startPage": 212
+    },
+    {
+      "index": 93,
+      "title": "Chapter Eighty-Six: Orka",
+      "wordCount": 1233,
+      "pageCount": 2,
+      "startPage": 213
+    },
+    {
+      "index": 94,
+      "title": "Chapter Eighty-Seven: Biórr",
+      "wordCount": 1393,
+      "pageCount": 2,
+      "startPage": 215
+    },
+    {
+      "index": 95,
+      "title": "Chapter Eighty-Eight: Orka",
+      "wordCount": 619,
+      "pageCount": 1,
+      "startPage": 217
+    },
+    {
+      "index": 96,
+      "title": "Chapter Eighty-Nine: Varg",
+      "wordCount": 1134,
+      "pageCount": 2,
+      "startPage": 218
+    },
+    {
+      "index": 97,
+      "title": "Chapter Ninety: Orka",
+      "wordCount": 1911,
+      "pageCount": 2,
+      "startPage": 220
+    },
+    {
+      "index": 98,
+      "title": "Chapter Ninety-One: Orka",
+      "wordCount": 876,
+      "pageCount": 1,
+      "startPage": 222
+    },
+    {
+      "index": 99,
+      "title": "Chapter Ninety-Two: Varg",
+      "wordCount": 1198,
+      "pageCount": 2,
+      "startPage": 223
+    },
+    {
+      "index": 100,
+      "title": "Acknowledgements",
+      "wordCount": 456,
+      "pageCount": 1,
+      "startPage": 225
+    },
+    {
+      "index": 101,
+      "title": "Meet the Author",
+      "wordCount": 98,
+      "pageCount": 1,
+      "startPage": 226
+    },
+    {
+      "index": 102,
+      "title": "A Preview of \"Malice\"",
+      "wordCount": 2419,
+      "pageCount": 3,
+      "startPage": 227
+    },
+    {
+      "index": 103,
+      "title": "Also by John Gwynne",
+      "wordCount": 55,
+      "pageCount": 1,
+      "startPage": 230
+    },
+    {
+      "index": 104,
+      "title": "Praise for John Gwynne and The Bloodsworn Trilogy",
+      "wordCount": 250,
+      "pageCount": 1,
+      "startPage": 231
+    }
+  ]
+}
