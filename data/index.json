@@ -232,6 +232,17 @@
       "sha": "b32666e1fb7c7949"
     },
     {
+      "id": "discworld-1-5-the-colour-of-magic-the-light-fantastic-equal-rites-mort-sourcery",
+      "title": "Discworld 1-5: The Colour of Magic, The Light Fantastic, Equal Rites, Mort, Sourcery",
+      "author": "Terry Pratchett",
+      "description": "",
+      "filename": "Discworld 01-05 -- Pratchett, Terry --.pdf",
+      "totalWords": 350012,
+      "totalPages": 351,
+      "totalChapters": 71,
+      "sha": "32d22771383aab4d"
+    },
+    {
       "id": "does-god-play-dice-the-new-mathematics-of-chaos",
       "title": "Does God Play Dice?: The New Mathematics of Chaos",
       "author": "Ian Stewart",
@@ -1101,5 +1112,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-11-07T17:09:17.248Z"
+  "updatedAt": "2026-11-07T22:03:49.209Z"
 }
