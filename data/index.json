@@ -331,6 +331,17 @@
       "sha": "aa818119c317ebbe"
     },
     {
+      "id": "flowers-for-algernon",
+      "title": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "description": "Charlie Gordon, IQ 68, is a floor sweeper and the gentle butt of everyone's jokes - until an experiment in the enhancement of human intelligence turns him into a genius. But then Algernon, the mouse whose triumphal experimental transformation preceded his, fades and dies, and Charlie has to face the possibility that his salvation was only temporary. Winner of the 1960 Hugo Award for Best Short Story, and subsequently expanded into a Hugo-nominated novel, Flowers for Algernon earned Daniel Keyes ",
+      "filename": "Flowers for Algernon -- Daniel Keyes.epub",
+      "totalWords": 85922,
+      "totalPages": 86,
+      "totalChapters": 8,
+      "sha": "747f620740d78639"
+    },
+    {
       "id": "forward-the-foundation",
       "title": "Forward the Foundation",
       "author": "Asimov, Isaac",
@@ -1112,5 +1123,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-11-07T22:03:49.209Z"
+  "updatedAt": "2026-11-07T22:17:15.081Z"
 }
