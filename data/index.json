@@ -101,10 +101,10 @@
     },
     {
       "id": "abendau-s-legacy-the-inheritance-trilogy-book-3",
-      "title": "Abendau's Legacy (The Inheritance Trilogy Book 3)",
-      "author": "Jo Zebedee",
+      "title": "Abendau's Legacy --The Inheritance Trilogy Book 3",
+      "author": "Unknown",
       "description": "",
-      "filename": "Abendau's Legacy (The Inheritance Trilogy Book 3) -- Jo Zebedee -- 2016 -- Tickety Boo Press -- 716214e7bdaa1c2f2814d92164e1651c -- Anna’s Archive.azw3",
+      "filename": "Abendau's Legacy --The Inheritance Trilogy Book 3.azw3",
       "totalWords": 89539,
       "totalPages": 90,
       "totalChapters": 18,
@@ -892,6 +892,17 @@
       "sha": "64e8da2f7f456b6e"
     },
     {
+      "id": "the-mists-of-avalon",
+      "title": "The Mists of Avalon",
+      "author": "Marion Zimmer Bradley",
+      "description": "",
+      "filename": "The Mists of Avalon -- Bradley, Marion Zimme.epub",
+      "totalWords": 441534,
+      "totalPages": 442,
+      "totalChapters": 1,
+      "sha": "b3e5693e045fbfe2"
+    },
+    {
       "id": "the-mountain-in-the-sea",
       "title": "The Mountain in the Sea",
       "author": "Ray Nayler",
@@ -1123,5 +1134,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-11-18T23:53:53.583Z"
+  "updatedAt": "2026-11-19T08:48:27.440Z"
 }
