@@ -683,6 +683,17 @@
       "sha": "3e1cffc95f208e4b"
     },
     {
+      "id": "the-calamity-club",
+      "title": "The Calamity Club",
+      "author": "Kathryn Stockett",
+      "description": "The multimillion-copy-selling author of The Help returns with a bold, big-hearted novel about a group of unbreakable women, fighting for what's rightfully theirs&#8212;and the power of friendship to change everything. \"A must-read.\"&#8212;Bonnie Garmus, author of Lessons in Chemistry Oxford, Mississippi, 1933. Abandoned by her mother one Christmas Eve, eleven-year-old Meg Lefleur has learned the hard way to rely on no one. Now one of the unadoptable &#34;big girls&#34; at the Lafayette County Or",
+      "filename": "The Calamity Club Kathryn Stockett.epub",
+      "totalWords": 255729,
+      "totalPages": 256,
+      "totalChapters": 54,
+      "sha": "60e9cd8b52102828"
+    },
+    {
       "id": "the-daughter-of-time",
       "title": "The Daughter Of Time,",
       "author": "Josephine Tey",
@@ -1134,5 +1145,5 @@
       "sha": "1e53f6e0071c06d2"
     }
   ],
-  "updatedAt": "2026-11-19T08:48:27.440Z"
+  "updatedAt": "2026-11-25T09:45:59.340Z"
 }
